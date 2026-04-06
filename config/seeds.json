@@ -1,0 +1,15 @@
+{
+  "comment": "与 important10.json 同步：构建站点 / 语音讲解时的种子列表",
+  "arks": [
+    { "arkId": "cl010062370", "comment": "蒙娜丽莎" },
+    { "arkId": "cl010277627", "comment": "米洛的维纳斯" },
+    { "arkId": "cl010252531", "comment": "萨莫色雷斯的胜利女神" },
+    { "arkId": "cl010174436", "comment": "汉谟拉比法典" },
+    { "arkId": "cl010104741", "comment": "普赛克与爱神之吻（卡诺瓦）" },
+    { "arkId": "cl010065872", "comment": "自由引导人民" },
+    { "arkId": "cl020014357", "comment": "拿破仑一世加冕礼" },
+    { "arkId": "cl010059199", "comment": "梅杜萨之筏" },
+    { "arkId": "cl010064382", "comment": "加纳的婚礼" },
+    { "arkId": "cl010091872", "comment": "垂死的奴隶" }
+  ]
+}

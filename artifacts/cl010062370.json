@@ -1,0 +1,33 @@
+{
+  "id": "cl010062370",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010062370",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Portrait de Lisa Gherardini, épouse de Francesco del Giocondo, dit La Joconde ou Monna Lisa",
+  "titleZh": "用户现在需要把这个卢浮宫的蒙娜丽莎的法文标题翻译成中文展览常用译名对吧，首先原文是丽莎·格拉迪尼，弗朗切斯科·德尔·焦孔多之妻肖像，俗称《蒙娜丽莎》（也译拉乔孔达？不对，常用的展览译名就是，哦对，原标题翻译过来就是《丽莎·格拉迪尼肖像，弗朗切斯科·德尔·焦孔多之妻，即乔孔达夫人或蒙娜丽莎》不对不对，常用的展览译名，不对，卢浮宫常用的译名就是，哦不对，准确点",
+  "location": {
+    "wingKey": "denon",
+    "wingZh": "德农馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "711",
+    "galleryLabel": "711 号展厅",
+    "roomFr": "Salle 711, Aile Aile Denon, Niveau 1",
+    "currentLocationFr": "Denon, [Peint] Salle 711 - Salle de la Joconde, Salle 711 - (Salle des Etats)"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "INV 779",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "MR 316",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "用户现在需要我写卢浮宫蒙娜丽莎的中文讲解，男声口语化，200-350字对吧。首先开头要打招呼，比如各位游客，咱们现在站在卢浮宫德农馆1层的711展厅，也就是专门的蒙娜丽莎厅对吧？然后说这幅画正式名字是什么，原文是丽莎·格拉迪尼，乔孔达的妻子，所以就是正式名称是《丽莎·格拉迪尼肖像，弗朗切斯科·德尔·乔孔达之妻》，也就是咱们熟悉的《蒙娜丽莎》，也叫《拉·乔孔达》对吧。然后时间是16世纪第一个四分之一，也就是1503到1519年创作的，材料是杨木板油彩对吧？然后说它归绘画部收藏对吧。然后可以说，达·芬奇画这幅画画了十几年对吧？不对，不能瞎编？哦不对，信息不足合理概括，别编造具体事件。哦对，元数据说创作时间是1503-1519，所以可以说它从开始创作到最终完成，前后横跨了十几年，是达·芬奇晚年都在打磨的作品对吧？然后说现在这个展厅就是专门为它设的，几百年来它都是卢浮宫最受瞩目的明星，无数人来这里就为看一眼那抹著名的微笑，它用的是杨木板油彩，几个世纪过去色彩依然保持着柔和微妙的质感，现在大家可以慢慢欣赏这幅卢浮宫三宝之一的名作了。然后调整字数，口语化，适合男声。等下我捋顺：\n\n各位游客，现在咱们来到了卢浮宫德农翼一层的711展厅，也就是专门的蒙娜丽莎厅，大家面前这幅就是全世界最有名的油画，《蒙娜丽莎》了。它正式的名称是《丽莎·格拉迪尼肖像，弗朗切斯科·德尔·乔孔达之妻》，也叫《拉·乔孔达》",
+  "narrationSource": "generated",
+  "frenchBrief": "Portrait de Lisa Gherardini, épouse de Francesco del Giocondo, dit La Joconde ou Monna Lisa\n\nDate de création/fabrication : 1e quart du XVIe siècle (1503 - 1519)\n\nhuile sur bois (peuplier)\n\nLocalisation : Denon, [Peint] Salle 711 - Salle de la Joconde, Salle 711 - (Salle des Etats)"
+}

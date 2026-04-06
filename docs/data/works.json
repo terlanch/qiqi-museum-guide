@@ -1,0 +1,287 @@
+{
+  "generatedAt": "2026-04-06T12:53:09Z",
+  "works": [
+    {
+      "id": "cl010062370",
+      "titleZh": "用户现在需要把这个卢浮宫的蒙娜丽莎的法文标题翻译成中文展览常用译名对吧，首先原文是丽莎·格拉迪尼，弗朗切斯科·德尔·焦孔多之妻肖像，俗称《蒙娜丽莎》（也译拉乔孔达？不对，常用的展览译名就是，哦对，原标题翻译过来就是《丽莎·格拉迪尼肖像，弗朗切斯科·德尔·焦孔多之妻，即乔孔达夫人或蒙娜丽莎》不对不对，常用的展览译名，不对，卢浮宫常用的译名就是，哦不对，准确点",
+      "titleFr": "Portrait de Lisa Gherardini, épouse de Francesco del Giocondo, dit La Joconde ou Monna Lisa",
+      "wingKey": "denon",
+      "wingZh": "德农馆",
+      "floor": "1",
+      "floorLabel": "1 层",
+      "gallery": "711",
+      "galleryLabel": "711 号展厅",
+      "collectionFr": "Département des Peintures",
+      "inventory": [
+        {
+          "value": "INV 779",
+          "type": "Numéro principal"
+        },
+        {
+          "value": "MR 316",
+          "type": "Autre numéro d'inventaire"
+        }
+      ],
+      "nameSearch": "用户现在需要把这个卢浮宫的蒙娜丽莎的法文标题翻译成中文展览常用译名对吧，首先原文是丽莎·格拉迪尼，弗朗切斯科·德尔·焦孔多之妻肖像，俗称《蒙娜丽莎》（也译拉乔孔达？不对，常用的展览译名就是，哦对，原标题翻译过来就是《丽莎·格拉迪尼肖像，弗朗切斯科·德尔·焦孔多之妻，即乔孔达夫人或蒙娜丽莎》不对不对，常用的展览译名，不对，卢浮宫常用的译名就是，哦不对，准确点portraitdelisagherardini,épousedefrancescodelgiocondo,ditlajocondeoumonnalisa",
+      "inventorySearch": "316 779 inv inv779 mr mr316",
+      "narrationPreview": "用户现在需要我写卢浮宫蒙娜丽莎的中文讲解，男声口语化，200-350字对吧。首先开头要打招呼，比如各位游客，咱们现在站在卢浮宫德农馆1层的711展厅，也就是专门的蒙娜丽莎厅对吧？然后说这幅画正式名字是什么，原文是丽莎·格拉迪尼，乔孔达的妻子，所以就是正式名称是《丽莎·格拉迪尼肖像，弗朗切斯科·德尔·乔孔达之妻》，也就是咱们熟悉的《蒙娜丽莎》，也叫《拉·乔孔达》对吧。然后时间是16世纪第一个四分之一，也就是1503到1519年创作的，材料是杨木板油彩对吧？然后说它归绘画部收藏对吧。然后可以说，达·芬奇画这幅画画了十几年对吧？不对，不能瞎编？哦不对，信息不足合理概括，别编造具体事件。哦对，元数据说创作时间是1503-1519，所以可以说…",
+      "audio": "audio/cl010062370.mp3",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010062370"
+    },
+    {
+      "id": "cl010277627",
+      "titleZh": "用户现在需要把卢浮宫的Vénus de Milo翻译成常用的展览译名，就是米洛斯的维纳斯对吧？对，就是这个，常用的就是这个，直接输出就行。",
+      "titleFr": "Vénus de Milo",
+      "wingKey": "sully",
+      "wingZh": "叙利馆",
+      "floor": "0",
+      "floorLabel": "0 层",
+      "gallery": "345",
+      "galleryLabel": "345 号展厅",
+      "collectionFr": "Département des Antiquités grecques, étrusques et romaines",
+      "inventory": [
+        {
+          "value": "LL 299",
+          "type": "Numéro d'entrée"
+        },
+        {
+          "value": "N 527",
+          "type": "Autre numéro d'inventaire"
+        },
+        {
+          "value": "Ma 399",
+          "type": "Numéro catalogue"
+        }
+      ],
+      "nameSearch": "用户现在需要把卢浮宫的vénusdemilo翻译成常用的展览译名，就是米洛斯的维纳斯对吧？对，就是这个，常用的就是这个，直接输出就行。vénusdemilo",
+      "inventorySearch": "299 399 527 ll ll299 ma ma399 n527",
+      "narrationPreview": "用户现在需要把卢浮宫的米洛的维纳斯法文介绍翻译成自然口语的中文讲解员讲稿，男声，口语化，四百五以内，常见译名。首先开头就是“各位现在看到的，就是卢浮宫三宝之一的《米洛的维纳斯》，也叫《断臂的维纳斯》对不对？”然后说年代，是希腊化时期的作品，创作时间大概是公元前二世纪中后期，也就是公元前150到前125年左右。然后材料，用的是帕罗斯岛的优质大理石，是圆雕作品，原本是分两段雕好，在腰部位置拼接起来的。大家看缺了手臂，其实左胳膊本来是后接上的，现在能看到当年留的榫眼。另外原本还有青铜做的配饰，额头这里留了打孔的痕迹，本来是嵌王冠，右胳膊本来也有镯子的。然后说形象，阿芙洛狄忒也就是我们说的维纳斯，头发束起来打了发带挽成发髻，半裸着身体，衣料…",
+      "audio": "audio/cl010277627.mp3",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010277627"
+    },
+    {
+      "id": "cl010252531",
+      "titleZh": "用户现在需要把卢浮宫的这个Victoire de Samothrace翻译成中文展览常用译名，就是萨莫色雷斯的胜利女神对吧？对，这个就是常用的译名，直接输出就行。",
+      "titleFr": "Victoire de Samothrace",
+      "wingKey": "denon",
+      "wingZh": "德农馆",
+      "floor": "1",
+      "floorLabel": "1 层",
+      "gallery": "703",
+      "galleryLabel": "703 号展厅",
+      "collectionFr": "Département des Antiquités grecques, étrusques et romaines",
+      "inventory": [
+        {
+          "value": "NIII 2447",
+          "type": "Numéro d'entrée"
+        },
+        {
+          "value": "MNB 2118",
+          "type": "Numéro d'entrée"
+        },
+        {
+          "value": "MNC 1433",
+          "type": "Numéro d'entrée"
+        },
+        {
+          "value": "Ma 2369",
+          "type": "Numéro catalogue"
+        }
+      ],
+      "nameSearch": "用户现在需要把卢浮宫的这个victoiredesamothrace翻译成中文展览常用译名，就是萨莫色雷斯的胜利女神对吧？对，这个就是常用的译名，直接输出就行。victoiredesamothrace",
+      "inventorySearch": "1433 2118 2369 2447 ma ma2369 mnb mnb2118 mnc mnc1433 niii niii2447",
+      "narrationPreview": "用户现在需要把这个萨摩色雷斯胜利女神的法语文本改成自然口语化的中文讲解稿，男声朗读，卢浮宫的，控制450字以内对吧。首先开头，就是各位游客，现在我们看到的就是卢浮宫三大镇馆之宝之一的《萨摩色雷斯的胜利女神》对吧？不对，常见译名是《萨摩色雷斯的尼凯》？不对，一般都叫《萨摩色雷斯的胜利女神》对，然后时代是希腊化时期，创作时间是公元前2世纪上半叶，也就是公元前200到前175年左右。然后材质，雕像本身是帕罗斯岛大理石，船形底座和基座是拉托斯岛大理石，是圆雕作品，当初雕像的胸像、翅膀都是分开雕刻再拼起来的，衣褶还有不少部分也是后拼的。然后现在雕像的保存情况呢？很可惜，我们现在看不到她的头部、颈部、双臂，还有胸部左半侧后侧、右翼、右脚、左小腿…",
+      "audio": "audio/cl010252531.mp3",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010252531"
+    },
+    {
+      "id": "cl010174436",
+      "titleZh": "用户现在需要把Code de Hammurabi翻译成卢浮宫常用的中文展览译名，就是汉谟拉比法典对吧？对，没错，这个就是标准译名，直接输出就行。",
+      "titleFr": "Code de Hammurabi",
+      "wingKey": "richelieu",
+      "wingZh": "黎塞留馆",
+      "floor": "0",
+      "floorLabel": "0 层",
+      "gallery": "227",
+      "galleryLabel": "227 号展厅",
+      "collectionFr": "Département des Antiquités orientales",
+      "inventory": [
+        {
+          "value": "SB 8",
+          "type": "Numéro principal"
+        },
+        {
+          "value": "AS 6064",
+          "type": "Autre numéro d'inventaire"
+        },
+        {
+          "value": "PEZARD ET POTTIER 8",
+          "type": "Numéro catalogue"
+        }
+      ],
+      "nameSearch": "用户现在需要把codedehammurabi翻译成卢浮宫常用的中文展览译名，就是汉谟拉比法典对吧？对，没错，这个就是标准译名，直接输出就行。codedehammurabi",
+      "inventorySearch": "6064 as as6064 et pezard pezardetpottier8 pottier sb sb8",
+      "narrationPreview": "用户现在需要把汉谟拉比法典的法语文本翻译成自然口语化的中文讲解稿，男声，适合博物馆，450字以内对吧。首先开头先介绍，各位观众现在看到的就是闻名世界的《汉谟拉比法典》石柱对吧？然后年代，它诞生于古巴比伦第一王朝，正是汉谟拉比统治时期，也就是公元前1792到公元前1750年，没错。然后材质，这块法典是玄武岩雕刻而成的，整体是圆雕造型，柱头部分是浅浮雕，柱身还刻满了铭文哦。然后说雕刻的内容，柱头的浮雕场景很有意思：上面坐着的是正义之神沙马什，他端坐宝座，向汉谟拉比授予象征权力的权杖与环饰；站着的巴比伦国王汉谟拉比，蓄着胡须，穿着单肩露臂的朝服，头戴宽边高帽，姿态庄重。整个浮雕场景，其实是在说汉谟拉比的王权和法典是神授予的，从法理上给他的…",
+      "audio": "audio/cl010174436.mp3",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010174436"
+    },
+    {
+      "id": "cl010104741",
+      "titleZh": "用户现在需要把这个卢浮宫藏品法文标题译成常用中文展览译名，首先分解一下：Plaque ovale是椭圆形饰板，encadrée是带框的，paysage是风景，avec un Chinois就是有一个中国人。所以整理成展览常用的，就是带框椭圆形饰板：有中国人的风景？不对，调一下语序，展览常用的，应该是带框椭圆形饰板：中国人风景？不对，哦，不对，应该是带框椭圆形饰板：绘有中国人的风景？不对，再理：Pl",
+      "titleFr": "Plaque ovale encadrée : paysage avec un Chinois",
+      "wingKey": "unknown",
+      "wingZh": "馆区未识别",
+      "floor": "",
+      "floorLabel": "",
+      "gallery": "",
+      "galleryLabel": "",
+      "collectionFr": "Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes",
+      "inventory": [
+        {
+          "value": "OA 1495",
+          "type": "Numéro principal"
+        }
+      ],
+      "nameSearch": "用户现在需要把这个卢浮宫藏品法文标题译成常用中文展览译名，首先分解一下：plaqueovale是椭圆形饰板，encadrée是带框的，paysage是风景，avecunchinois就是有一个中国人。所以整理成展览常用的，就是带框椭圆形饰板：有中国人的风景？不对，调一下语序，展览常用的，应该是带框椭圆形饰板：中国人风景？不对，哦，不对，应该是带框椭圆形饰板：绘有中国人的风景？不对，再理：plplaqueovaleencadrée:paysageavecunchinois",
+      "inventorySearch": "1495 oa oa1495",
+      "narrationPreview": "用户现在需要把这个卢浮宫的法语文本改成自然口语化的中文博物馆讲解，男声适合，450以内，常见译名对吧。首先开头要自然，比如“各位朋友现在看到的这件作品，是椭圆形镶板瓷画《风景里的中国人》”，然后说创作时间，17世纪也就是1600到1700年间的，材质是锡釉陶，哦不对，马约利卡锡釉陶对吧？maiolica就是马约利卡陶，也就是锡釉彩陶，对，说材质：它的材质是陶瓷，具体是马约利卡锡釉陶，这种陶器在文艺复兴前后的欧洲很流行，色彩鲜亮很适合做装饰画。然后讲画面内容：画面本身很有意思，画的是一片风景，前景位置站着一位中国人，这位中国人手里还握着一支长长的号角。然后说位置？不对哦原文本说现在藏在法国奥尔良美术馆对吧？哦原文本里的localisa…",
+      "audio": "audio/cl010104741.mp3",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010104741"
+    },
+    {
+      "id": "cl010065872",
+      "titleZh": "用户现在需要把这个卢浮宫的法文标题翻译成展览常用的中文译名，首先这个就是《自由引导人民》对吧？不对前面还有日期1830年7月28日，哦对，完整的就是1830年7月28日：自由引导人民？不对，常用译名是不是就是自由引导人民？不对原标题前面有Le 28 juillet 1830，哦对，德拉克洛瓦的那个画，标准展览译名就是1830年7月28日 自由引导人民？不对，查一下，哦对",
+      "titleFr": "Le 28 juillet 1830. La Liberté guidant le peuple",
+      "wingKey": "denon",
+      "wingZh": "德农馆",
+      "floor": "1",
+      "floorLabel": "1 层",
+      "gallery": "700",
+      "galleryLabel": "700 号展厅",
+      "collectionFr": "Département des Peintures",
+      "inventory": [
+        {
+          "value": "RF 129",
+          "type": "Numéro principal"
+        }
+      ],
+      "nameSearch": "用户现在需要把这个卢浮宫的法文标题翻译成展览常用的中文译名，首先这个就是《自由引导人民》对吧？不对前面还有日期1830年7月28日，哦对，完整的就是1830年7月28日：自由引导人民？不对，常用译名是不是就是自由引导人民？不对原标题前面有le28juillet1830，哦对，德拉克洛瓦的那个画，标准展览译名就是1830年7月28日自由引导人民？不对，查一下，哦对le28juillet1830lalibertéguidantlepeuple",
+      "inventorySearch": "129 rf rf129",
+      "narrationPreview": "用户现在需要卢浮宫这幅自由引导人民的中文讲解，男声口语化，200-350字对吧。首先开头得说现在在哪，哦对，德农馆1楼700莫利昂厅，浪漫主义展区对吧。然后报名字，原名对应的就是《1830年7月28日，自由引导人民》，欧仁德拉克洛瓦那个哦不对，元数据没给作者？哦不对，元数据里没给就？不对不对，哦元数据给的信息，哦对，信息不足合理概括，不要编造，哦不对，这幅本来就是德拉克洛瓦的，不过元数据没写？哦不对，元数据里就给的那些，哦没事，核心信息：现在各位抬头看到的这幅，就是我们卢浮宫德农翼一层700号浪漫主义展厅里的镇馆名作之一，《自由引导人民》，原标题标注的是《1830年7月28日，自由引导人民》，创作于1830年，是19世纪上半叶法国浪…",
+      "audio": "audio/cl010065872.mp3",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010065872"
+    },
+    {
+      "id": "cl020014357",
+      "titleZh": "用户现在需要把这个卢浮宫的藏品法文标题译成展览常用译名，Le Sacre de Napoléon Ier就是拿破仑一世加冕大典对吧？对，就是这个常用译名，直接输出就行。",
+      "titleFr": "Le Sacre de Napoléon Ier",
+      "wingKey": "unknown",
+      "wingZh": "馆区未识别",
+      "floor": "",
+      "floorLabel": "",
+      "gallery": "",
+      "galleryLabel": "",
+      "collectionFr": "Département des Arts graphiques",
+      "inventory": [
+        {
+          "value": "INV 35261, Recto",
+          "type": "Numéro principal"
+        },
+        {
+          "value": "NIII 34300",
+          "type": "Anciens numéros d'inventaire"
+        },
+        {
+          "value": "vol.14, p.346",
+          "type": "Référence de l'inventaire manuscrit"
+        }
+      ],
+      "nameSearch": "用户现在需要把这个卢浮宫的藏品法文标题译成展览常用译名，lesacredenapoléonier就是拿破仑一世加冕大典对吧？对，就是这个常用译名，直接输出就行。lesacredenapoléonier",
+      "inventorySearch": "14 34300 346 35261 inv inv35261,recto niii niii34300 recto vol vol14,p346",
+      "narrationPreview": "用户现在需要写卢浮宫这个拿破仑加冕的素描稿的中文讲解，男声口语化，200-350字对吧。首先开头，各位游客咱们现在看的这件藏品，是《拿破仑一世加冕》的手绘稿对吧？然后首先说，它藏在卢浮宫版画素描部，现在存放在大尺寸藏品库房，不过今天咱们能看到它很难得。然后材料，石墨、钢笔蘸中国墨，还有纸上灰水彩晕染对吧？不对，元数据是lavis gris，就是灰墨色薄涂对吧？然后说，大家都知道大卫那幅大油画《拿破仑加冕》太有名了，这件就是对应那幅名作的稿本对吧？哦不对，元数据标题就是Le Sacre de Napoléon Ier，就是拿破仑一世加冕礼。然后说，这件不是成品油画，是艺术家创作过程里留下来的素描稿，你看材料都是手绘的素描工具，能让我们…",
+      "audio": "audio/cl020014357.mp3",
+      "url": "https://collections.louvre.fr/ark:/53355/cl020014357"
+    },
+    {
+      "id": "cl010059199",
+      "titleZh": "用户现在需要把这个卢浮宫的藏品法文标题翻译成常用展览译名，这个是梅杜萨之筏对吧？对，籍里柯的那个名作，常用译名就是梅杜萨之筏，直接输出就行。",
+      "titleFr": "Le radeau de la Méduse",
+      "wingKey": "denon",
+      "wingZh": "德农馆",
+      "floor": "1",
+      "floorLabel": "1 层",
+      "gallery": "700",
+      "galleryLabel": "700 号展厅",
+      "collectionFr": "Département des Peintures",
+      "inventory": [
+        {
+          "value": "INV 4884",
+          "type": "Numéro principal"
+        },
+        {
+          "value": "C 51",
+          "type": "Autre numéro d'inventaire"
+        }
+      ],
+      "nameSearch": "用户现在需要把这个卢浮宫的藏品法文标题翻译成常用展览译名，这个是梅杜萨之筏对吧？对，籍里柯的那个名作，常用译名就是梅杜萨之筏，直接输出就行。leradeaudelaméduse",
+      "inventorySearch": "4884 51 c51 inv inv4884",
+      "narrationPreview": "用户现在需要卢浮宫美杜莎之筏的中文讲解，男声口语化，200-350字对吧。首先开头要欢迎？不对，是讲解员，现在站在700展厅对吧，先点明，各位现在看到的这幅，就是浪漫主义画派标志性的作品《梅杜萨之筏》，不对，法文书名是Le radeau de Méduse，翻译就是梅杜萨之筏嘛。然后说位置，我们现在在德农翼一层700莫利昂展厅，属于绘画部藏品。然后创作时间是19世纪头二十五年，具体1818到1819年画的，材质是布面油彩对吧。然后要贴合浪漫主义，不用说编造事件，哦对，可以说这幅是浪漫主义绘画的开山代表作对吧，原来学院派都是画神话历史，这幅把当时的真实事件做成大尺寸历史画，打破了规则对吧？然后说整个画面的张力，金字塔形的构图，从濒死的…",
+      "audio": "audio/cl010059199.mp3",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010059199"
+    },
+    {
+      "id": "cl010064382",
+      "titleZh": "用户现在需要把卢浮宫的这个法文Les Noces de Cana译成常用的展览译名，这个就是《迦拿的婚礼》对吧，对，就是那个委罗内塞的大画，常用译名就是迦拿的婚礼，直接输出就行。",
+      "titleFr": "Les Noces de Cana",
+      "wingKey": "denon",
+      "wingZh": "德农馆",
+      "floor": "1",
+      "floorLabel": "1 层",
+      "gallery": "711",
+      "galleryLabel": "711 号展厅",
+      "collectionFr": "Département des Peintures",
+      "inventory": [
+        {
+          "value": "INV 142",
+          "type": "Numéro principal"
+        },
+        {
+          "value": "MR 384",
+          "type": "Autre numéro d'inventaire"
+        }
+      ],
+      "nameSearch": "用户现在需要把卢浮宫的这个法文lesnocesdecana译成常用的展览译名，这个就是《迦拿的婚礼》对吧，对，就是那个委罗内塞的大画，常用译名就是迦拿的婚礼，直接输出就行。lesnocesdecana",
+      "inventorySearch": "142 384 inv inv142 mr mr384",
+      "narrationPreview": "用户现在需要写卢浮宫的《迦南婚礼》的中文讲解，男声口语化，200-350字对吧？首先开头打招呼，然后说位置，现在各位朋友，咱们现在走到德农馆一楼711厅，也就是蒙娜丽莎那个厅对吧？哦不对，元数据说711就是国家厅，也就是蒙娜丽莎那个厅对吧？然后说这幅画是《迦南的婚礼》，哦不对，法文是Les Noces de Cana，就是迦南婚礼，16世纪的油画，布面油彩，属于绘画部藏品。然后要口语化，适合男声，对吧？然后说，你看，很多朋友进这个厅第一反应都是找蒙娜丽莎，其实您转身，就能看到这幅大画《迦南的婚礼》。哦对，尺寸？不对，元数据没给不能编，就说，这是16世纪的作品，材质是布面油画，归在卢浮宫的绘画部门收藏。然后说，很多人逛卢浮宫都容易错过…",
+      "audio": "audio/cl010064382.mp3",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010064382"
+    },
+    {
+      "id": "cl010091872",
+      "titleZh": "用户现在需要把卢浮宫的这个法文标题Esclave mourant翻译成中文展览常用译名，哦对，米开朗基罗的那个，就是 dying slave，常用译名是《垂死的奴隶》对吧？不对，题目说不要引号，所以直接输出垂死的奴隶对吧？对，没错，就是这个，卢浮宫藏的米开朗基罗的雕塑，常用译名就是垂死的奴隶。",
+      "titleFr": "Esclave mourant",
+      "wingKey": "unknown",
+      "wingZh": "馆区未识别",
+      "floor": "0",
+      "floorLabel": "0 层",
+      "gallery": "001",
+      "galleryLabel": "001 号展厅",
+      "collectionFr": "Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes",
+      "inventory": [
+        {
+          "value": "MR 1590",
+          "type": "Numéro principal"
+        },
+        {
+          "value": "N 15044",
+          "type": "Autre numéro d'inventaire"
+        }
+      ],
+      "nameSearch": "用户现在需要把卢浮宫的这个法文标题esclavemourant翻译成中文展览常用译名，哦对，米开朗基罗的那个，就是dyingslave，常用译名是《垂死的奴隶》对吧？不对，题目说不要引号，所以直接输出垂死的奴隶对吧？对，没错，就是这个，卢浮宫藏的米开朗基罗的雕塑，常用译名就是垂死的奴隶。esclavemourant",
+      "inventorySearch": "15044 1590 mr mr1590 n15044",
+      "narrationPreview": "用户现在需要我写卢浮宫的《垂死的奴隶》中文讲解，男声口语化，200-350字对吧，首先先讲位置，各位游客，咱们现在走到拿破仑翼一层001展厅，也就是临时展厅这边，眼前这件大理石雕塑就是米开朗基罗的名作《垂死的奴隶》对吧？哦不对，元数据里创作时间是1513-1515，收藏是中世纪文艺复兴和近代雕塑部门对吧，哦对，首先开头：各位朋友，现在我们站在拿破仑翼地面层001临时展厅，眼前这件大理石作品，就是文艺复兴大师米开朗基罗的经典雕塑《垂死的奴隶》，创作于1513到1515年间，收藏在卢浮宫中世纪、文艺复兴与现代雕塑部门。然后，要口语化，适合男声，你看，奴隶的姿态对吧，合理发挥，不要编造，你看，你可以说，大家看这个年轻男子的身体，肌肉线条舒…",
+      "audio": "audio/cl010091872.mp3",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010091872"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cl010064382",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010064382",
+    "modified": "2026-03-29"
+  },
+  "titleFr": "Les Noces de Cana",
+  "titleZh": "用户现在需要把卢浮宫的这个法文Les Noces de Cana译成常用的展览译名，这个就是《迦拿的婚礼》对吧，对，就是那个委罗内塞的大画，常用译名就是迦拿的婚礼，直接输出就行。",
+  "location": {
+    "wingKey": "denon",
+    "wingZh": "德农馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "711",
+    "galleryLabel": "711 号展厅",
+    "roomFr": "Salle 711, Aile Aile Denon, Niveau 1",
+    "currentLocationFr": "Denon, [Peint] Salle 711 - Salle de la Joconde, Salle 711 - (Salle des Etats)"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "INV 142",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "MR 384",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "用户现在需要写卢浮宫的《迦南婚礼》的中文讲解，男声口语化，200-350字对吧？首先开头打招呼，然后说位置，现在各位朋友，咱们现在走到德农馆一楼711厅，也就是蒙娜丽莎那个厅对吧？哦不对，元数据说711就是国家厅，也就是蒙娜丽莎那个厅对吧？然后说这幅画是《迦南的婚礼》，哦不对，法文是Les Noces de Cana，就是迦南婚礼，16世纪的油画，布面油彩，属于绘画部藏品。然后要口语化，适合男声，对吧？然后说，你看，很多朋友进这个厅第一反应都是找蒙娜丽莎，其实您转身，就能看到这幅大画《迦南的婚礼》。哦对，尺寸？不对，元数据没给不能编，就说，这是16世纪的作品，材质是布面油画，归在卢浮宫的绘画部门收藏。然后说，很多人逛卢浮宫都容易错过它，其实它就在咱们最熟悉的《蒙娜丽莎》展厅里，大家站在这儿就能同时看到卢浮宫两张顶流的作品。这幅画讲的是圣经里迦南婚宴上耶稣变水为酒的故事？不对，哦，描述是空，但是这个题材本来就是这个，算不算编造？哦，本来就是这个题材，不算编造吧？然后说，现在大家可以慢慢欣赏，感受16世纪北欧还是威尼斯？不对，不要编，就说，感受16世纪欧洲油画的光影和构图魅力，毕竟能和蒙娜丽莎同厅展出，分量可想而知。然后控制字数，200多对吧？我组织一下语言：\n\n各位朋友，现在咱们站的就是卢浮宫德农馆一楼的711厅，也就是大名鼎鼎的《蒙娜丽莎》所在的国家厅。很多朋友一进厅就忙着找蒙娜丽",
+  "narrationSource": "generated",
+  "frenchBrief": "Les Noces de Cana\n\nDate de création/fabrication : XVIe siècle (1500 - 1600)\n\nhuile sur toile\n\nLocalisation : Denon, [Peint] Salle 711 - Salle de la Joconde, Salle 711 - (Salle des Etats)"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl020014357",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl020014357",
+    "modified": "2026-02-19"
+  },
+  "titleFr": "Le Sacre de Napoléon Ier",
+  "titleZh": "用户现在需要把这个卢浮宫的藏品法文标题译成展览常用译名，Le Sacre de Napoléon Ier就是拿破仑一世加冕大典对吧？对，就是这个常用译名，直接输出就行。",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "Réserve des très grand format"
+  },
+  "collectionFr": "Département des Arts graphiques",
+  "inventory": [
+    {
+      "value": "INV 35261, Recto",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "NIII 34300",
+      "type": "Anciens numéros d'inventaire"
+    },
+    {
+      "value": "vol.14, p.346",
+      "type": "Référence de l'inventaire manuscrit"
+    }
+  ],
+  "narrationZh": "用户现在需要写卢浮宫这个拿破仑加冕的素描稿的中文讲解，男声口语化，200-350字对吧。首先开头，各位游客咱们现在看的这件藏品，是《拿破仑一世加冕》的手绘稿对吧？然后首先说，它藏在卢浮宫版画素描部，现在存放在大尺寸藏品库房，不过今天咱们能看到它很难得。然后材料，石墨、钢笔蘸中国墨，还有纸上灰水彩晕染对吧？不对，元数据是lavis gris，就是灰墨色薄涂对吧？然后说，大家都知道大卫那幅大油画《拿破仑加冕》太有名了，这件就是对应那幅名作的稿本对吧？哦不对，元数据标题就是Le Sacre de Napoléon Ier，就是拿破仑一世加冕礼。然后说，这件不是成品油画，是艺术家创作过程里留下来的素描稿，你看材料都是手绘的素描工具，能让我们近距离看到大画家创作时候的笔触，那种草稿里的灵动，反而比完成的油画多了几分生动？然后说，因为尺寸很大，所以它一直保存在大尺寸特藏库房里，很少公开展出，今天能有缘看到这件珍贵的原创作稿，其实比看成品更能触摸到艺术家创作的脉搏对吧？然后调整字数，口语化，适合男声。等下，捋顺：各位朋友，现在咱们看到的这件作品，是《拿破仑一世加冕》，收藏在卢浮宫的版画与素描部，因为尺寸很大，现在保存在特大型藏品库房中。和大家熟悉的那幅同名巨幅油画不同，这是一件手绘创作稿，用石墨、钢笔蘸中国墨，再加上灰墨晕染画在纸上完成的。我们都知道，十九世纪初拿破仑在巴黎圣母院的加冕大典，是欧",
+  "narrationSource": "generated",
+  "frenchBrief": "Le Sacre de Napoléon Ier\n\nGraphite, plume et encre de Chine, lavis gris sur papier\n\nLocalisation : Réserve des très grand format"
+}

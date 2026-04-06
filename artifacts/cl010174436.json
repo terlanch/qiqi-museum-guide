@@ -1,0 +1,37 @@
+{
+  "id": "cl010174436",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010174436",
+    "modified": "2026-03-07"
+  },
+  "titleFr": "Code de Hammurabi",
+  "titleZh": "用户现在需要把Code de Hammurabi翻译成卢浮宫常用的中文展览译名，就是汉谟拉比法典对吧？对，没错，这个就是标准译名，直接输出就行。",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "0",
+    "floorLabel": "0 层",
+    "gallery": "227",
+    "galleryLabel": "227 号展厅",
+    "roomFr": "Salle 227, Aile Aile Richelieu, Niveau 0",
+    "currentLocationFr": "Richelieu, [AO] Salle 227 - Salle du code d'Hammurabi, Hors vitrine"
+  },
+  "collectionFr": "Département des Antiquités orientales",
+  "inventory": [
+    {
+      "value": "SB 8",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "AS 6064",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "PEZARD ET POTTIER 8",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "用户现在需要把汉谟拉比法典的法语文本翻译成自然口语化的中文讲解稿，男声，适合博物馆，450字以内对吧。首先开头先介绍，各位观众现在看到的就是闻名世界的《汉谟拉比法典》石柱对吧？然后年代，它诞生于古巴比伦第一王朝，正是汉谟拉比统治时期，也就是公元前1792到公元前1750年，没错。然后材质，这块法典是玄武岩雕刻而成的，整体是圆雕造型，柱头部分是浅浮雕，柱身还刻满了铭文哦。然后说雕刻的内容，柱头的浮雕场景很有意思：上面坐着的是正义之神沙马什，他端坐宝座，向汉谟拉比授予象征权力的权杖与环饰；站着的巴比伦国王汉谟拉比，蓄着胡须，穿着单肩露臂的朝服，头戴宽边高帽，姿态庄重。整个浮雕场景，其实是在说汉谟拉比的王权和法典是神授予的，从法理上给他的统治和司法权威做了背书。然后说文物现状，这块石柱原本是完整的，后来断裂成了几块修复后我们现在看到的这个样子，它本质就是一块刻满铭文的石碑，整个柱身都刻着汉谟拉比颁布的司法条文。最后说位置，哦不对，这里是我们卢浮宫的位置，现在它就陈列在黎塞留馆区227厅，也就是专门的汉谟拉比法典展厅，是独立陈列出来不是放在展柜里的对吧？然后调整口语化，控制字数，哦对，要自然，男声的话不要太柔，就是讲解的语气。我整理一下：\n\n各位游客您好，现在您面前这件就是闻名世界的《汉谟拉比法典》。它制作于古巴比伦第一王朝汉谟拉比统治时期，也就是公元前1792到公元前1750年。\n\n这块法典石柱以玄武岩制成，融合了圆雕、浅浮雕和镌刻工艺。石柱顶部是装饰性浮雕，描绘的是太阳神兼正义之神沙马什与古巴比伦国王汉谟拉比的会面：沙马什端坐在宝座上，向汉谟拉比伸出手，授予他象征权力的环与杖；汉谟拉比蓄须，身着露肩礼服，头戴宽边高帽，站姿端正。这个场景的用意很明确，就是要证明汉谟拉比的王权和石柱上镌刻的所有司法判决都秉承神意，具有无可辩驳的合法性。\n\n如今这件文物已经断裂修复，柱身刻满了法典条文，现在它陈列在卢浮宫黎塞留馆区227号汉谟拉比法典展厅，独立陈列展出。\n\n数一下字数，哦差不多，大概三百多？不对，我看看，哦，对，控制在450以内，这个刚好，口语化，适合男声讲解，作品译名也对，所有",
+  "narrationSource": "translated",
+  "frenchBrief": "Code de Hammurabi\n\nDate de création/fabrication : 1ère dynastie de Babylone : Hammurabi (-1792 - -1750)\n\nMatériau : basalte Technique : ronde-bosse, bas-relief, gravé\n\nDécor : Shamash (assis, trône, tendant, cercle et bâton) ; Hammurabi (barbe, robe, épaule découverte : droit, bonnet à bord haut) ; inscription  Etat de l'oeuvre : brisé Précision sur l'objet : Stèle inscrite dont le sommet est orné d'un relief sculpté. La scène représente la rencontre entre le dieu Shamash et le roi Hammurabi de Babylone, légitimant la souveraineté du roi et décisions de justice gravées sur la stèle\n\nLocalisation : Richelieu, [AO] Salle 227 - Salle du code d'Hammurabi, Hors vitrine"
+}

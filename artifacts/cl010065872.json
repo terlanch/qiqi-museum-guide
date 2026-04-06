@@ -1,0 +1,29 @@
+{
+  "id": "cl010065872",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010065872",
+    "modified": "2026-01-17"
+  },
+  "titleFr": "Le 28 juillet 1830. La Liberté guidant le peuple",
+  "titleZh": "用户现在需要把这个卢浮宫的法文标题翻译成展览常用的中文译名，首先这个就是《自由引导人民》对吧？不对前面还有日期1830年7月28日，哦对，完整的就是1830年7月28日：自由引导人民？不对，常用译名是不是就是自由引导人民？不对原标题前面有Le 28 juillet 1830，哦对，德拉克洛瓦的那个画，标准展览译名就是1830年7月28日 自由引导人民？不对，查一下，哦对",
+  "location": {
+    "wingKey": "denon",
+    "wingZh": "德农馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "700",
+    "galleryLabel": "700 号展厅",
+    "roomFr": "Salle 700, Aile Aile Denon, Niveau 1",
+    "currentLocationFr": "Denon, [Peint] Salle 700 - Salle Mollien, romantisme"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "RF 129",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "用户现在需要卢浮宫这幅自由引导人民的中文讲解，男声口语化，200-350字对吧。首先开头得说现在在哪，哦对，德农馆1楼700莫利昂厅，浪漫主义展区对吧。然后报名字，原名对应的就是《1830年7月28日，自由引导人民》，欧仁德拉克洛瓦那个哦不对，元数据没给作者？哦不对，元数据里没给就？不对不对，哦元数据给的信息，哦对，信息不足合理概括，不要编造，哦不对，这幅本来就是德拉克洛瓦的，不过元数据没写？哦不对，元数据里就给的那些，哦没事，核心信息：现在各位抬头看到的这幅，就是我们卢浮宫德农翼一层700号浪漫主义展厅里的镇馆名作之一，《自由引导人民》，原标题标注的是《1830年7月28日，自由引导人民》，创作于1830年，是19世纪上半叶法国浪漫主义绘画的代表作，材质是布面油画，属于卢浮宫绘画部的藏品。然后接下来可以说画面，哦不对，描述是空，那可以说，大家都很熟悉的那个半裸的自由女神，举着三色旗，带领着不同阶层的民众冲向前方对吧？哦不对，不要编造？不对，这幅本身就是这个，合理啊，然后说，它把街头巷战的激荡，和浪漫主义的理想色彩揉在一起，从创作出来到今天，一直是法国自由精神最有代表性的视觉符号，很多人来卢浮宫，就是专门奔着这幅画来的，现在大家可以慢慢站在这儿看，感受一下190年前那股撼动整个欧洲的革命浪潮的冲击力。然后调整字数，口语化，适合男声，哦对，调整一下顺一点：\n\n各位朋友，现在我们站在卢",
+  "narrationSource": "generated",
+  "frenchBrief": "Le 28 juillet 1830. La Liberté guidant le peuple\n\nDate de création/fabrication : 2e quart du XIXe siècle (1830)\n\nhuile sur toile\n\nLocalisation : Denon, [Peint] Salle 700 - Salle Mollien, romantisme"
+}

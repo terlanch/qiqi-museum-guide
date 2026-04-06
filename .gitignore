@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.python-version
+.venv/
+venv/
+
+# 全量馆藏 JSON 镜像（体积巨大，勿提交）
+data/louvre_json/
+data/louvre_ark_ids.txt

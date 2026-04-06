@@ -1,0 +1,33 @@
+{
+  "id": "cl010059199",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010059199",
+    "modified": "2026-01-30"
+  },
+  "titleFr": "Le radeau de la Méduse",
+  "titleZh": "用户现在需要把这个卢浮宫的藏品法文标题翻译成常用展览译名，这个是梅杜萨之筏对吧？对，籍里柯的那个名作，常用译名就是梅杜萨之筏，直接输出就行。",
+  "location": {
+    "wingKey": "denon",
+    "wingZh": "德农馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "700",
+    "galleryLabel": "700 号展厅",
+    "roomFr": "Salle 700, Aile Aile Denon, Niveau 1",
+    "currentLocationFr": "Denon, [Peint] Salle 700 - Salle Mollien, romantisme"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "INV 4884",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "C 51",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "用户现在需要卢浮宫美杜莎之筏的中文讲解，男声口语化，200-350字对吧。首先开头要欢迎？不对，是讲解员，现在站在700展厅对吧，先点明，各位现在看到的这幅，就是浪漫主义画派标志性的作品《梅杜萨之筏》，不对，法文书名是Le radeau de Méduse，翻译就是梅杜萨之筏嘛。然后说位置，我们现在在德农翼一层700莫利昂展厅，属于绘画部藏品。然后创作时间是19世纪头二十五年，具体1818到1819年画的，材质是布面油彩对吧。然后要贴合浪漫主义，不用说编造事件，哦对，可以说这幅是浪漫主义绘画的开山代表作对吧，原来学院派都是画神话历史，这幅把当时的真实事件做成大尺寸历史画，打破了规则对吧？然后说整个画面的张力，金字塔形的构图，从濒死的人到顶端呼救的，那种求生的张力，直接把浪漫主义那种对情感、对生命力量的表达拉满了对吧？然后控制字数，口语化，适合男声。等下，调整一下，哦，对，要求信息不足不要编造，所以事件可以不用太细？不对，其实梅杜萨号事件大家都知道，但不要编造细节对吧。哦，我组织语言：各位朋友，现在我们站在德农翼一层的700莫利昂展厅，眼前这幅就是浪漫主义绘画最具标志性的作品——《梅杜萨之筏》。它是卢浮宫绘画部的藏品，创作于19世纪初的1818到1819年，是一幅布面油画。作为浪漫主义风潮的开山代表，这幅作品彻底打破了此前法国学院派绘画的题材陈规，把当时发生的一起真实海难事件，放进了",
+  "narrationSource": "generated",
+  "frenchBrief": "Le radeau de la Méduse\n\nDate de création/fabrication : 1e quart du XIXe siècle (1818 - 1819)\n\nhuile sur toile\n\nLocalisation : Denon, [Peint] Salle 700 - Salle Mollien, romantisme"
+}

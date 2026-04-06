@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>卢浮宫馆藏 · 语音讲解</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <h1>卢浮宫馆藏语音讲解</h1>
+      <p class="lede">
+        数据来自
+        <a href="https://collections.louvre.fr" target="_blank" rel="noopener">Louvre Collections</a>
+        官方 JSON（字段 <code>room</code>、<code>currentLocation</code>、<code>title</code>、<code>description</code>
+        等）。中文名与讲解由火山方舟大模型生成/翻译，音频由火山引擎语音合成。构建时在仓库根目录生成
+        <code>artifacts/*.json</code>，每藏品一份。
+      </p>
+    </header>
+
+    <main>
+      <section class="search-panel" aria-label="筛选与搜索">
+        <div class="filters">
+          <div class="field">
+            <label for="filter-wing">馆区</label>
+            <select id="filter-wing">
+              <option value="">全部馆区</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="filter-floor">楼层</label>
+            <select id="filter-floor">
+              <option value="">全部楼层</option>
+            </select>
+          </div>
+        </div>
+        <label for="q">按藏品中文名、法文名或馆藏编号搜索</label>
+        <div class="row">
+          <input
+            id="q"
+            type="search"
+            autocomplete="off"
+            placeholder="例如：蒙娜丽莎、Joconde、INV 779…"
+          />
+          <button type="button" id="btn-clear">清空</button>
+        </div>
+        <p class="hint" id="status">正在加载目录…</p>
+      </section>
+
+      <section id="results" class="results" aria-live="polite"></section>
+
+      <footer class="footer">
+        <p>
+          文本与图片使用须遵守卢浮宫馆藏网站条款。本站为个人学习演示，与卢浮宫无关联。
+        </p>
+      </footer>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

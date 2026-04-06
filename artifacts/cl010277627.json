@@ -1,0 +1,37 @@
+{
+  "id": "cl010277627",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010277627",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Vénus de Milo",
+  "titleZh": "用户现在需要把卢浮宫的Vénus de Milo翻译成常用的展览译名，就是米洛斯的维纳斯对吧？对，就是这个，常用的就是这个，直接输出就行。",
+  "location": {
+    "wingKey": "sully",
+    "wingZh": "叙利馆",
+    "floor": "0",
+    "floorLabel": "0 层",
+    "gallery": "345",
+    "galleryLabel": "345 号展厅",
+    "roomFr": "Salle 345, Aile Aile Sully, Niveau 0",
+    "currentLocationFr": "Sully, [AGER] Salle 345 - Art grec classique et hellénistique (Vénus de Milo), Hors vitrine"
+  },
+  "collectionFr": "Département des Antiquités grecques, étrusques et romaines",
+  "inventory": [
+    {
+      "value": "LL 299",
+      "type": "Numéro d'entrée"
+    },
+    {
+      "value": "N 527",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "Ma 399",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "用户现在需要把卢浮宫的米洛的维纳斯法文介绍翻译成自然口语的中文讲解员讲稿，男声，口语化，四百五以内，常见译名。首先开头就是“各位现在看到的，就是卢浮宫三宝之一的《米洛的维纳斯》，也叫《断臂的维纳斯》对不对？”然后说年代，是希腊化时期的作品，创作时间大概是公元前二世纪中后期，也就是公元前150到前125年左右。然后材料，用的是帕罗斯岛的优质大理石，是圆雕作品，原本是分两段雕好，在腰部位置拼接起来的。大家看缺了手臂，其实左胳膊本来是后接上的，现在能看到当年留的榫眼。另外原本还有青铜做的配饰，额头这里留了打孔的痕迹，本来是嵌王冠，右胳膊本来也有镯子的。然后说形象，阿芙洛狄忒也就是我们说的维纳斯，头发束起来打了发带挽成发髻，半裸着身体，衣料垂落在左腿，姿态特别优雅。现在这件作品是不完整的，缺了左臂、大部分右臂还有左脚，鼻子有磕碰缺损，背部也有多处剥蚀，底座在古代就被修整过，后世修复的时候把断了的发髻粘回去，鼻尖缺损的部分也用石膏补过。它现在就陈列在叙利馆345厅，希腊古典与希腊化艺术展区，没有放在展柜里，大家可以近距离观赏。哦不对，控制字数，调整得自然，口语，不要太生硬。然后缩到大概四百多？等下，整理一下：\n\n各位现在看到的，就是卢浮宫最负盛名的展品之一，《米洛的维纳斯》。这是一件希腊化时期的作品，创作于公元前二世纪中后期，也就是公元前150年到前125年之间。它用帕罗斯岛的优质大理石雕刻而成，属于圆雕，原本是分两部分雕好，在腰部位置拼接成型的。原本左臂是后接上去的，现在石材上还留着当年的榫槽，作品原本还配了青铜配饰：额头这里留下的小孔，原本是用来固定发冠，右臂原本也戴有青铜手镯。\n\n这尊雕像塑造的是爱神阿芙洛狄忒，也就是我们熟知的维纳斯，她头发束发带挽发髻，半裸身体，长袍垂落在左腿，姿态优雅动人。可惜如今这件作品并不完整：丢失了左臂、大部分右臂和左脚，鼻子有磕碰缺损，背部也有多处石材剥蚀，底座在古代就被修整过，后世修复时粘好了断落的发髻，鼻尖缺损的部分也用石膏做了补全。它现在陈列在叙利馆345号希腊古典与希腊化艺术展厅，没有放在展柜中，大家可以近距离观赏。\n\n数一下字数，大概",
+  "narrationSource": "translated",
+  "frenchBrief": "Vénus de Milo\n\nEpoque / période : hellénistique  Date de création/fabrication : 3e quart IIe s. av. J.-C. (-150 - -125)\n\nMatériau : marbre de Paros (lychnites) Technique : ronde-bosse (sculpture) (Elle est composée de deux éléments joints au niveau des hanches. Le bras gauche était rapporté  (présence d'une mortaise). Des éléments en bronze étaient rapportés :  présence de trous pour un diadème, et un bracelet au bras droit.)\n\nAphrodite (cheveux, en bandeau, chignon, bas, mèche, demi-nu, himation, sur, jambe)  Etat de l'oeuvre : incomplet : il manque le bras gauche, une grande partie du bras droit, le pied gauche. Le nez présente des éclats. Le dos présente de nombreuses épaufrures. la plinthe a été retaillée dans l'Antiquité. Le chignon a été recollé et l'extrémité du nez a été refaite en plâtre.\n\nLocalisation : Sully, [AGER] Salle 345 - Art grec classique et hellénistique (Vénus de Milo), Hors vitrine"
+}
