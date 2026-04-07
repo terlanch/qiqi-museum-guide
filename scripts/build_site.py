@@ -273,7 +273,7 @@ def main() -> None:
                 "inventory": inv,
                 "nameSearch": name_search_blob(title_zh, title_fr),
                 "inventorySearch": " ".join(sorted(inv_tokens)),
-                "narrationPreview": (narration_zh[:320] + "…") if len(narration_zh) > 320 else narration_zh,
+                "narrationPreview": (narration_zh[:480] + "…") if len(narration_zh) > 480 else narration_zh,
                 "audio": audio_rel if narration_zh and audio_path.is_file() else "",
                 "url": artifact["source"]["url"],
             }

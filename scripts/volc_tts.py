@@ -10,7 +10,7 @@ from typing import Any, Dict, Optional
 import requests
 
 DEFAULT_TTS_URL = "https://openspeech.bytedance.com/api/v3/tts/unidirectional"
-DEFAULT_SPEAKER = "zh_male_dayi_saturn_bigtts"
+DEFAULT_SPEAKER = "zh_male_ruyayichen_uranus_bigtts"
 
 
 def _tts_http_error_hint(status: int, body_snip: str) -> str:

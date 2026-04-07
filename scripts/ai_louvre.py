@@ -62,9 +62,11 @@ def _ark_responses_chat(user_text: str, max_tokens: int) -> str:
     key = os.environ["ARK_API_KEY"].strip()
     model = os.environ.get("ARK_MODEL_ID", "doubao-seed-2-0-lite-260215").strip()
 
-    # 避免部分模型把推理过程一并输出到正文
     wrapped = (
-        "【输出要求】只输出最终要展示给读者的正文，不要内心独白、推理步骤、草稿或「用户问」等元话语。\n\n"
+        "【输出要求】只输出最终讲解正文。\n"
+        "禁止：内心独白、推理过程、自问自答、草稿、括号里自我纠正；"
+        "禁止出现「用户」「笔记」「不对」「哦对」「首先我需要」等元话语。\n"
+        "正文内不要使用 Markdown、不要用项目符号列表。\n\n"
         + user_text
     )
 
@@ -77,6 +79,11 @@ def _ark_responses_chat(user_text: str, max_tokens: int) -> str:
             }
         ],
     }
+    # 关闭深度思考，避免模型把推理过程写进正文（方舟 Responses API）
+    # 可选：ARK_THINKING=disabled|enabled|auto，默认 disabled
+    _tt = os.environ.get("ARK_THINKING", "disabled").strip().lower()
+    if _tt in ("disabled", "enabled", "auto"):
+        body["thinking"] = {"type": _tt}
     if max_tokens > 0:
         body["max_output_tokens"] = max_tokens
 
@@ -149,34 +156,60 @@ def _chat(user_content: str, max_tokens: int = 1200) -> str:
     return _maas_chat(user_content, max_tokens)
 
 
+def _museum_guide_spec() -> str:
+    """一线博物馆语音导览级讲解词要求（与高质量人工稿对齐）。"""
+    return """你正在撰写卢浮宫藏品的中文语音讲解词，质量须达到一线博物馆现场导览水准。
+
+【篇幅】全文约 550～900 个汉字；宜分 4～7 个短自然段，段间用换行分隔。不要用项目符号、不要用 Markdown。
+
+【风格】第三人称客观讲述；语气稳重、清晰，适合男声朗读；避免网络用语与空洞形容词堆砌。
+
+【内容组织】按材料灵活取舍，通常应覆盖：
+1）开篇点题：作品通行中文名、作者或文化背景（仅依据材料，材料无则弱化）；
+2）时代、材质、题材与画中/雕塑中主要形象（人物身份等，以材料为准）；
+3）细读至少一两处视觉或技法亮点（如神态、手势、构图、线条、设色、体量感、材质对比等）；若出现专业术语（如油画中的渐隐法、Sfumato 等），用一两句白话解释；
+4）背景或整体氛围（若材料提及风景、建筑、空间等）；
+5）艺术史或文化意义上的一笔收束（忌空泛口号）；
+6）若材料明确写到当代展陈、防护玻璃、展厅位置等，应用一两句自然收尾。
+
+【严谨】所给法文或元数据为唯一事实来源：可转写、重组、润色与合理串联，禁止编造具体年代阴谋、杜撰人物关系与无依据的历史事件。
+
+【禁止】禁止任何思考过程、禁止元话语（如「用户问」「笔记」「不对」「哦对」）、禁止问答式自言自语。"""
+
+
 def translate_title_fr_to_zh(title_fr: str) -> str:
     t = (title_fr or "").strip()
     if not t:
         return ""
     out = _chat(
-        "将下列卢浮宫藏品法文标题译为中文展览常用译名。只输出一行译文，不要引号或解释。\n\n" + t,
+        "任务：法文标题 → 中文展览通行译名。\n"
+        "要求：只输出一行译名，不要书名号外的解释、不要第二行。\n\n"
+        + t,
         max_tokens=128,
     )
     return out.split("\n")[0].strip()[:200]
 
 
-def translate_narration_fr_to_zh(source_text: str, max_chars: int = 900) -> str:
+def translate_narration_fr_to_zh(source_text: str, max_chars: int = 2400) -> str:
+    """以法文素材为事实依据，重写为高质量中文讲解（非字对字机翻）。"""
     text = (source_text or "").strip()
     if not text:
         raise RuntimeError("无法翻译：法语正文为空")
-    if len(text) > 3500:
-        text = text[:3500] + "…"
-    out = _chat(
-        "你是博物馆中文讲解员。将下列卢浮宫官网法语文本译为自然、口语化的中文讲解稿，"
-        "适合男声朗读；作品名用常见中文译名；不要列表或 Markdown；控制在约 450 字以内。\n\n"
-        + text,
-        max_tokens=1024,
+    if len(text) > 6000:
+        text = text[:6000] + "…"
+    prompt = (
+        _museum_guide_spec()
+        + "\n\n【任务】以下内容为卢浮宫官网法文信息（含标题、年代、材质、描述、展厅位置等）。"
+        "请综合写成一篇完整中文讲解词，不要标注「以下为译文」。\n\n---\n"
+        + text
+        + "\n---"
     )
-    return out[:max_chars]
+    out = _chat(prompt, max_tokens=2800)
+    return out[:max_chars].strip()
 
 
-def generate_narration_zh(meta: Dict[str, Any], max_chars: int = 600) -> str:
-    """官网简介过短时，根据结构化字段生成中文讲解。"""
+def generate_narration_zh(meta: Dict[str, Any], max_chars: int = 2400) -> str:
+    """官网简介过短时，根据结构化字段生成同水准讲解。"""
     payload = {
         "title_fr": meta.get("titleFr") or "",
         "collection_fr": meta.get("collectionFr") or "",
@@ -186,14 +219,14 @@ def generate_narration_zh(meta: Dict[str, Any], max_chars: int = 600) -> str:
         "room_fr": meta.get("roomFr") or "",
         "location_fr": meta.get("currentLocationFr") or "",
     }
-    out = _chat(
-        "你是卢浮宫中文讲解员。官网对该件藏品文字介绍很短或为空。请根据下列法文元数据写一段中文讲解，"
-        "约 200～350 字，口语化、适合男声朗读；信息不足处可合理概括，勿编造具体历史事件细节；"
-        "不要列表或 Markdown。元数据（JSON）：\n"
-        + json.dumps(payload, ensure_ascii=False, indent=2),
-        max_tokens=900,
+    prompt = (
+        _museum_guide_spec()
+        + "\n\n【任务】官网文字较少。请仅根据下列 JSON 元数据写同一水准的中文讲解词；"
+        "信息不足处可概括性描述，但不得捏造具体史实与人名关系。\n\n"
+        + json.dumps(payload, ensure_ascii=False, indent=2)
     )
-    return out[:max_chars]
+    out = _chat(prompt, max_tokens=2800)
+    return out[:max_chars].strip()
 
 
 def narration_zh_from_louvre(
