@@ -9,13 +9,6 @@
   <body>
     <header class="hero">
       <h1>卢浮宫馆藏语音讲解</h1>
-      <p class="lede">
-        数据来自
-        <a href="https://collections.louvre.fr" target="_blank" rel="noopener">Louvre Collections</a>
-        官方 JSON（字段 <code>room</code>、<code>currentLocation</code>、<code>title</code>、<code>description</code>
-        等）。中文名与讲解由火山方舟大模型生成/翻译，音频由火山引擎语音合成。构建时在仓库根目录生成
-        <code>artifacts/*.json</code>，每藏品一份。
-      </p>
     </header>
 
     <main>
@@ -48,12 +41,6 @@
       </section>
 
       <section id="results" class="results" aria-live="polite"></section>
-
-      <footer class="footer">
-        <p>
-          文本与图片使用须遵守卢浮宫馆藏网站条款。本站为个人学习演示，与卢浮宫无关联。
-        </p>
-      </footer>
     </main>
 
     <script src="./app.js"></script>

@@ -193,10 +193,33 @@
       }
 
       if (w.narrationPreview) {
-        var prev = document.createElement("p");
-        prev.className = "preview";
-        prev.textContent = w.narrationPreview;
-        card.appendChild(prev);
+        var txt = w.narrationPreview;
+        var foldThreshold = 96;
+        if (txt.length <= foldThreshold) {
+          var shortP = document.createElement("p");
+          shortP.className = "preview";
+          shortP.textContent = txt;
+          card.appendChild(shortP);
+        } else {
+          var fold = document.createElement("div");
+          fold.className = "narration-fold";
+          var body = document.createElement("div");
+          body.className = "narration-text";
+          body.textContent = txt;
+          var toggle = document.createElement("button");
+          toggle.type = "button";
+          toggle.className = "narration-toggle";
+          toggle.setAttribute("aria-expanded", "false");
+          toggle.textContent = "展开全文";
+          toggle.addEventListener("click", function () {
+            var open = fold.classList.toggle("expanded");
+            toggle.textContent = open ? "收起" : "展开全文";
+            toggle.setAttribute("aria-expanded", open ? "true" : "false");
+          });
+          fold.appendChild(body);
+          fold.appendChild(toggle);
+          card.appendChild(fold);
+        }
       }
 
       if (w.audio) {
@@ -208,8 +231,7 @@
       } else {
         var na = document.createElement("p");
         na.className = "no-audio";
-        na.textContent =
-          "暂无音频：请在本地配置 TTS 后运行 python3 scripts/build_site.py（勿加 --skip-tts）。";
+        na.textContent = "暂无音频";
         card.appendChild(na);
       }
 
@@ -219,7 +241,7 @@
       a.href = w.url;
       a.target = "_blank";
       a.rel = "noopener";
-      a.textContent = "在卢浮宫馆藏站打开";
+      a.textContent = "藏品详情";
       link.appendChild(a);
       card.appendChild(link);
 
@@ -259,8 +281,8 @@
       refresh();
     })
     .catch(function (e) {
-      $status.textContent = String(e.message || e);
+      $status.textContent = "加载失败";
       $results.innerHTML =
-        '<p class="hint">若通过 file:// 打开，浏览器会拦截 fetch。请用本地静态服务器，或使用 GitHub Pages 访问。</p>';
+        '<p class="hint">请通过网站地址访问本页（勿用本地直接双击打开 HTML）。</p>';
     });
 })();

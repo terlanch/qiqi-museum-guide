@@ -40,13 +40,7 @@ a:hover {
   font-size: clamp(1.75rem, 4vw, 2.25rem);
   font-weight: 650;
   letter-spacing: 0.02em;
-  margin: 0 0 0.75rem;
-}
-
-.lede {
-  margin: 0;
-  color: var(--muted);
-  font-size: 0.98rem;
+  margin: 0 0 1rem;
 }
 
 main {
@@ -202,6 +196,47 @@ main {
   margin: 0 0 1rem;
   font-size: 0.92rem;
   color: #c5cad3;
+  line-height: 1.55;
+}
+
+/* 讲解文案：默认折叠约 5 行，适合手机浏览 */
+.narration-fold {
+  margin: 0 0 1rem;
+}
+
+.narration-text {
+  font-size: 0.92rem;
+  color: #c5cad3;
+  line-height: 1.55;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
+  overflow: hidden;
+  margin-bottom: 0.5rem;
+  word-break: break-word;
+}
+
+.narration-fold.expanded .narration-text {
+  -webkit-line-clamp: unset;
+  display: block;
+  overflow: visible;
+}
+
+.narration-toggle {
+  min-height: 44px;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: #252b38;
+  color: var(--accent);
+  cursor: pointer;
+  width: 100%;
+  max-width: 12rem;
+}
+
+.narration-toggle:active {
+  opacity: 0.9;
 }
 
 audio {
@@ -212,14 +247,6 @@ audio {
 .no-audio {
   font-size: 0.88rem;
   color: #d08b5c;
-}
-
-.footer {
-  margin-top: 2.5rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--border);
-  font-size: 0.82rem;
-  color: var(--muted);
 }
 
 code {
