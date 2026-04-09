@@ -1,0 +1,33 @@
+{
+  "id": "cl010275293",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010275293",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Tête de Septime Sévère",
+  "titleZh": "《塞维鲁头像》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "non exposé"
+  },
+  "collectionFr": "Département des Antiquités grecques, étrusques et romaines",
+  "inventory": [
+    {
+      "value": "MNB 779",
+      "type": "Numéro d'entrée"
+    },
+    {
+      "value": "Ma 1119",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "现在您看到的，是卢浮宫收藏的《塞维鲁头像》。这是一件罗马帝国时期的圆雕大理石作品，创作于公元三世纪第一个 quarter，也就是公元205年到211年之间，属于罗马帝国塞维鲁王朝的开国君主塞普提米乌斯·塞维鲁的肖像胸像残件。\n\n作品的材质是白色大理石，雕刻中运用了钻刻和阴刻工艺，处理头发胡须与瞳孔。塞维鲁在位期间结束了五贤帝时代后的混乱，重新稳定了罗马帝国的统治，这件肖像也准确抓住了这位政治家的特质。\n\n作品的雕刻技法很有罗马肖像雕刻的特色。和早期罗马帝国皇帝光洁的面部不同，这件作品里塞维鲁留着络腮胡，艺术家通过深浅不一的钻刻，做出了胡须蓬松卷曲的体积感，每一处发丝的起伏都清晰可辨。瞳孔用阴刻做了凹陷处理，原本应该镶嵌彩色玻璃或者宝石来模拟瞳仁的反光，现在嵌件已经缺失，但依然能让整个面部的神态更有神采。塞维鲁的眉头微微蹙起，下颌收紧，面部轮廓紧绷，完全是一位久经沙场、掌控大权的统治者模样。\n\n目前这件作品保存并不完整，鼻子和前额部分的发块已经缺失，整体表面也有长期流传形成的磨损，但依然能看出罗马肖像写实传神的传统。这件作品记录了三世纪罗马帝国转型期的帝王形象，是研究罗马帝国肖像雕刻演变的重要实物。\n\n这件《塞维鲁头像》目前没有对外开放陈列，它作为卢浮宫的重要研究藏品，依然在为艺术史研究提供可靠的实物依据。",
+  "narrationSource": "translated",
+  "frenchBrief": "Tête de Septime Sévère\n\nEpoque / période : romain impérial  Date de création/fabrication : 1e quart IIIe s. ap. J.-C. (vers 205 - 211)\n\nMatériau : marbre Technique : ronde-bosse (sculpture), gravé = gravure, trépan (sculpture) (cheveux, barbe) Précision technique : gravé(pupille en creux)-bouchon d'encastrement\n\nSeptime Sévère (portrait, barbe)  Etat de l'oeuvre : le nez, et les mèches frontales manquent. La surface est usée\n\nLocalisation : non exposé"
+}

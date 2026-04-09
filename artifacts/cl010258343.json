@@ -1,0 +1,33 @@
+{
+  "id": "cl010258343",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010258343",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "statue",
+  "titleZh": "雕像",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "non exposé"
+  },
+  "collectionFr": "Département des Antiquités grecques, étrusques et romaines",
+  "inventory": [
+    {
+      "value": "MNE 793",
+      "type": "Numéro d'entrée"
+    },
+    {
+      "value": "Br 4547",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "现在您看到的是这件罗马帝国时期的青铜哈德良肖像残像。它创作于公元二世纪的第二个二十五年，也就是125年到150年之间，属于罗马帝国的 imperial 时期，正好对应哈德良皇帝在位的时段。\n\n这件作品以失蜡法中空浇铸制成，细节部位还补充了冷加工的刻饰：眼睛的虹膜和瞳孔都是挖刻出凹陷做出造型，发丝纹理也是铸成后再用冷刻加工整理出来的，这种复合工艺让雕像细节更有层次。\n\n作为存世不多的哈德良真人大小青铜肖像，这件作品清晰还原了皇帝本人的标志性外形特征。画面里能清晰看到哈德良标志性的卷发圈，还有他留的胡须和上唇髭须——在他之前，罗马帝国的皇帝肖像大多沿袭希腊化时代以来罗马贵族的光洁剃须传统，正是哈德良本人因为推崇希腊文化，率先留起了胡须，这个审美倾向也影响了之后近一个世纪的罗马帝王肖像造型。\n\n从保存状态来看，这件作品并不完整：头顶和后颈部位已经缺失，颈部是后来拼接修复的，左侧脸颊还有古代就完成的修复补全，鼻翼、右侧脸颊和左侧太阳穴也都能看到古代修复留下的痕迹。这些古代修复痕迹本身，也能帮我们了解这件作品在古代就已经受到重视，被妥善维护保存。\n\n它用青铜的厚重材质，把人物面部轮廓塑造得沉稳结实，即使只剩面部和部分颈部，依然能感受到罗马帝国盛期帝王肖像的写实功力，那个时代官方肖像对个人特征精准捕捉的能力，在这件残作上依然清晰体现。\n\n这件作品目前没有对外公开展出，仅作为卢浮宫的重要馆藏文物保存研究。",
+  "narrationSource": "translated",
+  "frenchBrief": "statue\n\nEpoque / période : romain impérial  Date de création/fabrication : 2e quart IIe s. ap. J.-C. (125 - 150)\n\nMatériau : bronze Technique : fonte en creux (coulé = fondu = fonte), gravé = gravure (iris, pupille en creux ; cheveux repris à froid)\n\nHadrien (portrait, boucle, moustache, barbe)  Etat de l'oeuvre : incomplet : il manque le sommet du crâne et l'arrière du cou ; cou recollé. Restaurations antiques (joue gauche) ; traces de restauration antique (nez, aile du nez, joue droite, tempe gauche).\n\nLocalisation : non exposé"
+}

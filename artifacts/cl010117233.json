@@ -1,0 +1,33 @@
+{
+  "id": "cl010117233",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010117233",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Ecu de Charles IX",
+  "titleZh": "查理九世徽记",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "528",
+    "galleryLabel": "528 号展厅",
+    "roomFr": "Salle 528, Aile Aile Richelieu, Niveau 1",
+    "currentLocationFr": "Richelieu, [OArt] Salle 528 - Charles Quint, Vitrine 11"
+  },
+  "collectionFr": "Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes",
+  "inventory": [
+    {
+      "value": "MR 427",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "MS 120",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您看到的这件藏品，是查理九世的纹章盾，属于法国文艺复兴时期瓦卢瓦-昂古莱姆王朝的作品，制作于公元1555到1560年之间，先后经历亨利二世与查理九世两代君主在位时期。\n\n这件纹章盾结合了金属工艺与丝绸刺绣两种技艺，基底由敲制塑形的铁打造，表面镀金并镶嵌珐琅，盾面衬底是绣满金丝的丝绸，背面则衬着深红色天鹅绒，绣有阿拉伯风格卷草纹，边缘还缀着丝绸流苏，不同材质的光泽与触感形成了丰富的层次对比。\n\n盾面的中心，雕刻着一幅战争场景，四周环绕着皮革纹路、战利品装饰、葡萄卷草纹样，还有俘虏奴隶的形象，这些奴隶安坐于火炮之上，点明了这件纹章盾的军事属性。盾的边缘经过雕刻弯折，形成一圈月桂花环饰带，饰带上间隔装饰着三十二枚掐丝珐琅徽章，交替出现珐琅填白的字母“K”，呼应君主的名号。掐丝珐琅这种工艺，是先用金属丝在金底勾勒出轮廓，再填烧彩色釉料，最终得到的图案清晰明亮，长久不变色，在这里和黄金底衬结合，显得格外庄重规整。\n\n纹章盾是欧洲贵族身份与王权的象征，这件作品融合了法国文艺复兴时期精致的宫廷工艺，既承载着瓦卢瓦王朝晚期的权力印记，也展现了当时跨工艺门类的制作水准。\n\n这件藏品现在陈列在卢浮宫黎塞留馆区，528查理五世展厅的第11号展柜中。",
+  "narrationSource": "translated",
+  "frenchBrief": "Ecu de Charles IX\n\nEpoque / période : Henri II (1547-1559) (Occident->Renaissance->dynastie des Valois-Angoulême) ; Charles IX (1560-1574) (Occident->Renaissance->dynastie des Valois-Angoulême)  Date de création/fabrication : vers 1555 - 1560\n\nMatériau/Technique : soie brodée de fils d'or Matériau : fer (fer repoussé, plaqué d'or et émaillé) Technique : repoussé = repoussage (techniques métal) Technique : techniques métal Technique : émaillé = émaillage = émail = émaux (techniques métal) Matériau : soie Technique : broderie (techniques textile) Technique : fil d'or (techniques métal->étiré = étirage->étiré en fil->fil->fil métallique)\n\nComposition centrale de bataille entourée d'un réseau de cuirs, de motifs de trophées, de pampres, de figures d'esclaves assis sur des canons. La bordure, ciselée et retournée, dessine une frise de guirlande de lauriers ponctuellement interrompue de trente-deux médaillons en émaux cloisonnés sur or qui représentent alternativement la lettre \"K\" émaillée de blanc. La garniture au revers est de velours cramoisi brodé d'arabesques bordé par une frange de soie.\n\nLocalisation : Richelieu, [OArt] Salle 528 - Charles Quint, Vitrine 11"
+}

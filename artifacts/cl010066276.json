@@ -1,0 +1,29 @@
+{
+  "id": "cl010066276",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010066276",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Le Tricheur à l’as de carreau",
+  "titleZh": "《方块A作弊者》",
+  "location": {
+    "wingKey": "sully",
+    "wingZh": "叙利馆",
+    "floor": "2",
+    "floorLabel": "2 层",
+    "gallery": "912",
+    "galleryLabel": "912 号展厅",
+    "roomFr": "Salle 912, Aile Aile Sully, Niveau 2",
+    "currentLocationFr": "Sully, [Peint] Salle 912 - Georges de La Tour et Les frères Le Nain, Salle 912 - Georges de La Tour (1593-1652)"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "RF 1972 8",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您面前的这幅作品，是法国绘画名作《方块A作弊者》。它由法国17世纪画家乔治·德·拉图尔创作，是拉图尔成熟期的作品，大概创作于1636到1640年间，是一幅布面油画。\n\n整幅画描绘了牌桌上的一出骗局。围坐在桌旁的一共四个人物，从左侧的年轻贵族，到发牌的作弊者，再到牌桌另一端的侍女，以及贵妇人，所有人物都在这场心照不宣的骗局里各怀心事。\n\n和很多同时代热闹的风俗画不同，拉图尔用非常简洁稳定的构图收拢了整个场景，所有人物都排布在画面前景，没有多余的背景陈设，让观众的注意力完全集中在人物的动作和神态上。你可以仔细看作弊者的动作，他正悄悄从身后抽出那张决定胜负的方块A，手部的动作稳而轻，带着不易察觉的紧张，整个画面没有直白的冲突，却把暗潮涌动的张力藏在了每一处细节里。\n\n作为17世纪法国卡拉瓦乔主义的代表人物，拉图尔尤其擅长用光来塑造氛围，这幅作品也不例外。清晰明确的明暗对比，把人物的轮廓、衣料的褶皱都梳理得干净利落，整幅画笼罩在一种冷静又暗流涌动的氛围里，没有直白的道德批判，却把那个时代上流社交里隐藏的欺诈，不动声色地铺在了观众面前。\n\n它如今陈列在卢浮宫苏利馆二层的912号展厅，这里专门陈列乔治·德·拉图尔的作品，您可以站在画前，慢慢品味这幅作品里藏着的冷静与锋芒。",
+  "narrationSource": "generated",
+  "frenchBrief": "Le Tricheur à l’as de carreau\n\nDate de création/fabrication : 2e quart du XVIIe siècle (vers 1636 - 1640)\n\nhuile sur toile\n\nLocalisation : Sully, [Peint] Salle 912 - Georges de La Tour et Les frères Le Nain, Salle 912 - Georges de La Tour (1593-1652)"
+}

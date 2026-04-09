@@ -1,0 +1,41 @@
+{
+  "id": "cl010009693",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010009693",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Relief de Séthi I et Hathor",
+  "titleZh": "塞提一世与哈索尔浮雕",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "non exposé"
+  },
+  "collectionFr": "Département des Antiquités égyptiennes",
+  "inventory": [
+    {
+      "value": "N 124",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "CC 243",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "B 7",
+      "type": "Numéro d'usage"
+    },
+    {
+      "value": "Champollion n°1",
+      "type": "N° anc. coll."
+    }
+  ],
+  "narrationZh": "现在您面前的这块石灰岩浮雕，是古埃及新王国时期第十九王朝的作品，通行命名为《塞提一世与哈索尔浮雕》。铭文标明它的创作与法老塞提一世有关，塞提一世的统治年代在公元前1294年至公元前1279年之间。\n\n这是一块高浮雕浅浮雕，原本还施有彩绘，留存至今的颜色还有黑、红、黄、蓝、白五种。浮雕描绘了古埃及法老与众神相会的神圣场景，站立在画面一侧的是法老塞提一世，他身着褶皱长袖上衣，搭配同样带褶皱的围腰，前身垂着装饰有圣蛇纹的饰片，外披带褶皱的王袍。法老头戴三角分绺的假发，额前立着象征王权的圣蛇，脚穿凉鞋，颈间佩戴宽项圈，一只手由女神牵着，姿态庄重规整。\n\n画面另一侧站立的就是爱与丰收女神哈索尔。她包裹式的假发上，标志性的牛角托着日盘，这是哈索尔最容易辨认的形象特征。她颈间佩戴古埃及贵族常用的乌塞赫宽项圈，腕间有手镯，耳配环饰，正捧着象征赐福的梅纳特项圈，递向法老。整个浮雕外框装饰着交错排列的矩形纹路，层次清晰。\n\n浮雕中人物的衣褶处理很见功力。工匠用深浅错落的线条，在硬质石灰岩上表现出布料柔软的褶皱层次，不同服饰的褶皱形态还有区分，既符合古埃及艺术程式化的表达，又带出了材质的细腻变化。女神的神态沉静柔和，牛角与日盘的轮廓打磨得圆润流畅，和法老规整庄重的气质形成巧妙平衡。\n\n这件作品是古埃及新王国时期神庙浮雕的典型代表，保留了古埃及王室祭祀艺术的核心特征，见证了那个时代埃及人对神权与王权关系的表达。目前这件藏品并未对外公开展出。",
+  "narrationSource": "translated",
+  "frenchBrief": "Relief de Séthi I et Hathor\n\nDate de création/fabrication : Séthi I (inscription/dédicace/signature) (-1294 - -1279)\n\nMatériau : calcaire Technique : bas-relief saillant, peinture Couleur : noir-rouge-jaune-bleu-blanc\n\nDécor : divinité tendant au roi un symbole ; roi (debout, chemise à manches plissées, pagne plissé, devanteau à frise d'uraeus, manteau plissé, perruque à pans triangulaires, uraeus, sandales, collier, tenant par la main) ; Hathor (debout, résille : perle, perruque enveloppante, cornes disquées, collier ousekh, bracelet, boucles d'oreille, présentant, collier menat) ; cadre de rectangles alternés\n\nLocalisation : non exposé"
+}

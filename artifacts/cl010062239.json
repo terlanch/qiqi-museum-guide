@@ -1,0 +1,33 @@
+{
+  "id": "cl010062239",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010062239",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Le serment des Horaces, entre les mains de leur père",
+  "titleZh": "贺拉斯三兄弟在父亲面前宣誓",
+  "location": {
+    "wingKey": "denon",
+    "wingZh": "德农馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "702",
+    "galleryLabel": "702 号展厅",
+    "roomFr": "Salle 702, Aile Aile Denon, Niveau 1",
+    "currentLocationFr": "Denon, [Peint] Salle 702 - Salle Daru, néoclassicisme"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "INV 3692",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "MR 1432",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您看到的这幅作品，是法国新古典主义绘画的标志性作品——《荷拉斯兄弟之誓，在他们父亲的手中》。\n\n它创作于1784年，属于18世纪的最后二十五年，是布面油画作品，现藏于卢浮宫绘画部。作品取材于古罗马的历史传说，描绘的是古罗马的荷拉斯家族三兄弟，在出征前，于父亲面前宣誓的场景。\n\n与当时流行的洛可可艺术浮华柔媚的风格不同，这件作品从构图开始就带着强烈的硬朗感。画家将画面分割为清晰稳定的三角结构，父亲位于顶端，三名儿子从左向右整齐排列成整齐的斜线，女性亲属则蜷缩在画面右下角，刚与柔的对比让整个画面的庄重感瞬间被建立起来。\n\n画面的线条清晰而硬朗，男人挺拔的身躯、紧握的武器，都用明确肯定的轮廓勾勒出来，整体色调沉郁质朴，没有多余华丽的装饰，把那种为了城邦舍弃个人情感的牺牲感，牢牢地钉在了画布上。\n\n这件作品是新古典主义美术的代表作品，它不再追求贵族生活的享乐描绘，转而从古代历史中汲取宏大的主题，用理性、稳重的构图，传递出严肃的道德力量，也正好呼应了18世纪末法国社会的思想变革。\n\n现在这幅作品陈列在卢浮宫德农翼一层的达鲁厅，也就是编号702的展厅中。",
+  "narrationSource": "generated",
+  "frenchBrief": "Le serment des Horaces, entre les mains de leur père\n\nDate de création/fabrication : 4e quart du XVIIIe siècle (1784)\n\nhuile sur toile\n\nLocalisation : Denon, [Peint] Salle 702 - Salle Daru, néoclassicisme"
+}

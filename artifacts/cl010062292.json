@@ -1,0 +1,33 @@
+{
+  "id": "cl010062292",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010062292",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "La Femme au miroir",
+  "titleZh": "《镜中女人》",
+  "location": {
+    "wingKey": "denon",
+    "wingZh": "德农馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "711",
+    "galleryLabel": "711 号展厅",
+    "roomFr": "Salle 711, Aile Aile Denon, Niveau 1",
+    "currentLocationFr": "Denon, [Peint] Salle 711 - Salle de la Joconde, Salle 711 - (Salle des Etats)"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "INV 755",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "MR 504",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您面前的这幅作品，是卢浮宫藏的油画《照镜子的女人》。\n\n它创作于十六世纪第二个四分之一，也就是1525到1550年之间，属于意大利文艺复兴晚期，收藏在卢浮宫德农馆的绘画部。作品以油彩绘制在画布上，是文艺复兴时期流行的女性题材创作。\n\n和文艺复兴早期对女性形象的刻板理想化处理不同，这一时期的作品开始更细腻地捕捉人物的松弛状态与私密情态。\n\n镜子是画面的核心意象，它既是日常的梳妆用品，也暗含着文艺复兴对人的自我认知的隐喻——当人凝望镜中自身，便是对自我存在的一次确认，这恰好呼应了文艺复兴运动核心的人文精神。\n\n卢浮宫把这幅作品陈列在德农翼一层的711厅，这里就是大名鼎鼎的《蒙娜丽莎》所在的国务厅，来欣赏《蒙娜丽莎》的时候，不妨放慢脚步，看看这幅同厅陈列的文艺复兴晚期作品，感受当时艺坛对女性题材的不同表达。",
+  "narrationSource": "generated",
+  "frenchBrief": "La Femme au miroir\n\nDate de création/fabrication : 2e quart du XVIe siècle (1525 - 1550)\n\nhuile sur toile\n\nLocalisation : Denon, [Peint] Salle 711 - Salle de la Joconde, Salle 711 - (Salle des Etats)"
+}

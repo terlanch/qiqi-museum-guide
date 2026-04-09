@@ -1,0 +1,37 @@
+{
+  "id": "cl010275342",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010275342",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Buste de Marc Aurèle",
+  "titleZh": "《马可·奥勒留胸像》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "non exposé"
+  },
+  "collectionFr": "Département des Antiquités grecques, étrusques et romaines",
+  "inventory": [
+    {
+      "value": "MR 559",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "N 1474",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "Ma 1179",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "这里您看到的，是《马尔库斯·奥勒留胸像》，属于罗马帝国时期的雕刻作品。\n\n它创作于公元二世纪的最后二十五年，大约在180到183年之间，材质是产自戈克特佩的大理石，为圆雕作品。作为帝王肖像，这件作品雕刻的正是罗马帝国五贤君的最后一位，斯多葛派哲学家皇帝马尔库斯·奥勒留。\n\n这件作品虽然残缺，雕刻技法却清晰可辨。雕刻家利用钻具塑造他浓密的卷发与络腮胡，毛发纹理深浅错落，光影对比强烈，和面部光洁流畅的轮廓形成鲜明的材质感对比；眼睛的虹膜和瞳孔都用凹刻工艺做出，比单纯打磨出轮廓更有神采。现在我们能看到鼻尖处有一块残损，而整个胸像的底座部分，是十八到十九世纪文物修复师阿尔巴奇尼完成的现代拼接，作品在古代也经历过重新打磨，依然保留着原作的神韵。\n\n即使经过千年流传和后世修整，这件肖像依然抓住了马尔库斯·奥勒留的特质。不同于早期罗马帝王肖像大多偏向英武凌厉的塑造，这件作品里，哲学家皇帝眉宇间带着沉思，深沉的神态恰好贴合他传世著作《沉思录》里那种沉静内省的气质，把一个勤于思考的统治者形象刻在了大理石上。\n\n这件胸像是研究二世纪罗马肖像雕刻的重要实物，它既体现了罗马帝国盛期雕刻对个性特征的把握，也反映了那个时代的审美转向——从张扬的功业彰显，转向对人物内在精神的刻画。\n\n这件作品目前暂未公开展出，保存在卢浮宫的馆藏库房中。",
+  "narrationSource": "translated",
+  "frenchBrief": "Buste de Marc Aurèle\n\nEpoque / période : romain impérial  Date de création/fabrication : 4e quart IIe s. ap. J.-C. (vers 180 - 183)\n\nMatériau : marbre de Göktepe Technique : ronde-bosse (sculpture), gravé = gravure (traces, iris, pupille en creux), trépan (sculpture) (cheveux, barbe)\n\nMarc Aurèle (portrait, barbe)  Etat de l'oeuvre : éclat sur le bout du nez. Le buste est un montage moderne fait par Albacini. L'oeuvre a été anciennement repolie.\n\nLocalisation : non exposé"
+}

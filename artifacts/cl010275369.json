@@ -1,0 +1,37 @@
+{
+  "id": "cl010275369",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010275369",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Statue d'Auguste",
+  "titleZh": "奥古斯都雕像",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "non exposé"
+  },
+  "collectionFr": "Département des Antiquités grecques, étrusques et romaines",
+  "inventory": [
+    {
+      "value": "MR 100",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "N 1577",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "Ma 1212",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "现在您看到的是这件《奥古斯都像》，它属于古罗马帝国时期的雕塑作品。\n\n这件作品创作时间跨度从公元1世纪前二十五年到公元2世纪中叶，其中雕像的头部完成于公元1世纪早期，躯体部分则制作于哈德良皇帝统治时期，是一件由不同时期部件拼接而成的复合作品。整尊雕像以大理石为材料，是圆雕创作，背部仅做了粗略的加工，说明它最初设计是倚靠墙面放置的。\n\n雕像的身份是古罗马帝国的第一位元首奥古斯都，身躯塑造的是身着罗马长官长袍托加、脚穿官员专用鞋卡尔塞乌斯的罗马政务官形象。这尊雕像的头部并非原躯体所匹配，18世纪在意大利韦莱特里出土的这件头部，后来才和现存的这尊躯体拼接在一起。今天我们依然能看到雕像左侧面部保留着出土后留存的钙质沉积物，鼻子、双手都已经经过后世大理石补作，衣袍褶皱上的多处残损，也用大理石或石膏做了修复。\n\n从雕像的形态来看，奥古斯都的面部轮廓工整紧致，没有过多情绪化的表达，完全是一位成熟政治家的克制神态。身着托加的褶皱线条流畅自然，顺着身躯的起伏铺展开，准确传递出大理石的温润质感，也把罗马政务官庄重的身份感烘托得十分到位。\n\n作为拼接而成的古罗马帝王肖像，这件作品保留了公元1到2世纪罗马肖像雕塑的典型特征：头部追求高度写实的个人特征，躯体则承袭了希腊雕塑对人体比例和衣纹美感的追求，是研究古罗马帝王肖像创作传统的重要实物材料。\n\n这件奥古斯都大理石像目前并没有对外公开展出，仅作为卢浮宫的馆藏文物保存研究。",
+  "narrationSource": "translated",
+  "frenchBrief": "Statue d'Auguste\n\nEpoque / période : romain impérial  Date de création/fabrication : 1e quart Ie s. ap. J.-C. ; 1e moitié IIe s. ap. J.-C. (époque d'Hadrien pour le corps ; debut) (1 - 150)\n\nMatériau : marbre Technique : ronde-bosse (sculpture) Précision technique : revers sommairement travaillé\n\nœuvre composite ; Auguste (portrait)  magistrat (toge, calceus)  Etat de l'oeuvre : La tête trouvée à Velletri n'appartient pas au corps. Présence de concrétions sur la gauche du visage. Le nez, et les 2 mains ont été refaits en marbre. De nombreux éclats sur  la draperie ont été repris en marbre ou en plâtre.\n\nLocalisation : non exposé"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cl010330266",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010330266",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Lion dit \"de Monzon\"",
+  "titleZh": "“蒙松”狮子展",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "Louvre-Lens, Salles d'expositions temporaires"
+  },
+  "collectionFr": "Département des Arts de l'Islam",
+  "inventory": [
+    {
+      "value": "OA 7883",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您看到的这件青铜雕塑，是卢浮宫伊斯兰艺术部的藏品，它的正式名称叫“蒙松狮子”。\n\n这件作品的创作年代，根据风格推断，大约在公元975年到1100年之间，也就是10世纪的最后二十五年到12世纪初，属于中世纪伊斯兰世界的金属工艺作品。它整体以失蜡法浇铸青铜成型，狮身表面还带有錾刻装饰细节，是一件保存相当完整的古代金属铸件。\n\n作为一件大型青铜狮造像，它保留了古代伊斯兰金属工艺相当成熟的制作痕迹。整只狮子的体量匀称扎实，浇铸出的轮廓线条流畅，没有明显的接缝瑕疵，可见当时工匠已经掌握了非常稳定的大型青铜铸造技术。狮身表面的錾刻纹理，顺着肌肉起伏排布，既没有破坏整体的造型感，又增加了皮毛的层次细节，摸上去能感受到纹理的细微凹凸，和光滑的青铜曲面形成了很好的对比。\n\n这件作品没有留下创作者的姓名，也没有太多关于它最初用途的明确记载，但从造型的完成度来看，它大概率是重要公共建筑或者王室场所的装饰构件。伊斯兰世界的金属工艺在中世纪已经发展出极高的水准，这件狮子就是很好的例证——工匠没有完全照搬现实中狮子的形态，而是在写实的基础上做了适度的概括，让这件作品既保留了猛兽的威严感，又符合当时伊斯兰艺术的装饰审美。\n\n如今这件蒙松狮子，陈列在卢浮宫朗斯分馆的临时展厅中，等待着每一位访客近距离观察这件千年前的青铜杰作。",
+  "narrationSource": "generated",
+  "frenchBrief": "Lion dit \"de Monzon\"\n\nDate de création/fabrication : 4ème quart du Xe siècle ; XIe siècle (attribution d'après style) (vers 975 - 1100)\n\nMatériau : Métal Matériau/Technique : Métal (bronze) coulé, décor gravé\n\nLocalisation : Louvre-Lens, Salles d'expositions temporaires"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cl010091962",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010091962",
+    "modified": "2026-01-30"
+  },
+  "titleFr": "Cléopâtre mourant",
+  "titleZh": "《垂死的克娄巴特拉》",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "-1",
+    "floorLabel": "-1 层",
+    "gallery": "104",
+    "galleryLabel": "104 号展厅",
+    "roomFr": "Salle 104, Aile Aile Richelieu, Niveau -1",
+    "currentLocationFr": "Richelieu, [SCULPT] Salle 104 - Crypte François Girardon (1628-1715)"
+  },
+  "collectionFr": "Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes",
+  "inventory": [
+    {
+      "value": "MR 1756",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您面前的这件作品，是创作于1700年的大理石雕塑《垂死的克娄巴特拉》。\n\n它收藏在卢浮宫雕塑部，展陈于黎塞留翼地下一层的104号展厅，这个展厅同时也是弗朗索瓦·吉拉尔东的纪念地窖。作品以整块大理石雕成，题材来自罗马时代记录的古埃及最后一代女王克娄巴特拉的死亡故事。\n\n雕塑完整呈现了女王生命弥留之际的状态：她斜倚着身体，半边身体放松下沉，脖颈处还保留着被毒蛇咬伤的细微标记，整个身体的肌肉线条随着松弛的姿态自然舒展，没有过度扭曲的夸张，反而透着一种平静的颓然。大理石莹润细腻的质感，恰好衬出了皮肤本该有的柔润感，和身下垫着的粗糙衣褶形成清晰对比，光影落在雕塑上，把松弛下垂的轮廓勾勒得格外柔和。\n\n没有激烈的挣扎，也没有刻意渲染死亡的悲怆，整个作品笼罩着一层低沉、宁静的悲剧氛围，把一代女王走向终点的从容，刻进了冰冷的石材里。\n\n这件作品诞生在18世纪初的法国，是那个时代新古典主义思潮萌芽阶段，对古典题材创作的典型探索，保留了那一时期法国雕塑对人体质感与情绪氛围的追求。\n\n现在它就陈列在这里，您可以慢慢走近，感受大理石里凝固的那个最终时刻。",
+  "narrationSource": "generated",
+  "frenchBrief": "Cléopâtre mourant\n\nDate de création/fabrication : 1700\n\nmarbre\n\nLocalisation : Richelieu, [SCULPT] Salle 104 - Crypte François Girardon (1628-1715)"
+}

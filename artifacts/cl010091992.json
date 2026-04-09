@@ -1,0 +1,29 @@
+{
+  "id": "cl010091992",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010091992",
+    "modified": "2025-10-31"
+  },
+  "titleFr": "Cheval retenu par un palefrenier",
+  "titleZh": "《被马夫拉住的马》",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "-1",
+    "floorLabel": "-1 层",
+    "gallery": "102",
+    "galleryLabel": "102 号展厅",
+    "roomFr": "Salle 102, Aile Aile Richelieu, Niveau -1",
+    "currentLocationFr": "Richelieu, [SCULPT] Salle 102 - Cour Marly, Salle 102 - RDC"
+  },
+  "collectionFr": "Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes",
+  "inventory": [
+    {
+      "value": "MR 1802",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您看到的这件雕塑，叫做《被马夫拉住的马》。\n\n它创作于1745年，属于法国洛可可到新古典主义转型时期的作品，现藏卢浮宫雕塑部门，归类在中世纪、文艺复兴到近现代雕塑展区。这件作品整体由卡拉拉大理石雕成，是一组双人一马群雕中的南侧马部分。\n\n这件作品最动人的地方，首先是大理石赋予的动感。马儿前蹄腾空抬起，脖颈奋力扭转，肌肉在大理石表面绷紧，连缰绳下贲张的血管起伏都清晰可辨，拉住它的马夫埋身抵住马身，胳膊的线条紧绷，把拉扯之间的张力拉满。卡拉拉大理石本身质地细腻均匀，亮部反光柔和，暗部能刻出足够深的阴影，正好把马匹毛发的光泽、皮肤的紧绷感和布料的褶皱区分开，在静态石材里做出了动态的张力。\n\n这件作品原本是马尔利宫装饰雕塑群的一部分，马尔利宫是法国王室修建的城郊离宫，这组马匹雕塑原本就安置在宫苑的喷泉边，为空间增添动感与皇家气势。\n\n这类大型动物雕塑，在18世纪的欧洲宫廷装饰中十分少见，创作者没有把马处理成温驯的王室坐骑，反而抓住了它野性未驯、即将挣脱的瞬间，把力量感直接摆在观者面前，打破了传统装饰雕塑的平和感，在雕塑发展里是很有意思的一次尝试。\n\n现在这件作品陈列在卢浮宫里卡利厢房负一层的马尔斯庭院102展厅，您站在雕塑旁，依然能清晰感受到两百多年前，这匹奔马扑面而来的力量。",
+  "narrationSource": "generated",
+  "frenchBrief": "Cheval retenu par un palefrenier\n\nDate de création/fabrication : 1745 (signature)\n\nmarbre de Carrare\n\nCheval sud\n\nLocalisation : Richelieu, [SCULPT] Salle 102 - Cour Marly, Salle 102 - RDC"
+}

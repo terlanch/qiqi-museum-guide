@@ -1,0 +1,41 @@
+{
+  "id": "cl010114735",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010114735",
+    "modified": "2025-11-03"
+  },
+  "titleFr": "Chapel doré : casque de Charles VI composé de divers fragments avec la couronne, ses fleurons et trois médaillons",
+  "titleZh": "《金色小教堂：由不同碎片组成，带有王冠、茎饰与三个浮雕圆牌的查理六世头盔》",
+  "location": {
+    "wingKey": "sully",
+    "wingZh": "叙利馆",
+    "floor": "-1",
+    "floorLabel": "-1 层",
+    "gallery": "136",
+    "galleryLabel": "136 号展厅",
+    "roomFr": "Salle 136, Aile Aile Sully, Niveau -1",
+    "currentLocationFr": "Sully, [HIST LOUVRE] Salle 136 - Salle saint Louis Nord, Vitrine 04"
+  },
+  "collectionFr": "Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes",
+  "inventory": [
+    {
+      "value": "OA 12014",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "OP 162",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "OP 945",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "OP 946",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您看到的这件文物，是法国国王查理六世的礼仪头盔，现存于卢浮宫。\n\n它诞生于1411年之前，属于中世纪哥特时期瓦卢瓦王朝的金饰礼拜堂藏品，是由锻打成型的铜片经錾刻、雕刻、珐琅处理后，再用汞镀金工艺制成的金属器物。这件头盔最初是从1528年填埋的菲利普·奥古斯塔主塔井中出土的，出土时碎成了150多块，如今我们看到的是修复拼接后的成品，仍保留着部分缺损。它整体分为两个部分：盔体本身，以及固定在面甲下沿的一顶王冠。\n\n从材质和工艺就能判断，它不是作战或者比武用的防护装备，而是专门用于王室仪式的仪仗头盔。材料珍贵，工艺精细，錾刻镀金加珐琅的处理，处处彰显它的特殊身份。王冠上装饰有鸢尾花形饰，长方形珐琅徽章上也满布鸢尾花纹样，这是法国王室最标志性的符号，直接点明了它的所有者身份。1411年的王室清单里，就记载过一件“镀金铁盔，饰有凸起鸢尾花，带王冠，下方有飞鹿，刻有文字‘EN BIEN’，顶部饰鸢尾花”，和这件文物正好对应，现在我们还能在盔体上看到残留的铭文痕迹，顶部也保留着两个带翼飞鹿的固定孔，飞鹿原本从錾刻的榛叶或蔷薇枝叶纹样中伸出，这类装饰是当时王室器物常见的设计。\n\n这件头盔归属查理六世，除了出土位置符合推断，纹饰和铭文都和国王本人的徽章、格言完全对应，这一点已经得到学界确认。\n\n如今这件珍贵的中世纪王室仪仗器，陈列在叙利馆一楼圣路易北厅，第136展厅的4号展柜中。",
+  "narrationSource": "translated",
+  "frenchBrief": "Chapel doré : casque de Charles VI composé de divers fragments avec la couronne, ses fleurons et trois médaillons\n\nEpoque / période : Charles VI (1380-1422) (Occident->moyen âge->gothique->dynastie des Valois)  Date de création/fabrication : avant 1411\n\nMatériau : cuivre (cuivre battu, ciselé, gravé, émaillé et doré au mercure) Technique : techniques métal\n\nDans le puits du donjon de Philippe Auguste comblé en 1528, on retrouva un casque en plus de cent cinquante morceaux ce qui explique son état lacunaire après reconstitution. Il est formé de deux parties : le casque et une couronne fixée au bord inférieur au dessus de la visière. Le caractère précieux des matériaux ainsi que la technique soignée, cuivre ciselé doré et émaillé lui confère d’emblée la fonction de casque de parade, évinçant la possibilité de protection contre la guerre ou le tournoi. La présence du décor fleurdelysé, fleurons sur la couronne et semis de fleur de lys dans les médaillons rectangulaires émaillés, indique qu’il s’agit d’un objet royal. Dans l’inventaire de 1411, est décrit un « …chapeau de fer doré à fleurs de lis élevées à une couronne et au dessous des cerfs volants et a un mot qui dit EN BIEN et au dessus une fleur de lis ». Sont visibles des traces de l’inscription « En ien ». Quant aux cerfs volants, il reste encore les trous de fixation des deux cerfs ailés qui figuraient sur la partie supérieure, jaillissant d'un réseau de feuilles de noisetier ou d'églantier ciselées sur fond guilloché selon une coutume fréquente pour les pièces royales. L’attribution au roi Charles VI est affirmée d’une part en raison du lieu de découverte et d'autre part, par la description des emblèmes et devises du roi. (source : site internet du musée du Louvre, texte Isabelle Balandre)\n\nLocalisation : Sully, [HIST LOUVRE] Salle 136 - Salle saint Louis Nord, Vitrine 04"
+}

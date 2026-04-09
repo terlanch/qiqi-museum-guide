@@ -1,0 +1,33 @@
+{
+  "id": "cl010065339",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010065339",
+    "modified": "2026-03-29"
+  },
+  "titleFr": "La Bataille de San Romano : la contre-attaque de Micheletto Attendolo da Cotignola",
+  "titleZh": "《圣罗马诺之战：科蒂尼奥拉的米凯莱托·阿滕多洛反攻》",
+  "location": {
+    "wingKey": "denon",
+    "wingZh": "德农馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "708",
+    "galleryLabel": "708 号展厅",
+    "roomFr": "Salle 708, Aile Aile Denon, Niveau 1",
+    "currentLocationFr": "Denon, [Peint] Salle 708 - Salon Carré"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "MI 469",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "Campana 166",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您看到的这幅蛋彩木板画，是乌切洛《圣罗马诺之战》三幅组画中的一幅，名为《米凯莱托·阿滕多洛·达·科蒂尼奥拉的反攻》。\n\n这幅作品创作于15世纪的第三个四分之一，也就是1450到1475年间，材质为蛋彩木板，记录的是1432年发生在意大利佛罗伦萨与米兰之间的圣罗马诺战役。它是组画中流传到卢浮宫的一幅，另外两幅分别藏于伦敦国家美术馆和佛罗伦萨乌菲齐美术馆，分别描绘佛罗伦萨军队首领尼科洛·达·托伦蒂诺率军打头阵，以及贝尔纳迪诺·瓦尔迪尼·德拉卡尔达坠马的场景。整套作品最初受佛罗伦萨贵族莱奥纳尔多·巴尔托利尼·萨林贝尼委托，装饰他宫殿的一个房间。\n\n最初这幅画是带弧形顶边的，左上角和左下角还有切口，用来适配房间的建筑结构，直到1484年才被裁掉顶部、补全缺口，改成我们现在看到的长方形画幅。\n\n作为意大利文艺复兴早期的作品，这幅画最值得留意的是艺术家对透视技法的探索。画中散落的盔甲、折断的兵器，都沿着统一的透视方向排列，把平面的画面拉出了纵深的空间感，所有战斗元素的排布严整有序，打破了中世纪绘画平面装饰的惯性，是早期艺术家尝试用科学方法重构绘画空间的典型例证。\n\n今天这幅作品陈列在德农馆的708厅，也就是经典的方形沙龙中。",
+  "narrationSource": "translated",
+  "frenchBrief": "La Bataille de San Romano : la contre-attaque de Micheletto Attendolo da Cotignola\n\nDate de création/fabrication : 3e quart du XVe siècle (1450 - 1475)\n\ntempera (?) sur bois\n\nPanneau à l’origine, semble-t-il, terminé en lunette et pourvu d’une découpe aux angles supérieurs et à la partie inférieure gauche pour s’adapter à l’architecture d’une pièce, puis, sans doute en 1484, mutilé en haut et complété au niveau des encoches pour revêtir un format rectangulaire. Avec Niccolò da Tolentino à la tête des troupes florentines (Londres, National Gallery), Bernardino Ubaldini della Carda désarçonné (Florence, Galerie des Offices), fait partie d’une série de trois tableaux relatant la Bataille de San Romano (1432), vraisemblablement commandée par Lionardo Bartolini Salimbeni (1404-1479) pour décorer une pièce de son palais florentin.\n\nLocalisation : Denon, [Peint] Salle 708 - Salon Carré"
+}

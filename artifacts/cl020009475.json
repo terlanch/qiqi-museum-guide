@@ -1,0 +1,37 @@
+{
+  "id": "cl020009475",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl020009475",
+    "modified": "2025-08-25"
+  },
+  "titleFr": "Bataille de Rivoli",
+  "titleZh": "《里沃利战役》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "Grand format"
+  },
+  "collectionFr": "Département des Arts graphiques",
+  "inventory": [
+    {
+      "value": "INV 23591, Recto",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "NIII 34484",
+      "type": "Anciens numéros d'inventaire"
+    },
+    {
+      "value": "vol.10, p.14",
+      "type": "Référence de l'inventaire manuscrit"
+    }
+  ],
+  "narrationZh": "现在您看到的这幅作品，是卢浮宫版画与素描部收藏的《里沃利战役》。\n\n这是一幅大尺寸的纸上作品，创作使用了羽毛笔、中国墨洗染，还结合了水彩淡晕技法完成。作品表现的是法国历史上著名的里沃利战役场景，这类以重要战役为主题的素描稿，很多是艺术家为后续大型油画创作做的草稿，保留了艺术家最直接、鲜活的创作感受。\n\n我们来看作品的技法细节，画家先用羽毛笔勾勒出清晰的线条，确定战场的整体轮廓与人物、阵营的位置，再用中国墨做分层洗染，墨色从浅灰到深黑自然过渡，轻松区分出不同军团的层次，也烘托出战场烟尘弥漫的紧张氛围。在此之上，画家又添加了淡彩水彩，淡淡的色调晕染出天空与远处山地的轮廓，让整个场景不会因为墨色的沉重显得沉闷，拉开了战场的空间纵深感。\n\n这种以线造型再结合淡色晕染的创作方式，比完成度极高的油画多了一份灵动的现场感，能让我们清晰感受到创作者梳理宏大场景的思路。原本混乱的战场，在这里被归纳出清晰的秩序，远近层次分明，紧绷的战争氛围透过纸本传递出来。\n\n作为卢浮宫版画与素描部收藏的大尺幅作品，它既保留了19世纪初法国军事题材创作的典型特征，也为我们研究这类大型历史题材作品的创作过程，提供了非常珍贵的一手实物资料。",
+  "narrationSource": "generated",
+  "frenchBrief": "Bataille de Rivoli\n\nPlume, lavis d'encre de Chine, lavis d'aquarelle.\n\nLocalisation : Grand format"
+}

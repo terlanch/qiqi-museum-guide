@@ -1,0 +1,37 @@
+{
+  "id": "cl010009553",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010009553",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Statue de Ramsès II",
+  "titleZh": "《拉美西斯二世雕像》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "Abu Dhabi (Emirats Arabes Unis), Louvre Abu Dhabi"
+  },
+  "collectionFr": "Département des Antiquités égyptiennes",
+  "inventory": [
+    {
+      "value": "N 20",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "A 20",
+      "type": "Numéro d'usage"
+    },
+    {
+      "value": "Drovetti n°274",
+      "type": "N° anc. coll."
+    }
+  ],
+  "narrationZh": "现在您面前的这尊雕像，是古埃及新王国时期第十九王朝法老拉美西斯二世的坐像。\n\n这尊雕像制作于拉美西斯二世统治时期，也就是公元前1279到公元前1212年间，材质是闪长岩，采用圆雕工艺整体雕凿而成，是一件典型的古埃及法老纪念雕像。\n\n雕像中法老呈标准的端坐姿态，遵循古埃及王室雕像的经典规制。他头戴象征王权的尼米斯头饰，头饰前端刻有保护法老的圣蛇乌赖乌斯，下巴佩戴标志性的直形假胡须，腰间系着古埃及王室专用的申吉特围腰，身后配有代表神性的牛尾，耳朵还特意开出穿孔，原本应当佩戴有重量可观的黄金耳饰。所有细节都清晰指向法老的至高身份，以及古埃及人将法老视为人间之神的认知。\n\n整尊雕像由整块坚硬的闪长岩雕成，石材本身密度极高，自带厚重匀净的深灰质感，和法老端坐的沉稳姿态完全契合。雕刻家在坚硬的石材上依然精准打磨出了轮廓的柔和过渡，法老面部线条规整肃穆，腰身比例紧致稳重，哪怕历经三千多年，造型的完整性依然保持得很好，能清晰看出古埃及新王国时期王室大型雕刻的成熟工艺。\n\n作为古埃及历史上统治时间最长的法老之一，拉美西斯二世在位期间大兴土木，留下了大量纪念性雕像，这尊坐像就是其中一件保存完整的作品，它清晰体现了古埃及官方雕刻强调秩序、突出神性的创作传统。\n\n这尊古埃及法老坐像，现在陈列于阿拉伯联合酋长国阿布扎比的卢浮宫阿布扎比博物馆，是卢浮宫体系中展示古埃及文明的重要藏品。",
+  "narrationSource": "translated",
+  "frenchBrief": "Statue de Ramsès II\n\nDate de création/fabrication : Ramsès II (mention de règne) (-1279 - -1212)\n\nMatériau : diorite Technique : ronde-bosse\n\nroi (assis, pagne chendjit, coiffure némès, uraeus, queue de taureau, fausse barbe droite, oreilles percées)\n\nLocalisation : Abu Dhabi (Emirats Arabes Unis), Louvre Abu Dhabi"
+}

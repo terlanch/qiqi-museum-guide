@@ -27,7 +27,7 @@ ARTIFACTS_DIR = ROOT / "artifacts"
 LOCAL_RAW_JSON = ROOT / "data" / "louvre_json"
 DATA_DIR = DOCS / "data"
 AUDIO_DIR = DOCS / "audio"
-CONFIG = ROOT / "config" / "seeds.json"
+DEFAULT_SEEDS = ROOT / "config" / "seeds.json"
 
 try:
     from dotenv import load_dotenv
@@ -116,14 +116,20 @@ def build_french_brief(d: Dict[str, Any], max_len: int = 2200) -> str:
     return text
 
 
-def load_seeds() -> List[Dict[str, Any]]:
-    with open(CONFIG, "r", encoding="utf-8") as f:
+def load_seeds(path: Path) -> List[Dict[str, Any]]:
+    with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
     return list(data.get("arks") or [])
 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--seeds",
+        type=Path,
+        default=None,
+        help=f"种子 JSON（含 arks 数组），默认 {DEFAULT_SEEDS.name}",
+    )
     parser.add_argument(
         "--skip-tts",
         action="store_true",
@@ -150,7 +156,11 @@ def main() -> None:
         )
         sys.exit(1)
 
-    seeds = load_seeds()
+    seeds_path = (args.seeds or DEFAULT_SEEDS).resolve()
+    if not seeds_path.is_file():
+        print(f"错误：找不到种子文件 {seeds_path}", file=sys.stderr)
+        sys.exit(1)
+    seeds = load_seeds(seeds_path)
     catalog: List[Dict[str, Any]] = []
 
     for i, seed in enumerate(seeds):

@@ -1,0 +1,37 @@
+{
+  "id": "cl020003018",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl020003018",
+    "modified": "2025-08-25"
+  },
+  "titleFr": "Draperie pour une figure assise",
+  "titleZh": "《坐姿人物帷幔》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "Petit format horizontal"
+  },
+  "collectionFr": "Département des Arts graphiques",
+  "inventory": [
+    {
+      "value": "INV 2255, Recto",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "NIII 8251",
+      "type": "Anciens numéros d'inventaire"
+    },
+    {
+      "value": "vol.1, p.385",
+      "type": "Référence de l'inventaire manuscrit"
+    }
+  ],
+  "narrationZh": "这件作品的通行译名为《坐姿人物衣褶习作》，创作于1475到1482年之间，来自文艺复兴早期的欧洲，现在收藏在卢浮宫的版画与素描部。\n\n这是一幅横版小尺寸习作，作者使用毛笔和灰色蛋彩，在做好底处理的亚麻布上创作，还叠加了白色提亮。按照当时的工序，这块亚麻布先被脱胶，再涂上一层细底料，底料由铅白混合少量褐土制成，本身就是偏深的棕褐色底调。\n\n作品整体用灰调单色完成，也就是我们常说的灰绘法。深棕的底色承托之下，作者用光线的明暗变化把衣褶从暗影里“托”了出来：灰色洗染层改变底色时，产生出类似蛋白石的半透明柔和效果，让不同层次的棕色之间保留了微妙的过渡空间。最后再用棕色毛笔和铅白，交叉排线刻画出衣料的纹理褶皱，织物的厚重感和垂坠感自然就透了出来。\n\n从创作痕迹来看，这块画布的底料本身有磨损，左上角曾经缺损后被修复，画布背面还有托裱，也能看到钢笔和黑墨水留下的装裱痕迹。\n\n文艺复兴早期的艺术家格外重视对实物的观察写生，衣褶习作就是当时画家训练写实能力的重要课题。这件作品没有完整的人物形象，却把重心完全放在了布料的体积、光影和质感表达上，恰恰为我们保留了一份早期文艺复兴画家基础训练的珍贵样本。\n\n它如今作为版画与素描部的藏品，以小幅横作的形态，向到访者展现着五百多年前画家对写实细节的极致追求。",
+  "narrationSource": "generated",
+  "frenchBrief": "Draperie pour une figure assise\n\ndite Draperie Saint-Morys\n\nVers 1475/1482\n\nPinceau et tempera grise, rehauts de blanc, sur toile de lin préparée. Toile décatie puis couverte d'une fine couche de préparation à base de blanc de plomb mélangé à une petite quantité de terre d'ombre pour la préparation brun sombre. Le ton de fond a permis d'effectuer un travail en grisaille qui fait sortir la figure de l'ombre grâce au jeu des lumières, tout en conservant une petite marge de modulation des bruns, grâce notamment à des lavis gris modifiant le ton de fond par des effets d'opalescence. Réseau de hachures au pinceau de couleur brune et au blanc de plomb. Usures dans la préparation de la toile. Traces de montage à la plume et encre noire. Angle supérieur gauche reconstitué. Doublé.\n\nLocalisation : Petit format horizontal"
+}

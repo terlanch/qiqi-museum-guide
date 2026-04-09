@@ -1,0 +1,29 @@
+{
+  "id": "cl010064313",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010064313",
+    "modified": "2026-03-02"
+  },
+  "titleFr": "La Barricade, dit aussi Souvenir de guerre civile. Juin1848",
+  "titleZh": "《街垒，又名内战纪念。1848年6月》",
+  "location": {
+    "wingKey": "denon",
+    "wingZh": "德农馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "714",
+    "galleryLabel": "714 号展厅",
+    "roomFr": "Salle 714, Aile Aile Denon, Niveau 1",
+    "currentLocationFr": "Denon, [Peint] Salle 714 - Collection Beistegui"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "RF 1942 31",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您看到的这幅作品，是卢浮宫藏的《街垒，又名六月一八四八年内战回忆》。\n\n它诞生于19世纪中期，大致创作于1850到1851年间，是一幅布面油画，现藏于卢浮宫德农馆一楼的714展厅，属于拜斯特吉捐赠藏品。\n\n这幅作品取材于1848年法国六月起义的街垒战场，没有宏大的全景铺陈，只截取了战后最刺目的一个局部。横陈在街垒前的阵亡者，半个身体掩在碎石瓦砾后，只露出沾血的衣物和低垂的手臂，远处半塌的街垒木石后，还能看到模糊的硝烟残迹。\n\n画家没有刻意美化或是煽动情绪，只用克制的厚重笔触，把石墙的粗糙肌理和织物的柔软质感做出了清晰区分。暗沉的灰褐调子压得很低，只在阵亡者衣摆边角留了一点微弱的亮调，把强烈的悲剧情绪藏在了冷静的画面背后，没有呼号，却比激烈的场面更有冲击力。\n\n作为19世纪中期直接记录法国近代革命事件的作品，它没有把斗争传奇化，只是用写实的方式留住了一场内战留下的残酷印记，成为那个动荡时代少有的冷静切片。\n\n如今这幅作品就陈列在德农翼一楼714展厅，安静等待每一位参观者走近，读懂19世纪法国社会刻下的这道伤痕。",
+  "narrationSource": "generated",
+  "frenchBrief": "La Barricade, dit aussi Souvenir de guerre civile. Juin1848\n\nDate de création/fabrication : Milieu du XIXe siècle (vers 1850 - 1851)\n\nhuile sur toile\n\nLocalisation : Denon, [Peint] Salle 714 - Collection Beistegui"
+}

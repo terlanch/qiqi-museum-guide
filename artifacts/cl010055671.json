@@ -1,0 +1,33 @@
+{
+  "id": "cl010055671",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010055671",
+    "modified": "2026-01-30"
+  },
+  "titleFr": "Napoléon Ier sur le trône impérial",
+  "titleZh": "《王座上的拿破仑一世》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "Paris (France), Musée de l'Armée, salle d'exposition"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "INV 5420",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "MR 2069",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您面前这幅作品，是安格尔创作的《拿破仑一世在皇位上》，藏于卢浮宫油画部，是19世纪新古典主义绘画的代表作品。\n\n它创作于19世纪初，正是拿破仑建立法兰西第一帝国的时期，作品材质为布面油画，描绘的是拿破仑以法国皇帝身份，端坐在帝国皇位上的正式场景。\n\n画中的拿破仑全身姿态庄重挺拔，一手搭在皇位扶手上，一手握持帝王权杖，身上披着织金的皇家长袍，头戴金色加冕皇冠，整个人占据了画面的核心位置，气场沉稳威严。画家沿用新古典主义严谨的造型方法，线条勾勒清晰利落，对衣袍织金纹样、权杖上珠宝质感的刻画极为细腻写实，将帝王服饰的厚重华贵表现得层次分明。\n\n整幅作品没有添加多余的背景风景，整体氛围肃穆正式，就是为了完整呈现拿破仑作为帝王的权威身份，是记录拿破仑称帝时期法国政治象征的重要作品。\n\n不同于卢浮宫多数藏品常年在本馆陈列，这幅作品现在展出于巴黎军事博物馆的展厅，如果你顺着参观路线走过去，就能在展厅中亲眼看到这幅作品。",
+  "narrationSource": "generated",
+  "frenchBrief": "Napoléon Ier sur le trône impérial\n\nDate de création/fabrication : XIXe siècle (1800 - 1900)\n\ntoile\n\nLocalisation : Paris (France), Musée de l'Armée, salle d'exposition"
+}

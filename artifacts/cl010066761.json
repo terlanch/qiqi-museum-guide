@@ -1,0 +1,33 @@
+{
+  "id": "cl010066761",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010066761",
+    "modified": "2025-08-25"
+  },
+  "titleFr": "La Continence de Scipion",
+  "titleZh": "《西庇阿的节制》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "non exposé"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "INV 565",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "MR 451",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您面前的这幅作品，通行中文名为《西庇阿的节制》，现藏卢浮宫绘画部。\n\n这幅油画创作于十八世纪第二个四分之一，大约在1732到1735年间，是布面油画作品，题材取自古罗马历史传说。传说中西庇阿攻克敌军城池后，俘获了一位美貌少女，少女原本与敌国首领订婚，西庇阿没有将少女占为己有，反而将她完好送还，还收下的聘礼也转赠给了这对年轻人。这个故事后来成为欧洲艺术里传颂领导者克制美德的经典题材。\n\n作为十八世纪的法国油画，这幅作品延续了新古典主义之前学院派历史画的创作逻辑，叙事性是画面的核心。创作者围绕“节制”这个核心主题安排画面布局，把西庇阿放在画面核心位置，周围簇拥着部下与被送来的少女一行人，让观众一眼就能捕捉到故事主角。画面整体设色沉稳，背景偏暗的调子，衬托出前景人物衣物的不同层次，西庇阿身上军装的金属光泽与少女轻柔衣料的质感形成对比，细节的处理符合当时历史画对真实感的要求。\n\n这一题材在启蒙运动之前的欧洲艺术圈格外受到重视，君主与贵族阶层推崇西庇阿的美德，将其作为合格统治者的范本。这幅作品也从一个侧面反映出十八世纪法国上层社会的道德审美取向——对古典美德的推崇，对政治领袖人格的要求。\n\n目前这件作品并未公开展出，只作为卢浮宫绘画部的馆藏永久保存。",
+  "narrationSource": "generated",
+  "frenchBrief": "La Continence de Scipion\n\nDate de création/fabrication : 2e quart du XVIIIe siècle (vers 1732 - 1735)\n\nhuile sur toile\n\nLocalisation : non exposé"
+}

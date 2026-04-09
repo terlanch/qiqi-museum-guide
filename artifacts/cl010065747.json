@@ -1,0 +1,29 @@
+{
+  "id": "cl010065747",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010065747",
+    "modified": "2026-01-17"
+  },
+  "titleFr": "Jeanne d'Arc au sacre du roi Charles VII, dans la cathédrale de Reims",
+  "titleZh": "兰斯大教堂查理七世加冕礼上的圣女贞德",
+  "location": {
+    "wingKey": "denon",
+    "wingZh": "德农馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "700",
+    "galleryLabel": "700 号展厅",
+    "roomFr": "Salle 700, Aile Aile Denon, Niveau 1",
+    "currentLocationFr": "Denon, [Peint] Salle 700 - Salle Mollien, romantisme"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "MI 667",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您面前这幅作品，是《查理七世在兰斯大教堂加冕时的圣女贞德》，创作于1854年，属于19世纪第三季度，是一幅布面油画。\n\n这是一幅全身肖像作品，画面的核心就是身披铠甲的圣女贞德。她右手紧握着自己的军旗，左手轻搭在祭坛边缘，祭坛上整齐摆放着宗教礼器和代表王权的徽章。祭坛的台阶铺着蓝底金鸢尾花的织物，一顶骑士头盔随意放在台阶上，背景处还分立着侍从、牧师和侍从，有的垂手站立，有的恭敬屈膝。\n\n画家在构图上把贞德放在画面视觉中心，比周围所有人物都高出一头，刻意突出她的核心地位。蓝底金鸢尾的织物铺满前景祭坛台阶，既暗合法国王室身份，又用浓郁饱和的色彩压住了画面下半部分，和贞德银灰色的铠甲形成清晰的材质对比，让视觉焦点瞬间落到主体人物身上。\n\n整幅作品的背景隐去了兰斯大教堂多余的繁杂装饰，只留昏暗的空间烘托加冕仪式的庄重肃穆，让所有视线都集中在贞德身上，也把14世纪那场改变法国命运的加冕，浓缩在这个安静却充满力量的瞬间里。\n\n这幅作品诞生在19世纪中期的法国浪漫主义浪潮中，它没有刻意渲染战争的血腥，也没有夸张贞德所谓的神迹，只是把这位引领法国走向独立的民族少女，定格在她人生最高光也最平静的一刻，让后来者能静静凝视她的力量。\n\n现在这幅作品陈列在德农馆的莫里安 Romanticism 展厅，也就是700展厅。",
+  "narrationSource": "translated",
+  "frenchBrief": "Jeanne d'Arc au sacre du roi Charles VII, dans la cathédrale de Reims\n\nDate de création/fabrication : 3e quart du XIXe siècle (1854)\n\nhuile sur toile\n\nportrait en pied, en armure, la main gauche sur l'autel garni d'objets de culte et d'insignes royaux, l'étendard à la main droite. marches de l'autel couvertes de tissu bleu à fleurs de lys jaunes; Casque sur les marches. présence d'écuyer, d'aumonier et de page debout et agenouillés.\n\nLocalisation : Denon, [Peint] Salle 700 - Salle Mollien, romantisme"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl010251132",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010251132",
+    "modified": "2026-03-29"
+  },
+  "titleFr": "Tête d'empereur",
+  "titleZh": "皇帝之首",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "non exposé"
+  },
+  "collectionFr": "Département des Antiquités grecques, étrusques et romaines",
+  "inventory": [
+    {
+      "value": "SMD 43",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "OA 9056",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "Ma 1036",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "现在您看到的这件藏品，是《皇帝头像》，属于拜占庭时期的晚期古董，创作于公元5世纪第二个 quarter，也就是425到450年之间。\n\n这件作品以大理石为材料，是圆雕雕塑作品。作品是一位罗马帝国皇帝的半身肖像，目前认为刻画的很可能是狄奥多西二世，也有研究者推测是瓦伦提尼安三世。肖像中的皇帝佩戴着王冠，王冠上刻有方形的凹陷饰格，原本应当镶嵌珍珠，现在只留下了刻出的轮廓。皇帝留有上唇髭须与下颌的络腮胡，符合那个时代罗马贵族与君主的形象习惯。\n\n我们来看雕刻的技法细节：创作者用雕刻钻来加工瞳孔，用阴线刻出虹膜的轮廓，这种工具的使用，让五官的立体感和深邃感一下就出来了，在平整的大理石上做出了眼神的层次，放在千五百年前的雕刻里，是非常细腻的处理。现在作品虽然存在残损：右耳垂和上唇都有崩缺，表面遍布划痕，鼻子经过后人修补，左耳的残片也是后来拼接回去的，但皇帝面部的整体轮廓和庄重的神态依然清晰可辨。\n\n这件作品处在罗马帝国向早期拜占庭帝国转型的关键阶段，帝国的政治文化中心正在从罗马向东部的君士坦丁堡转移，艺术风格也慢慢脱离了古罗马时期高度写实的传统，开始转向更偏平面、更偏符号化的表达，这件头像恰好留下了这个转变过程的实物痕迹，是研究晚期古代帝国艺术的重要材料。\n\n这件《皇帝头像》目前并未对公众公开展出，它静静地存放在卢浮宫的库房中，等待后续研究和未来展出的安排。",
+  "narrationSource": "translated",
+  "frenchBrief": "Tête d'empereur\n\nEpoque / période : antiquité tardive ; byzantin  Date de création/fabrication : 2e quart Ve s. ap. J.-C. (425 - 450)\n\nMatériau : marbre Technique : ronde-bosse (sculpture), trépan (sculpture) (pupilles), gravé = gravure Précision technique : gravé(iris)-creuse(carres sur couronne)\n\nThéodose II (?, Valentinien III, ?, portrait, couronne, orné de, carré, perle, moustache, barbe)  Etat de l'oeuvre : Des éclats sont présents sur le lobe droit et la lèvre supérieure. De nombreuses éraflures sont visibles. Le nez a été refait. Un fragment avec l'oreille gauche a été recollé.\n\nLocalisation : non exposé"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cl010329109",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010329109",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Pyxide au nom d'al-Mughira",
+  "titleZh": "《穆吉拉之名香料盒》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "Abu Dhabi (Emirats Arabes Unis), Louvre Abu Dhabi, Salle d'exposition permanente"
+  },
+  "collectionFr": "Département des Arts de l'Islam",
+  "inventory": [
+    {
+      "value": "OA 4068",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您看到的这件藏品，叫做穆吉拉象牙圣盒，是十世纪伊斯兰艺术的珍贵遗存。\n\n它制作于公元968年，也就是十世纪的第三个四分之一阶段，以整根大象象牙雕刻而成，整体为雕刻加阴刻纹饰的工艺制作，现收藏于阿布扎比卢浮宫，陈列在伊斯兰艺术常设展厅中。\n\n这件圣盒最初是用来盛放圣物或者珍贵香料珠宝的容器，整个器物由象牙整料掏出，器壁匀薄，周身布满细密规整的雕刻纹样。象牙本身温润细腻的米黄色泽，和深浅错落的刻纹形成了清晰的材质对比，即使跨越了上千年，雕刻线条依然利落清晰，能看出当年工匠极高的工艺水准。\n\n器物最核心的标识，就是器身铭刻的“穆吉拉”之名，这一命名也成为后世学者研究那个时期伊斯兰象牙工艺的重要坐标。中世纪伊斯兰世界的象牙加工中心集中在伊比利亚和北非地区，这类精致的小型牙雕器物，大多是为宫廷贵族制作的日用奢侈品，既承载着实用功能，也反映了当时上层社会的审美偏好。\n\n伊斯兰艺术禁忌偶像崇拜，这件作品也遵循了这一传统，全部以植物纹、几何纹和铭文作为装饰，错落排布的纹样疏密得当，既保持了视觉的规整感，又不会显得拥挤刻板，体现了当时装饰艺术的成熟理念。\n\n作为目前存世为数不多有明确纪年的十世纪伊斯兰牙雕作品，它为研究那个时期的工艺传承、贸易网络和文化习俗，提供了不可替代的实物资料，现在它在阿布扎比卢浮宫的常设展厅，静静向访客展示千年前伊斯兰手工艺的独特魅力。",
+  "narrationSource": "generated",
+  "frenchBrief": "Pyxide au nom d'al-Mughira\n\nDate de création/fabrication : 3ème quart du Xe siècle (968)\n\nMatériau : Ivoire (Matériau d'origine animale) Matériau/Technique : Ivoire (éléphant), décor sculpté et gravé\n\nLocalisation : Abu Dhabi (Emirats Arabes Unis), Louvre Abu Dhabi, Salle d'exposition permanente"
+}

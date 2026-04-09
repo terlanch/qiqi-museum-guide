@@ -1,0 +1,523 @@
+{
+  "comment": "卢浮宫官网主题相册合并：album 2 名作(40) + 4 历史大事 + 5 帝王后妃 + 6 肖像艺术，去重后取前 100 条。CSV: collections.louvre.fr/media/csv/en/albumArtworksCsv_{id}.csv",
+  "albums": [
+    {
+      "id": 2,
+      "en": "Masterpieces of the Louvre"
+    },
+    {
+      "id": 4,
+      "en": "Major Events in History"
+    },
+    {
+      "id": 5,
+      "en": "Queens, Kings and Emperors"
+    },
+    {
+      "id": 6,
+      "en": "The Art of Portraiture"
+    }
+  ],
+  "arks": [
+    {
+      "arkId": "cl010097019",
+      "comment": "Coffre des pierreries de Louis XIV",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010174436",
+      "comment": "Code de Hammurabi",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010451181",
+      "comment": "L'Européenne",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010062370",
+      "comment": "Portrait de Lisa Gherardini, épouse de Francesco del Giocondo, dit La Joconde ou Monna Lisa",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010066115",
+      "comment": "Louis XIV (1638-1715), roi de France",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010059199",
+      "comment": "Le radeau de la Méduse",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010091871",
+      "comment": "Esclave rebelle",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010064382",
+      "comment": "Les Noces de Cana",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010065566",
+      "comment": "Une odalisque, dite La grande odalisque",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010122557",
+      "comment": "relief mural",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010062292",
+      "comment": "La Femme au miroir",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010065426",
+      "comment": "Les Sabines",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010277627",
+      "comment": "Vénus de Milo",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010103121",
+      "comment": "Diamant, dit \"le Régent",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010170854",
+      "comment": "Frise des archers",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010065872",
+      "comment": "Le 28 juillet 1830. La Liberté guidant le peuple",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010091992",
+      "comment": "Cheval retenu par un palefrenier",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010114082",
+      "comment": "Feuillet de diptyque en cinq parties : l'Empereur triomphant (Justinien ?)",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010065609",
+      "comment": "Portrait de l'artiste tenant un chardon",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010066276",
+      "comment": "Le Tricheur à l’as de carreau",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010064918",
+      "comment": "La Dentellière",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010064473",
+      "comment": "Le Couronnement de la Vierge",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010252531",
+      "comment": "Victoire de Samothrace",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010006582",
+      "comment": "Le scribe accroupi",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010269994",
+      "comment": "cratère d'Antée",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010010062",
+      "comment": "Sphinx de Tanis",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010329109",
+      "comment": "Pyxide au nom d'al-Mughira",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010330266",
+      "comment": "Lion dit \"de Monzon",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010120528",
+      "comment": "Nu-banda Ebih-Il",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010298047",
+      "comment": "Sarcophage des époux",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010093565",
+      "comment": "Sainte Marie Madeleine",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010276544",
+      "comment": "Tête de Kéros, \"idole cycladique",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010327350",
+      "comment": "Panneau de revêtement à la joute poétique",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010114435",
+      "comment": "Dais de Charles VII : deux anges tenant une couronne",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010113393",
+      "comment": "Sceptre de Charles V",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010091396",
+      "comment": "Lion au serpent",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl020213445",
+      "comment": "Portrait en pied de la marquise de Pompadour",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl020003018",
+      "comment": "Draperie pour une figure assise",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl020108533",
+      "comment": "Vue du val d'Arco dans le Tyrol méridional",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010006343",
+      "comment": "Triade d'Osorkon",
+      "sourceAlbum": 2
+    },
+    {
+      "arkId": "cl010062239",
+      "comment": "Le Serment des Horaces",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010120625",
+      "comment": "Cone A d'Entemena",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010329476",
+      "comment": "Faramarz poursuivant l'armée du roi de Kabul (page du \"Livre des rois\" dit « Demotte »)",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010060839",
+      "comment": "L’Apothéose de Henri IV et la proclamation de la régence de la reine, le 14 mai 1610",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010062573",
+      "comment": "L'Empereur Sévère reproche à Caracalla, son fils, d'avoir voulu l'assassiner, dit aussi : Septime Sévère et Caracalla.",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010060585",
+      "comment": "Entrée d'Alexandre dans Babylone",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010064313",
+      "comment": "La Barricade, dit aussi Souvenir de guerre civile. Juin1848",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010063385",
+      "comment": "La barrière de Clichy. Défense de Paris, le 30 mars 1814",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010061427",
+      "comment": "La Bataille d'Issus, dit autrefois La Bataille d'Arbelles",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010091722",
+      "comment": "La Bataille d'Ivry et la reddition de Mantes (14 mars 1590)",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010101460",
+      "comment": "La Rencontre d’Antoine et de Cléopâtre, reine d’Egypte, de la tenture de l’Histoire d’Antoine et Cléopâtre",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010065339",
+      "comment": "La Bataille de San Romano : la contre-attaque de Micheletto Attendolo da Cotignola",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010066761",
+      "comment": "La Continence de Scipion",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010258261",
+      "comment": "coupe de Césarée de Palestine",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010063416",
+      "comment": "La famille de Darius aux pieds d'Alexandre",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl020212474",
+      "comment": "Le 10 août 1792",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010123114",
+      "comment": "orthostate",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010063160",
+      "comment": "Les massacres du Triumvirat",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010066486",
+      "comment": "Napoléon sur le champ de Bataille d'Eylau (9 février 1807)",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010098637",
+      "comment": "La bataille de Zama, de la tenture de l’Histoire de Scipion",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010116515",
+      "comment": "L'audience du légat : le cardinal Chigi reçu à Fontainebleau par Louis XIV, de la tenture de l'Histoire du roi",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl020009475",
+      "comment": "Bataille de Rivoli",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010065747",
+      "comment": "Jeanne d'Arc au sacre du roi Charles VII, dans la cathédrale de Reims",
+      "sourceAlbum": 4
+    },
+    {
+      "arkId": "cl010009693",
+      "comment": "Relief de Séthi I et Hathor",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010003776",
+      "comment": "Buste d'Akhénaton",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010091962",
+      "comment": "Cléopâtre mourant",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010011420",
+      "comment": "statue",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010113394",
+      "comment": "Epée du sacre des rois de France",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010119650",
+      "comment": "statue",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010113647",
+      "comment": "Catherine II de Russie à cheval",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010258343",
+      "comment": "statue",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010275893",
+      "comment": "statue",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010061370",
+      "comment": "Jean II le Bon (1319-1364)",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010002360",
+      "comment": "Statue de Tiy et Amenhotep III",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010055671",
+      "comment": "Napoléon Ier sur le trône impérial",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010275342",
+      "comment": "Buste de Marc Aurèle",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010106954",
+      "comment": "Buste de Marie de Médicis",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl020517926",
+      "comment": "Marie de Médicis",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010321603",
+      "comment": "Fath Ali Shah sur son trône, avec deux princes à ses côtés, reçoit un groupe de savants secrétaires capables d'écrire des poèmes à la louange du roi (page d'un \"Shahinshahnama\")",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010327537",
+      "comment": "Portrait de l'empereur Jahangir tenant dans ses mains celui de son père, l'empereur Akbar (page d'album)",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl020022371",
+      "comment": "La Reine Victoria",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010064946",
+      "comment": "Marie de Médicis (1573-1642), reine de France, régente de 1610 à 1614",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010097015",
+      "comment": "Couronne personnelle de Louis XV",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010275387",
+      "comment": "Tête de Livie",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010275293",
+      "comment": "Tête de Septime Sévère",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010251116",
+      "comment": "Portrait de l'empreur Gallien",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010275369",
+      "comment": "Statue d'Auguste",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010117233",
+      "comment": "Ecu de Charles IX",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010277222",
+      "comment": "Buste de Caracalla",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010114735",
+      "comment": "Chapel doré : casque de Charles VI composé de divers fragments avec la couronne, ses fleurons et trois médaillons",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010101105",
+      "comment": "Miroir : Portrait du jeune Louis XIII",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010101094",
+      "comment": "Broche de la parure de saphirs de la reine Marie-Amélie et de la reine Hortense",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010104292",
+      "comment": "Collier de la parure de saphirs de la reine Marie-Amélie et de la Reine Hortense",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010277962",
+      "comment": "Portrait en hermès d'Alexandre, dit \"Alexandre Azara",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl020031791",
+      "comment": "Portrait d'Henri II et de Catherine de Médicis",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010009553",
+      "comment": "Statue de Ramsès II",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010099888",
+      "comment": "Statuette équestre de Charlemagne ou de Charles le Chauve",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010251132",
+      "comment": "Tête d'empereur",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010275407",
+      "comment": "statue",
+      "sourceAlbum": 5
+    },
+    {
+      "arkId": "cl010275403",
+      "comment": "Buste de Trajan",
+      "sourceAlbum": 5
+    }
+  ]
+}

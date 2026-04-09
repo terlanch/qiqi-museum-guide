@@ -1,0 +1,37 @@
+{
+  "id": "cl020212474",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl020212474",
+    "modified": "2025-08-25"
+  },
+  "titleFr": "Le 10 août 1792",
+  "titleZh": "《一七九二年八月十日》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "Nouvelle réserve des pièces encadrées"
+  },
+  "collectionFr": "Département des Arts graphiques",
+  "inventory": [
+    {
+      "value": "INV 26713, Recto",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "NIII 33370",
+      "type": "Anciens numéros d'inventaire"
+    },
+    {
+      "value": "vol.11, p.156",
+      "type": "Référence de l'inventaire manuscrit"
+    }
+  ],
+  "narrationZh": "现在您看到的这幅作品，是卢浮宫平面艺术部门收藏的《1792年8月10日》。\n\n它创作于1794到1795年前后，是一幅手绘墨水作品，材质是棕墨笔蘸棕墨水创作，辅以棕色淡染，还添加了白水粉提亮。整幅作品由三张尺寸不一的画纸拼接而成，左下角留有艺术家棕墨水笔书写的个人缩写签名。\n\n这幅作品直接对应法国大革命中标志性的1792年8月10日起义，创作者用淡染技法铺出整体的骚乱氛围，再用清晰的笔尖线条勾勒出街巷中涌动的人群轮廓，前景处几个向前冲锋的身影轮廓利落，白水粉提亮的枪头刺刀在深棕的画面底色上格外醒目，把现场的混乱张力直接拉满。三张尺寸不一的画纸没有做刻意的拼接对齐，边缘错开的不规则感，反而更贴合革命现场的无序与动荡，没有刻意修饰的处理，刚好贴合了这个历史事件本身的粗粝质感。\n\n作为大革命刚结束时就创作的作品，它没有后世回看的加工，是亲历者对这场事件最直接的视觉记录，保留了那个动荡时代最鲜活的原生气息。\n\n这件作品目前陈列在卢浮宫装框作品的新储藏区，不对常规游客开放，今天能看到它的原作，也是很难得的机会。",
+  "narrationSource": "generated",
+  "frenchBrief": "Le 10 août 1792\n\nvers 1794/1795\n\nPlume et encre brune, lavis brun, rehauts de gouache blanche. Sur trois feuilles de format différent, juxtaposées. Signé en bas à gauche, à la plume et encre brune, du monogramme.\n\nLocalisation : Nouvelle réserve des pièces encadrées"
+}

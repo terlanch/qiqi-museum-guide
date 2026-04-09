@@ -1,0 +1,33 @@
+{
+  "id": "cl010275407",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010275407",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "statue",
+  "titleZh": "雕像",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "non exposé"
+  },
+  "collectionFr": "Département des Antiquités grecques, étrusques et romaines",
+  "inventory": [
+    {
+      "value": "MNC 998",
+      "type": "Numéro d'entrée"
+    },
+    {
+      "value": "Ma 1255",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "现在您看到的这件藏品，是罗马帝国时期提比略的大理石肖像头部。\n\n它创作于公元1世纪最初的十年，也就是公元10年前后，属于圆雕作品，目前只有头部保存至今。\n\n整体来看，这件头像的石材打磨细腻，轮廓轮廓利落，提比略作为罗马帝国第二任皇帝的威严感很自然地流露出来。他的发际线处理得柔和整齐，眉骨的起伏清晰，把面部的光影层次衬得格外突出。哪怕经历了两千年的岁月，面颊的肌肉转折依然处理得流畅自然，没有生硬的棱角，把帝王常年保持的克制沉稳的神态拿捏得十分到位。\n\n因为岁月侵蚀，这件作品有不少残缺：鼻梁已经断裂，左侧眉毛和下巴位置有石块崩损，头顶和头部右侧还留存着常年沉积形成的硬结。这些痕迹也记录着它跨越千年的流传过程。\n\n罗马帝国时期的帝王肖像，不只是对人物样貌的记录，更是帝国统治秩序的视觉表达，这类作品大多会刻意突出帝王的沉稳与权威，这件提比略头像也不例外，它保留了罗马帝国早期官方肖像雕刻的典型风格，是研究当时雕刻技法与政治文化的重要实物。\n\n这件作品目前并没有对外公开展出，仅作为卢浮宫的馆藏文物保存在库房中，供学术研究使用。",
+  "narrationSource": "translated",
+  "frenchBrief": "statue\n\nEpoque / période : romain impérial  Date de création/fabrication : 1e quart Ie s. ap. J.-C. (debut) (vers 10)\n\nMatériau : marbre Technique : ronde-bosse (sculpture)\n\nTibère (portrait)  Etat de l'oeuvre : seule la tête de la statue est conservée. Le nez est brisé. Des éclats sont présents sur le sourcil gauche et sur le menton. Concrétions au sommet de la tête et sur son côté droit.\n\nLocalisation : non exposé"
+}

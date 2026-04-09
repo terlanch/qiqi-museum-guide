@@ -1,0 +1,33 @@
+{
+  "id": "cl010064473",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010064473",
+    "modified": "2026-02-24"
+  },
+  "titleFr": "Le Couronnement de la Vierge",
+  "titleZh": "《圣母加冕》",
+  "location": {
+    "wingKey": "denon",
+    "wingZh": "德农馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "708",
+    "galleryLabel": "708 号展厅",
+    "roomFr": "Salle 708, Aile Aile Denon, Niveau 1",
+    "currentLocationFr": "Denon, [Peint] Salle 708 - Salon Carré"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "INV 314",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "MR 220",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您面前这幅作品，是十五世纪意大利画家安吉利科的《圣母加冕》。\n\n这幅作品创作于十五世纪第二个四十年，也就是1425到1450年间，画在整块杨木面板上，画面上方原本就做了主教冠形状的裁切，它原本是多联祭坛画的主画部分，下方还保留了完整的祭坛台座，也就是我们常说的圣坛屏基座，上面一共绘制了七幅和圣多米尼克相关的宗教故事，包括英诺森三世的圣梦、圣彼得与圣保罗向圣多米尼克显灵，还有圣多米尼克复活纳波莱奥内·奥尔西尼等场景。\n\n学者推断，这件作品最初是为菲耶索莱圣多米尼克修道院教堂的圣坛创作的，创作费用来自佛罗伦萨的加迪家族。它整体保留了十五世纪早期意大利宗教绘画的典型特征，杨木基底本身带着温润的木质质感，和柔和的颜料色泽形成呼应，即使经历了近六百年，色彩依然保持着细腻沉静的调子。祭坛基座的七幅小画布局工整，每一幅都用清晰的轮廓区分开叙事空间，既不破坏主画面的庄重感，又完整交代了宗教背景，体现了早期文艺复兴祭坛画成熟的构图逻辑。\n\n这件作品的位置在德农馆的708厅，也就是大名鼎鼎的方形沙龙。来到这里的观众，不妨多停留片刻，在经典展厅里，慢慢感受早期文艺复兴宗教绘画的沉静力量。",
+  "narrationSource": "translated",
+  "frenchBrief": "Le Couronnement de la Vierge\n\nDate de création/fabrication : 2e quart du XVe siècle (1425 - 1450)\n\nbois (peuplier, panneau d'un seul tenant)\n\nLa découpe en forme de mitre de la surface peinte à la partie supérieure est d’origine. Registre principal d’un retable dont manquent peut-être des éléments, notamment à la partie supérieure. Prédelle : Le Rêve d’Innocent III, L’Apparition de saint Pierre et saint Paul à saint Dominique, Saint Dominique ressuscitant Napoleone Orsini, le Christ debout dans son tombeau avec la Vierge et saint Jean l’Évangéliste, la Dispute de saint Dominique et le miracle du Livre, le repas des moines servi par les anges, la mort de saint Dominique. Peut-être peint pour un autel inséré dans le jubé de l’église du couvent San Domenico de Fiesole, grâce aux subsides de la famille florentine des Gaddi (cf. Strehlke [1994], p. 33-34, 39-40).\n\nLocalisation : Denon, [Peint] Salle 708 - Salon Carré"
+}

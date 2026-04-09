@@ -1,0 +1,29 @@
+{
+  "id": "cl010099888",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010099888",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Statuette équestre de Charlemagne ou de Charles le Chauve",
+  "titleZh": "查理曼或秃头查理骑马雕像",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "501",
+    "galleryLabel": "501 号展厅",
+    "roomFr": "Salle 501, Aile Aile Richelieu, Niveau 1",
+    "currentLocationFr": "Richelieu, [OArt] Salle 501 - Charlemagne, Vitrine 3 patène de Saint-Denis"
+  },
+  "collectionFr": "Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes",
+  "inventory": [
+    {
+      "value": "OA 8260",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您面前这件，是卢浮宫标注的《查理曼或秃头查理骑马小雕像》，它来自西欧中世纪早期的加洛林王朝，不过作品的断代一直存在争议，是一件拼接而成的文物。\n\n雕像的青铜马，部分构件断代为公元2到5世纪，有可能来自罗马帝国时期，骑士部分制作于公元800到900年，也就是加洛林王朝统治时期，整匹马在17到18世纪还做过修复。整件作品为青铜铸造，至今表面还能找到镀金残留的痕迹。这件小像1807年由考古学家亚历山大·勒努瓦在梅斯大教堂的宝藏中发现，它模仿了古罗马的骑马像传统——最知名的就是罗马保存至今的马可·奥勒留骑马像。\n\n雕像里的骑士，无论是查理曼还是秃头查理，都借用了古罗马帝王骑马像的造型，把加洛林君主塑造成继承罗马传统的统治者。骑士左手握着一枚象征帝国权力的圆球，右手原本握着剑，剑已经在漫长岁月里遗失。从仅存的部分能看出，人物姿态挺拔沉稳，和古罗马骑马像的雄浑感保持一致，加洛林工匠对古典造型的把握相当准确。\n\n把中世纪君主塑造为骑马握球的征服者，本身就带着明确的政治意图，它在告诉当时的人们，这位加洛林君主就是“新凯撒”，是罗马帝国正统的继承者。这件作品也清楚印证了，加洛林王朝的统治者一直有意识地借鉴古罗马的艺术符号，来巩固自己的统治合法性。\n\n这件小雕像现在陈列在黎塞留馆501号查理曼展厅，圣德尼圣盘第三展柜中。",
+  "narrationSource": "translated",
+  "frenchBrief": "Statuette équestre de Charlemagne ou de Charles le Chauve\n\nEpoque / période : Charlemagne (771-814) (Occident->moyen âge->haut moyen âge->dynastie des Carolingiens (752-987)) (?) ; Charles II le Chauve (843-877) (Occident->moyen âge->haut moyen âge->dynastie des Carolingiens (752-987)) (?) ; Antiquité tardive (Antiquité->époque romaine) (?) ; Epoque impériale romaine (Antiquité->époque romaine) (?)  Date de création/fabrication : 200 - 500 (datation du cheval possible du Haut-Empire ou du Bas-Empire) et 800 - 900 (cavalier) et 1700 - 1800 (cheval restauré)\n\nMatériau/Technique : Bronze avec traces de dorure Matériau : bronze Technique : fonte = coulé fondu = fondu (techniques métal)\n\nLa statuette dite \"de Charlemagne\" fut retrouvée par Alexandre Lenoir en 1807 ; elle appartenait au trésor de la cathédrale de Metz. Ce bronze s'inspire de statues équestres antiques comme celle de Marc Aurèle à Rome. La figuration de Charlemagne ou de Charles le Chauve sous les traits du cavalier souligne l'intérêt des souverains carolingiens pour le répertoire antique. L'empereur, tenant un globe (orbe) et une épée (aujourd'hui disparue), s'affirme comme un conquérant, un \"nouveau César\" aux yeux du monde.\n\nLocalisation : Richelieu, [OArt] Salle 501 - Charlemagne, Vitrine 3 patène de Saint-Denis"
+}

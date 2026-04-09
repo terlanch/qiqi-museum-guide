@@ -1,0 +1,37 @@
+{
+  "id": "cl020022371",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl020022371",
+    "modified": "2025-08-25"
+  },
+  "titleFr": "La Reine Victoria",
+  "titleZh": "《维多利亚女王》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "Réserve des grands albums / Album Pingret Edouard / Folio 92 / rapporté au recto"
+  },
+  "collectionFr": "Département des Arts graphiques",
+  "inventory": [
+    {
+      "value": "RF 7077, Recto",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "Inv. français, t. XIII 1377",
+      "type": "Numéros de catalogues"
+    },
+    {
+      "value": "vol.21, p.340",
+      "type": "Référence de l'inventaire manuscrit"
+    }
+  ],
+  "narrationZh": "现在您看到的这幅藏品是《维多利亚女王》，创作于大约1846年。它是铅笔画在描图纸上的作品，属于一份特殊的纪念画集。\n\n这份画集是一份手工拼贴的纪念册，一共收集了109张编号对页，藏品就位于第92对页的正面。所有页面上都粘贴了原创素描、石版画、地图和新闻剪报，内容都围绕1844年法国国王路易·菲利普前往英国温莎城堡的访问行程。这份纪念册其实是后来正式出版石版画合集的筹备素材，合集定名为《法兰西国王路易·菲利普一世陛下温莎城堡之旅》，1846年1月31日分别在巴黎和伦敦出版，出版后获得了和此前另一本记载维多利亚女王访问的画集不相上下的反响。\n\n作为铅笔者痕留在描图纸上的作品，这幅维多利亚女王的肖像素描有着非常独特的质感。铅粉细腻的颗粒顺着纸张半透明的肌理晕开，线条却干脆利落，在勾勒女王轮廓的同时，没有过度修饰，保留了速写本身的生动。创作者没有刻意美化形象，却精准抓住了维多利亚女王身处公众场合的端庄神态，留白的背景也让肖像本身更有呼吸感，凸显出素描记录瞬间的优势。\n\n这份筹备画册承载的是19世纪中期英法王室交聘的一段具体历史，不同于后来正式出版印刷的石版画，这些留在描图纸上的原始手绘，保留了更接近创作者当场观察的一手信息，也让我们看到近代出版物从素材整理到正式出版的完整过程，有着印刷成品无法替代的历史价值。\n\n这件作品目前作为平热爱德华画集的一部分，收藏于卢浮宫大画集库房中。",
+  "narrationSource": "translated",
+  "frenchBrief": "La Reine Victoria\n\nvers 1846\n\nMine de plomb sur papier calque.\n\nDescription de l'album :Album factice de 109 folii numérotés de 1 à 111 (RF 6952 à RF 7108, le RF 7052 détaché) sur lesquels sont collés des dessins originaux, des lithographies, cartes et extraits de journaux relatifs au voyage de Louis-Philippe au château de Windsor en 1844. Un manuscrit de 117 feuillets numérotés l'accompagne. L'album est préparatoire au recueil de lithographies : 'Voyage de S.M. Louis-Philippe 1er, roi des Français au château de Windsor', publié à Paris par Pingret et à Londres par Ackermann, le 31 janvier 1846. Il connu un succès identique au recueil de Skelton 'Le Château d'Eu illustré, depuis son origine en 912 jusqu'au voyage de sa majesté Victoria, [...] , Paris, 1844. Le musée Louis-Philippe, château d'Eu, conserve les deux recueils (inv. 974-19 et 984-6) et un exemplaire de Pingret illustré de lithographies en couleurs. Le fonds de la Maison de France, aux Archives nationales, conserve le recueil de Pingret (300 AP 111 33 bis).\n\nLocalisation : Réserve des grands albums / Album Pingret Edouard / Folio 92 / rapporté au recto"
+}

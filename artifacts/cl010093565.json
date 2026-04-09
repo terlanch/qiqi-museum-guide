@@ -1,0 +1,29 @@
+{
+  "id": "cl010093565",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010093565",
+    "modified": "2025-11-06"
+  },
+  "titleFr": "Sainte Marie Madeleine",
+  "titleZh": "《圣玛利亚·玛达莱娜》",
+  "location": {
+    "wingKey": "denon",
+    "wingZh": "德农馆",
+    "floor": "-1",
+    "floorLabel": "-1 层",
+    "gallery": "169",
+    "galleryLabel": "169 号展厅",
+    "roomFr": "Salle 169, Aile Aile Denon, Niveau -1",
+    "currentLocationFr": "Denon, [SCULPT] Salle 169 - Gothique tardif, Vitrine 06"
+  },
+  "collectionFr": "Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes",
+  "inventory": [
+    {
+      "value": "RF 1338",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您看到的这件作品，是《圣玛利亚·玛达莱娜》，这件彩绘椴木雕塑大约创作于1515到1520年间，属于法国晚期哥特式风格的作品。\n\n这件作品原本是悬挂在教堂拱顶之下，由飞行的天使托举着。我们现在看到的底座和脚尖前部，是19世纪增修的现代构件，原本的彩绘依然保留在椴木胎体上，几百年过去，色彩仍然温润饱满。\n\n圣玛利亚·玛达莱娜是基督教经典中重要的圣徒，这件雕塑里，她仰望上方，身体微微舒展前倾，长袍的褶皱随着身体的动势自然垂落，线条流畅又充满动感，每一道起伏都贴合着身体的轮廓，既保留了哥特式雕塑对线条的注重，又多了几分文艺复兴时期对人体自然形态的尊重。\n\n原本的悬挂设计，让这件雕塑注定要被观众从下方仰视，即使现在改为陈列在展柜中，仰头观看时依然能感受到她朝向天国的舒展姿态，沉静的面容里带着对信仰的热忱，没有过度的夸张，却自有动人的力量。\n\n这件作品留存了中世纪晚期到文艺复兴转型期法国雕塑的典型特征，既有哥特艺术的优雅灵动，也开始出现对人性情感的细腻表达，是研究那个时代宗教雕刻不可错过的实物。\n\n现在，这件作品陈列在德农馆晚期哥特式雕塑展区的169号展厅，第六展柜中。",
+  "narrationSource": "translated",
+  "frenchBrief": "Sainte Marie Madeleine\n\nDate de création/fabrication : vers 1515 - 1520\n\ntilleul polychromie originale\n\nSculpture suspendue à la voûte d'une église, soutenue par des anges volants. Base et avant des pieds modernes (XIXe siècle)\n\nLocalisation : Denon, [SCULPT] Salle 169 - Gothique tardif, Vitrine 06"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl010251116",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010251116",
+    "modified": "2026-01-17"
+  },
+  "titleFr": "Portrait de l'empreur Gallien",
+  "titleZh": "《伽列努斯皇帝肖像》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "non exposé"
+  },
+  "collectionFr": "Département des Antiquités grecques, étrusques et romaines",
+  "inventory": [
+    {
+      "value": "MR 511",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "N 984",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "Ma 512",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "现在您看到的是《罗马皇帝伽列努斯肖像》，这件作品来自罗马帝国时期，创作于公元三世纪的第三个 quarter，具体年代是公元261年到268年之间。\n\n它是一件以大理石为材质的圆雕肖像，保留了罗马帝国时期帝王肖像雕刻的典型特征，现存部分除鼻尖缺失、颈部经过古代修整之外，整体造型保存基本完整。雕像完整呈现了伽列努斯留着胡须与小胡子的帝王形象，雕刻工艺处理得十分细致。\n\n雕刻者使用不同技法区分不同部位的细节：瞳孔和虹膜被刻出内凹的轮廓，眼角内侧用专门的钻孔工具做了处理，让眼部的轮廓层次比单纯打磨更清晰，即使是大理石材质，也能透出沉静的眼神感；唇部上方的小胡子，则用点刻技法做出了蓬松的纹理，和脸部光滑打磨的皮肤质感形成鲜明对比，胡须的卷曲感也自然体现出来。\n\n从整体造型来看，这件雕像并没有走早期罗马帝王肖像过分理想化的路子，反而保留了不少特征化的个人细节，能看出三世纪罗马雕刻从宏大叙事向写实个人表达转向的趋势。\n\n这件作品带着公元三世纪罗马帝国的动荡印记，当时帝位更迭频繁，帝王肖像的制作也开始摆脱之前的固化范式，更注重呈现统治者本人的气质，这件作品正好为我们研究那个特殊时期的雕刻工艺与帝王肖像传统，留下了实物证据。\n\n这件作品目前并未对公众展出，它是卢浮宫古典雕塑藏品体系中，见证罗马帝国晚期雕刻发展的重要标本。",
+  "narrationSource": "translated",
+  "frenchBrief": "Portrait de l'empreur Gallien\n\nEpoque / période : romain impérial  Date de création/fabrication : 3e quart IIIe s. ap. J.-C. (261 - 268)\n\nMatériau : marbre Technique : ronde-bosse (sculpture), gravé = gravure (iris, pupille en creux), trépan (sculpture) (coin interne des yeux), piquetage = piqueté (sculpture) (moustache)\n\nGallien (portrait, moustache, barbe)  Etat de l'oeuvre : Il manque le bout du nez. Le cou a été anciennement retaillé.\n\nLocalisation : non exposé"
+}

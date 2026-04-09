@@ -1,0 +1,37 @@
+{
+  "id": "cl010006582",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010006582",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Le scribe accroupi",
+  "titleZh": "《蹲着的书记员》",
+  "location": {
+    "wingKey": "sully",
+    "wingZh": "叙利馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "635",
+    "galleryLabel": "635 号展厅",
+    "roomFr": "Salle 635, Aile Aile Sully, Niveau 1",
+    "currentLocationFr": "Sully, [AE] Salle 635 - L'Ancien Empire, Vitrine 10"
+  },
+  "collectionFr": "Département des Antiquités égyptiennes",
+  "inventory": [
+    {
+      "value": "E 3023",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "N 2290",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "IM 2902",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您面前的这件作品，是古埃及第四王朝的圆雕《书吏凯伊》，也常译作《蹲着的书吏》，它根据风格推断创作于公元前2675年到前2545年之间，距离今天已经超过四千五百年。\n\n这件雕像的主材质是石灰岩，只有眼睛部分做了特殊的镶嵌处理：眼白用的是埃及雪花石膏，瞳孔用的是岩晶，眼廓还镶了一圈细铜，这是古埃及工艺中常用的手法。整尊雕像呈现的是一位书吏盘腿席地而坐的样子，他围着简单的短裙，头发剃得很短，双手放在身前，怀里摊开一卷纸莎草纸，保持着随时记录的姿态。\n\n最让人惊叹的就是这双眼睛。镶嵌工艺把不同材质拼接在一起，光线照过来的时候，岩晶瞳孔会反光，铜框让眼型轮廓格外清晰，远远看过去，就像他真的在盯着你看，连眼白上淡染的血色痕迹都清晰可见，四千年的岁月好像一下子被拉进了眼前。顺着视线往下看，你还能注意到雕像对身体细节的处理：这位书吏常年伏案工作，脸颊松弛，腹部也微微下垂，没有王室雕像那样紧绷的肌肉线条，却多了一分属于普通人的生动质感。\n\n和古埃及常见的庄重程式化雕像不同，这件作品跳出了为王室立像的固定范式，抓住了书吏这个特殊职业的日常状态。古埃及的书吏是掌握文字、负责记录行政与宗教事务的阶层，是文明传承的实际载体，这件雕像把一个鲜活的职业形象留在了石头里。\n\n现在这件《蹲着的书吏》陈列在叙利馆的635展厅，古埃及古王国展区的第10号展柜中，在玻璃展柜柔和的光线里，这双雕刻了四千多年的眼睛，依然和每一位停步的参观者静静对望。",
+  "narrationSource": "translated",
+  "frenchBrief": "Le scribe accroupi\n\nDate de création/fabrication : IVe dynastie (attribution d'après style) (-2675 - -2545)\n\nMatériau : calcaire Matériau secondaire : albâtre égyptien (sclérotique), cristal de roche (iris), cuivre (contour des yeux) Technique : ronde-bosse, peinture, incrustation (yeux)\n\nhomme (scribe, assis en tailleur, pagne, cheveux ras, écrivant, tenant, rouleau de papyrus)\n\nLocalisation : Sully, [AE] Salle 635 - L'Ancien Empire, Vitrine 10"
+}

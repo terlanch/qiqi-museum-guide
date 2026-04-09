@@ -1,0 +1,33 @@
+{
+  "id": "cl010065426",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010065426",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Les Sabines",
+  "titleZh": "《萨宾妇女》",
+  "location": {
+    "wingKey": "denon",
+    "wingZh": "德农馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "702",
+    "galleryLabel": "702 号展厅",
+    "roomFr": "Salle 702, Aile Aile Denon, Niveau 1",
+    "currentLocationFr": "Denon, [Peint] Salle 702 - Salle Daru, néoclassicisme"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "INV 3691",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "L 3710",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您面前的这幅作品，是法国新古典主义画家达维特创作的《萨宾妇女》。\n作品完成于1799年，是布面油画，题材取自罗马建城初期的古老传说。罗马人早先劫掠了萨宾女子为妻，引发了萨宾部落的复仇战争，双方在罗马城内展开激战，这幅画定格的，正是萨宾妇女闯入战场阻止厮杀的一刻。\n\n画面中心，罗马王罗慕路斯已经举起标枪，对准萨宾王塔提乌斯，塔提乌斯半俯身体，目光死死盯住对手，静待反击的时机。就在这千钧一发之际，罗慕路斯的妻子，萨宾女子赫尔西莉亚披散着头发，衣衫凌乱，扑到两名国王中间，张开手臂隔开标枪，泪水和哀求都抛向了自己的丈夫，把一场一触即发的致命对决硬生生截停。达维特用精准清晰的轮廓线，把不同人物的紧绷状态刻画得层次分明，中心区域人物动作的张力，牢牢抓住了所有视线。\n\n再往画面深处看，断壁残垣上，一位痛得发狂的母亲高举着还在襁褓的婴儿，把孩子伸到交错的枪矛之间，绝望的呼号几乎要溢出画布。不远处，一名萨宾女子跪坐在混战的中心，把三个孩子放在交战双方的脚边，还有一位祖母抱着襁褓中的幼儿，孩子无知无觉吮着手指，全然不觉身边弥漫的血腥杀气，这份平静更反衬出战争的残酷。\n\n这幅作品跳出了古典历史画只歌颂英雄征战的传统，把和平的诉求放在了舞台中心。它现在收藏在卢浮宫的德农翼展厅，隔着保护玻璃，我们依然能清晰感受到两百多年前，画家对动荡时代和平的呼唤。",
+  "narrationSource": "translated",
+  "frenchBrief": "Les Sabines\n\nDate de création/fabrication : 4e quart du XVIIIe siècle (1799)\n\nhuile sur toile\n\n\"Le moment est celui où le combat entre les Romains et les Sabins est interrompu par la présence des Sabines. L'enlèvement des Sabines par les Romains ayant donné lieu à une guerre contre les ravisseurs, de la part des Sabins et des autres peuples offensés, Romulus, roi de Rome, les défit tous. Cependant Tatius, roi de Cures, prit les armes avec plus de succès, et s'empara de la citadelle de Rome. Le lendemain l'armée des Romains ayant livré bataille, fut mise en déroute ; mais Romulus, après avoir imploré le secours de Jupiter Stator, rallia les troupes, et mit en fuite, avec son armée, Tatius, qui revient à la tête, et rétablit le combat. Mais les Romains conservaient toujours l'avantage, quand tout à coup Hersilie, femme de Romulus, et avec elle les autres Sabines dont l'enlèvement avait causé cette guerre, les cheveux épars, et leurs vêtements en désordre, oubliant la timidité naturelle à leur sexe, tout hors d'elles-mêmes, et poussant des cris lamentables, se jettent à corps perdu à travers les lances et les glaives de leurs maris et de leurs pères acharnés l'un contre l'autre, et s'efforcent d'arrêter l'effusion de sang prêt à couler encore. Romulus va lancer son javelot sur Tatius, qui, à demi incliné, le regard fixé sur son adversaire, attend le coup du fils de Mars, et épie l'instant où il pourra riposter avec succès. Mais Hersilie, suppliante, se précipite entre les deux combattants, et cherche à arrêter les coups près de partir de leurs mains ; ses larmes et ses prières s'adressent surtout à son époux. Plus loin, une mère échevelée s'élance sur un débris d'architecture ; aveugle dans sa douleur, elle lève son enfant, encore à la mamelle, au milieu des javelots en arrêt, et l'expose ainsi à la fureur des soldats. Son cri est celui du désespoir. Une belle Sabine, à genoux, les cheveux épars, livrée à la douleur la plus profonde, s'est élancée au milieu de la mêlée, elle a déposé aux pieds des combattants ses trois enfants. Une grand-mère, qui a apporté un petit enfant encore à la mamelle, qui suce son doigt sans s'effrayer du bruit de cette scène sanglante, d…"
+}

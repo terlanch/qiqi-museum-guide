@@ -1,0 +1,29 @@
+{
+  "id": "cl010120625",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010120625",
+    "modified": "2026-02-06"
+  },
+  "titleFr": "Cone A d'Enmetena",
+  "titleZh": "《恩美特纳的锥形碑》",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "0",
+    "floorLabel": "0 层",
+    "gallery": "236",
+    "galleryLabel": "236 号展厅",
+    "roomFr": "Salle 236, Aile Aile Richelieu, Niveau 0",
+    "currentLocationFr": "Richelieu, [AO] Salle 236 - Mésopotamie archaïque (du néolithique à l'époque des dynasties archaïques de Sumer), Vitrine 4 Histoire d'Umma et de Lagash"
+  },
+  "collectionFr": "Département des Antiquités orientales",
+  "inventory": [
+    {
+      "value": "AO 3004",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您面前的这件文物，是恩美特纳一号陶锥，来自公元前25世纪的苏美尔文明。\n\n它诞生于大约公元前2420年至公元前2400年，也就是苏美尔古风王朝三期，制造者是拉格什的统治者恩美特纳。这件文物以黏土烧制而成，整体保存完整，目前学界推测它是经过现代二次烧制完成的。\n\n陶锥的表面刻满了楔形文字，全文记录了拉格什与邻邦乌玛之间的边界争端，以及最终达成和平划界的完整经过。苏美尔城邦争夺流域耕地是当时常见的冲突，这份刻在黏土上的和约，是目前已知人类文明史上最早有文字记录的领土争端解决方案。\n\n作为一件刻字的黏土锥，它的材质和形制本身就藏着古代文明的生存智慧。黏土在两河流域随处可得，刻字后经过烧制就能长久保存，不像泥板容易被水损毁，也比石材更容易加工制作。细密匀整的楔形线条排布在圆锥曲面上，刻痕深浅均匀，能看出当时书写工匠的成熟技艺。\n\n这件小小的陶锥，不是祭祀用的礼器，也不是装饰用的摆件，它更像是一块刻着和约内容的公示碑，是古代城邦为了让边界约定能长久留存，留给后人也留给对手的信物。它让我们看到，四千多年前的两河流域先民，已经懂得用文字契约来划定边界、解决争端，这是国家治理和外交秩序最早的实物见证之一。\n\n如今这件陶锥陈列在卢浮宫黎塞留馆的236厅，属于古风美索不达米亚展区，就在第四展柜中，和其他见证拉格什与乌玛历史的文物陈列在一起。",
+  "narrationSource": "translated",
+  "frenchBrief": "Cone A d'Enmetena\n\nDate de création/fabrication : Dynastique archaïque IIIB : Enmetena (XXVe s) (-2420 - -2400)\n\nMatériau : argile\n\ncône  Décor : inscription  Etat de l'oeuvre : complet ; cuisson moderne (?) Précision sur l'objet : Cone A d'Enmetena, prince de Lagash, relatant l'histoire d'un règlement de frontières entre Lagash et Umma.\n\nLocalisation : Richelieu, [AO] Salle 236 - Mésopotamie archaïque (du néolithique à l'époque des dynasties archaïques de Sumer), Vitrine 4 Histoire d'Umma et de Lagash"
+}

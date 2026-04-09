@@ -1,0 +1,33 @@
+{
+  "id": "cl010275893",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010275893",
+    "modified": "2026-02-28"
+  },
+  "titleFr": "statue",
+  "titleZh": "雕像",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "non exposé"
+  },
+  "collectionFr": "Département des Antiquités grecques, étrusques et romaines",
+  "inventory": [
+    {
+      "value": "MNC 1920",
+      "type": "Numéro d'entrée"
+    },
+    {
+      "value": "Ma 1885",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "现在您看到的是卢浮宫藏罗马帝国时期尤巴一世大理石圆雕肖像。\n\n这件作品的创作年代存在争议，目前学界主流倾向认为它完成于公元2世纪初，也就是公元100年前后，属于罗马帝国统治时期的北非肖像作品。它采用整块大理石雕刻而成，是一件完整的独立圆雕作品，整体保存状态较好，仅鼻部和左眼位置有自然磨损，左侧部分头发区域经过重新粘接修复。\n\n雕像塑造的是努米底亚国王尤巴一世的形象，最突出的视觉特点集中在面部与发式。雕刻者细致刻出了尤巴一世标志性的长麻花发绺，头顶佩戴王权象征的王冠，面部留着整齐的髭须与长髯，整体造型符合罗马时期对北非毛里塔尼亚地区统治者的形象记录。\n\n整件作品的大理石质感温润细腻，毛发的扭转纹理与面部光滑的皮肤形成了清晰的材质对比，胡须的轮廓线条硬朗，既体现出统治者的威严，又保留了地域族群的形象特征，是罗马帝国时期地中海多元文化交融的实物见证。\n\n不同于卢浮宫多数对外展出的核心藏品，这件肖像目前并未安排公开展陈，仅作为研究藏品保存在馆内藏品库中，供相关学者研究使用。",
+  "narrationSource": "translated",
+  "frenchBrief": "statue\n\nEpoque / période : romain impérial  Date de création/fabrication : 4e quart Ie s. av. J.-C. (?) ; 1e quart IIe s. ap. J.-C. (?) (tête de dieu maure du début du IIe s. ap. J.-C. d'après Landwehr, 2001) (vers 100)\n\nMatériau : marbre Technique : ronde-bosse (sculpture)\n\nJuba I (?, portrait, ?, mèche, long, torsadé, couronne, moustache, barbe, long)  Etat de l'oeuvre : bon-usé(nez,oeil gauche) Restauration : recollé(partie des cheveux à gauche)-\n\nLocalisation : non exposé"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cl010277222",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010277222",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Buste de Caracalla",
+  "titleZh": "《卡拉卡拉胸像》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "non exposé"
+  },
+  "collectionFr": "Département des Antiquités grecques, étrusques et romaines",
+  "inventory": [
+    {
+      "value": "MND 2118",
+      "type": "Numéro d'entrée"
+    },
+    {
+      "value": "Ma 3551",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "现在您看到的这件作品，是《卡拉卡拉胸像》，属于罗马帝国时期的大理石雕刻，创作于公元3世纪第一个四分之一，也就是212到215年之间。\n\n它是一件圆雕作品，也就是从各个角度都可以观赏的立体雕塑，题材是罗马皇帝卡拉卡拉的官方肖像。卡拉卡拉留着当时罗马皇帝流行的短胡须，胸前保留着胸甲，还有军装斗篷的残段，雕塑工匠还在虹膜和瞳孔处做了凹刻处理，来突出眼部的层次。\n\n这件作品目前不完整，右侧胸像部分和鼻尖已经缺失，右耳和斗篷的搭扣处也有磕碰缺损，表面还留存着年代留下的污渍和硬结，它曾在2011年经过专业修复。\n\n我们来看保存完好的左侧面部，卡拉卡拉的眉头紧蹙，嘴角紧绷，脖颈的肌肉微微扭转，整个神态没有罗马帝国早期帝王胸像常见的平和威严，反而透着一股尖锐的猜忌和凶狠。这种对人物性格的直白刻画，是罗马肖像雕塑非常突出的特点——它不再追求理想化的神性完美，反而把统治者真实的性格刻进了石头里。\n\n这件胸像的石材质地细腻，凹刻瞳孔的技法，让眼睛即使在静态下也透着流转的戾气，柔和的大理石质地和人物冷硬的性格形成了很有意思的对比。\n\n作为公元3世纪早期罗马肖像雕塑的代表作品，它给我们留下了那个动荡时代里，一位掌权者最鲜活的性格印记，目前这件作品暂未对外公开展出。",
+  "narrationSource": "translated",
+  "frenchBrief": "Buste de Caracalla\n\nEpoque / période : romain impérial  Date de création/fabrication : 1e quart IIIe s. ap. J.-C. (212 - 215)\n\nMatériau : marbre Technique : ronde-bosse (sculpture), gravé = gravure Précision technique : gravé(iris,pupille en creux)\n\nCaracalla (portrait, barbe, cuirasse, restes, paludamentum)  Etat de l'oeuvre : incomplet-moins partie droite du buste et bout du nez-éclats(oreille droite,agrafé du manteau)-concrétions-taches Restauration : restauré(2011)\n\nLocalisation : non exposé"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cl010003776",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010003776",
+    "modified": "2026-03-24"
+  },
+  "titleFr": "Buste d'Akhénaton",
+  "titleZh": "阿赫那吞胸像",
+  "location": {
+    "wingKey": "sully",
+    "wingZh": "叙利馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "638",
+    "galleryLabel": "638 号展厅",
+    "roomFr": "Salle 638, Aile Aile Sully, Niveau 1",
+    "currentLocationFr": "Sully, [AE] Salle 638 - Le Nouvel Empire - Au temps d'Akhénaton et de Néfertiti, Hors vitrine"
+  },
+  "collectionFr": "Département des Antiquités égyptiennes",
+  "inventory": [
+    {
+      "value": "E 27112",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您面前的这件作品，是古埃及阿蒙霍特普四世，也就是埃赫那吞的半身像。\n\n这件作品诞生于公元前1349到公元前1333年，也就是埃赫那吞在位统治的时期，材质为砂岩，属于圆雕作品，如今还能在表面看到残存的彩绘痕迹。\n\n它表现的是古埃及第十八王朝的国王埃赫那吞，身上保留着符合古埃及王室身份的全套标志性装饰：额头佩戴着象征王权保护的圣蛇乌赖乌斯，下颌戴着仪式用的直形假须，胸前双手交叉，分别握持着王权的象征赫卡杖和连枷，雕像表面还刻有代表王室身份的王名圈。\n\n和大多数古埃及王室雕像庄严肃穆、比例规整的风格不同，这件半身像带有埃赫那吞改革时期鲜明的艺术特点。雕像没有把国王塑造成完美无缺的神明形象，反而大胆刻画了他不同于传统的外形特征，保留了更加私人化的真实感，打破了古埃及王室艺术上千年的固定传统。\n\n这种艺术风格的转变，和埃赫那吞推行的宗教改革直接相关。他试图推翻旧阿蒙神信仰、独尊阿吞神，艺术创作也随之脱离了原有的范式，诞生了这种全新的表达。作为改革时期留下的直接物证，这件半身像是我们了解古埃及这段特殊历史最直观的材料。\n\n这件埃赫那吞半身像，现在陈列在叙利馆的638展厅，属于新王国展区埃赫那吞与娜芙蒂蒂时代的陈列单元，并没有放在展柜中展出，您可以近距离感受三千多年前古埃及艺术变革的气息。",
+  "narrationSource": "translated",
+  "frenchBrief": "Buste d'Akhénaton\n\nDate de création/fabrication : Amenhotep IV Akhénaton (inscription/dédicace/signature) (-1349 - -1333)\n\nMatériau : grès Technique : ronde-bosse, peinture (traces)\n\nroi (fausse barbe droite, uraeus, bras croisés, tenant, sceptre héqa, flagellum)  Décor : cartouche royal\n\nLocalisation : Sully, [AE] Salle 638 - Le Nouvel Empire - Au temps d'Akhénaton et de Néfertiti, Hors vitrine"
+}

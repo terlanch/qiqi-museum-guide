@@ -1,0 +1,29 @@
+{
+  "id": "cl010011420",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010011420",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "statue",
+  "titleZh": "雕像",
+  "location": {
+    "wingKey": "sully",
+    "wingZh": "叙利馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "638",
+    "galleryLabel": "638 号展厅",
+    "roomFr": "Salle 638, Aile Aile Sully, Niveau 1",
+    "currentLocationFr": "Sully, [AE] Salle 638 - Le Nouvel Empire - Au temps d'Akhénaton et de Néfertiti, Vitrine 3"
+  },
+  "collectionFr": "Département des Antiquités égyptiennes",
+  "inventory": [
+    {
+      "value": "E 25409",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您看到的这件作品，是卢浮宫埃及文物部收藏的一件阿玛尔奈时期的红硅化砂岩王后立像。\n\n这件作品的创作年代，根据风格判定属于古埃及新王国时期的阿玛尔奈时代，距今大约在公元前1349到公元前1330年之间，材料为红色硅化砂岩，整体塑造成站立的王后形象，衣物是带褶皱的长袍外搭披肩，双臂自然下垂，遗憾的是右臂已经残缺不存。\n\n整尊雕像体量沉稳，红色硅化砂岩自带厚重敦实的质感，石材本身的天然暗红色泽，也给雕像蒙上了一层悠远古朴的气质。雕刻家对衣物褶皱的处理细致柔和，起伏流畅的线条顺着身体轮廓铺展，既交代了面料轻薄柔软的特性，也暗衬出王后身体的柔和轮廓，没有因为厚重的石材显得僵硬刻板。\n\n这尊雕像的造型符合阿玛尔奈时期艺术的典型特征，这一时期是古埃及艺术风格发生重要转变的阶段，艺术创作开始出现更柔和自然的生活化表达，区别于古埃及此前更庄重刻板的王室雕像风格。\n\n这件作品目前陈列在卢浮宫苏利馆一层，第638展厅，也就是专门介绍新王国时期埃赫那吞与纳芙蒂蒂时代的展区，安置在第三展柜中向公众展出。",
+  "narrationSource": "generated",
+  "frenchBrief": "statue\n\nDate de création/fabrication : époque amarnienne (attribution d'après style) (-1349 - -1330)\n\nMatériau : grès silicifié (grès silicifié) Couleur : rouge\n\nreine (?, debout, bras ballants, robe plissée, châle) ; bras droit manquant\n\nLocalisation : Sully, [AE] Salle 638 - Le Nouvel Empire - Au temps d'Akhénaton et de Néfertiti, Vitrine 3"
+}

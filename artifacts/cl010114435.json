@@ -1,0 +1,29 @@
+{
+  "id": "cl010114435",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010114435",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Dais de Charles VII : deux anges tenant une couronne",
+  "titleZh": "查理七世御座：两天使托王冠",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "505",
+    "galleryLabel": "505 号展厅",
+    "roomFr": "Salle 505, Aile Aile Richelieu, Niveau 1",
+    "currentLocationFr": "Richelieu, [OArt] Salle 505 - Corridor de Valence / Anne de Bretagne / Corridor de Faenza, Salle 505 - Anne de Bretagne, Hors vitrine"
+  },
+  "collectionFr": "Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes",
+  "inventory": [
+    {
+      "value": "OA 12281",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您面前是法国哥特时期的挂毯《查理七世华盖：两位天使托举王冠》，创作于15世纪中期，也就是公元1425至1450年间。它是手工织机织造的羊毛混丝挂毯，出自法国王室，原本是查理七世王座靠背处的垂直装饰部分。\n\n整个挂毯构图极其简洁凝练，朱红底面上，最醒目的是一个十二芒大太阳，每一束射线都点缀着细碎的小星点。太阳前方，两位天使凌空悬浮，身上罩着绣满鸢尾花的衣袍，一同抬手托住一顶王冠。\n\n您仔细看天使衣袍的褶皱，每一处都以干脆利落的折线呈现，轮廓清晰厚重，这是15世纪中期法国哥特挂毯标志性的处理方式，也正是这个特征，让研究者判断它不可能出自更早的查理六世时期。金线织就的太阳在朱红底上格外耀眼，羊毛的哑光和丝的光泽形成温和又分明的对比，让整个画面既庄重又有层次。\n\n这个太阳纹样不是随意设计的。十五世纪的法国国王就将金底红日作为王室徽章，查理六世最早启用这个标识，而这件作品最终归属查理七世，徽章也坐实了它的王室出身。作为王座靠背的装饰，它不用多余的叙事，仅仅靠徽章和托 crown的天使，就烘托出王权的神圣性，把“君权神授”的寓意藏在了简洁的构图里。\n\n这件挂毯没有陈列在防护玻璃中，您现在就在黎塞留展区505号展厅，也就是布列塔尼安妮厅，可以慢慢走近，看清丝线交织出的细节。",
+  "narrationSource": "translated",
+  "frenchBrief": "Dais de Charles VII : deux anges tenant une couronne\n\nEpoque / période : gothique (Occident->moyen âge)  Date de création/fabrication : 1425 - 1450\n\nTechnique : tapisserie = tapisserie sur métier (techniques textile) Matériau : laine Matériau : soie\n\nLa composition du dais est extrêmement sobre : sur un fond rouge vermeil se détache un grand soleil à douze branches, dont les faisceaux de rayons sont chargés d’une multitude d’astres, tandis que deux anges en vol, vêtus de tuniques fleurdelisées, tiennent une couronne. L’analyse de l’emblématique a permis d’assurer la provenance royale de cette oeuvre : le soleil d’or sur fond vermeil fit en effet partie des devises adoptées par les rois de France au XVe siècle. Si Charles VI – roi de France de 1380 à 1422 – fut le premier à l’utiliser, le style de la tapisserie, en particulier les plis cassés des aubes des anges, ne correspond pas à l’époque de son règne. Ce dais ou plus précisément ce dosseret, c’est-à-dire la partie verticale du dais, surmontait un trône de Charles VII (texte Elisabeth Antoine).\n\nLocalisation : Richelieu, [OArt] Salle 505 - Corridor de Valence / Anne de Bretagne / Corridor de Faenza, Salle 505 - Anne de Bretagne, Hors vitrine"
+}

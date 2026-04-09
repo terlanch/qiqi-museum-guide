@@ -1,0 +1,41 @@
+{
+  "id": "cl010002360",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010002360",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Statue de Tiy et Amenhotep III",
+  "titleZh": "《提伊与阿蒙霍特普三世雕像》",
+  "location": {
+    "wingKey": "sully",
+    "wingZh": "叙利馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "637",
+    "galleryLabel": "637 号展厅",
+    "roomFr": "Salle 637, Aile Aile Sully, Niveau 1",
+    "currentLocationFr": "Sully, [AE] Salle 637 - Le Nouvel Empire - De la reconquête à Aménophis III, Vitrine 14"
+  },
+  "collectionFr": "Département des Antiquités égyptiennes",
+  "inventory": [
+    {
+      "value": "N 2312 + E 25493",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "N 2312",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "E 25493",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "Salt n°2715",
+      "type": "N° anc. coll."
+    }
+  ],
+  "narrationZh": "您现在看到的是古埃及新王国时期的圆雕作品《提伊与阿蒙霍特普三世像》。\n\n这件作品创作于公元前1388年至公元前1349年间，也就是阿蒙霍特普三世在位时期，材质为皂石，经过施釉和捶打处理，整体泛出温润的深绿色光泽。作品塑造了站立的王后提伊与法老阿蒙霍特普三世两个人物。\n\n我们先来看王后提伊。她身上穿着羽饰长袍，头上包裹着贴服的长假发，戴着古埃及王后专属的秃鹫头饰，头饰前额装饰着三条象征王权的圣蛇纹，头顶右侧还插着标志性的双羽。她的右手握着一柄仪式用的拂尘，姿态端庄挺拔，哪怕和法老并列，也没有刻意放低自己的位置。阿蒙霍特普三世左手自然垂落，手腕上佩戴着王权象征的镯饰，整体神情肃穆，稳稳站立，和王后形成呼应。\n\n这件作品最有意思的细节，是材质处理带来的质感。皂石质地本身偏软，方便工匠精细雕刻细节，加上整体施绿釉之后，光滑的釉面把所有雕刻出来的纹理柔化了，头饰的羽毛纹理、长袍的褶皱、圣蛇的轮廓都带着温润的统一光泽，触感细腻，和人物肃穆的身份气质刚好契合。\n\n提伊王后是古埃及历史上实权最大的王后之一，她是阿蒙霍特普三世的王后，也是后来埃赫那吞改革的王太后，生前就和法老一同接受祭祀，这件双人立像正是她特殊地位的实物见证。\n\n这件作品现在陈列在苏利馆的637展厅，这里是新王国展区，从帝国重新统一到阿蒙霍特普三世时代的专题区域，您可以在14号展柜中找到它。",
+  "narrationSource": "translated",
+  "frenchBrief": "Statue de Tiy et Amenhotep III\n\nDate de création/fabrication : Amenhotep III (inscription/dédicace/signature) (-1388 - -1349)\n\nMatériau : stéatite Technique : ronde-bosse, glaçurage, martelage Couleur : vert\n\nreine (debout, robe à plumage, tenant, chasse-mouche, double plume droite, perruque enveloppante, coiffe de vautour, triple uraeus) ; roi (debout, bras gauche ballant, bracelet)\n\nLocalisation : Sully, [AE] Salle 637 - Le Nouvel Empire - De la reconquête à Aménophis III, Vitrine 14"
+}

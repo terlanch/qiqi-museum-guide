@@ -1,0 +1,37 @@
+{
+  "id": "cl010010062",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010010062",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Sphinx de Tanis",
+  "titleZh": "塔尼斯斯芬克斯",
+  "location": {
+    "wingKey": "sully",
+    "wingZh": "叙利馆",
+    "floor": "-1",
+    "floorLabel": "-1 层",
+    "gallery": "338",
+    "galleryLabel": "338 号展厅",
+    "roomFr": "Salle 338, Aile Aile Sully, Niveau -1",
+    "currentLocationFr": "Sully, [AE] Salle 338 - Crypte du sphinx, Hors vitrine"
+  },
+  "collectionFr": "Département des Antiquités égyptiennes",
+  "inventory": [
+    {
+      "value": "N 23",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "A 23",
+      "type": "Numéro d'usage"
+    },
+    {
+      "value": "Salt n°3837",
+      "type": "N° anc. coll."
+    }
+  ],
+  "narrationZh": "现在您面前的这件展品，是卢浮宫古埃及文物部的重要藏品——塔尼斯狮身人面像。\n\n这件狮身人面像的材质是粉红花岗岩，采用圆雕技法制作，也就是我们现在看到的，独立立体成型的完整雕刻。雕像整体呈卧姿，符合古埃及皇家狮身人面像的典型形制：头顶佩戴古埃及法老专属的尼米斯头饰，额头刻有象征王权的圣蛇乌赖乌斯，下巴还留有代表法老神性的直形假胡须。\n\n从视觉上看，粉红花岗岩的质地坚硬细密，经过千年打磨，保留下来的温润光泽和自然的粉色肌理，给这座雕像蒙上了一层柔和厚重的质感。狮身的轮廓线条简洁流畅，没有多余的装饰，庞大的体量稳稳贴伏在地面上，沉淀出古埃及艺术特有的沉静肃穆。就算历经三千多年的风霜，面部大部分轮廓依然清晰，我们仍能感受到那种平静望向远方的威严气场。\n\n关于它的制作年代，学界目前还有不同观点：一部分学者根据铭文判断，它制作于中王国时期阿蒙尼姆赫特二世统治阶段，也就是公元前1900到前1865年左右；也有学者认为它的雕刻风格可以追溯到更早的古王国第四王朝，距今超过四千五百年。这件作品在之后的新王国时期、第三中间期都曾被不同法老重新启用，留下了多个统治时期的痕迹，这也是古埃及艺术品常见的历史脉络。\n\n这件狮身人面像就陈列在卢浮宫苏利馆地下一层的338展厅，也就是专门为它设置的斯芬克斯密室中，没有展柜遮挡，您可以从容地从各个角度欣赏这件来自古埃及的石刻杰作。",
+  "narrationSource": "generated",
+  "frenchBrief": "Sphinx de Tanis\n\nDate de création/fabrication : Noubkaourê Amenemhat II (d'après B. Fay) (mention de règne) et IVe dynastie (?) (d'après N. Cherpion) (-1900 - -1865 et -2675 - -2545) Date de réutilisation : Âaouserrê/Âaqenenrê Apophis (?) (d'après Th. Devéria) (mention de règne) et Mérenptah (mention de règne) et Hedjkheperrê Chéchonq I (mention de règne) (-1580 - -1540 et -1213 - -1203 et -943 - -922)\n\nMatériau : granite rose Technique : ronde-bosse\n\nsphinx royal (couché, coiffure némès, uraeus, fausse barbe droite)\n\nLocalisation : Sully, [AE] Salle 338 - Crypte du sphinx, Hors vitrine"
+}

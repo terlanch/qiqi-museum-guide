@@ -1,0 +1,33 @@
+{
+  "id": "cl010451181",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010451181",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "L'Européenne",
+  "titleZh": "欧洲人",
+  "location": {
+    "wingKey": "sully",
+    "wingZh": "叙利馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "644",
+    "galleryLabel": "644 号展厅",
+    "roomFr": "Salle 644, Aile Aile Sully, Niveau 1",
+    "currentLocationFr": "Sully, [AE] Salle 644 - Des derniers pharaons égyptiens à Cléopâtre, Vitrine 9"
+  },
+  "collectionFr": "Département des Antiquités égyptiennes",
+  "inventory": [
+    {
+      "value": "MND 2047",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "P 217",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "现在您面前的这件作品，定名《欧洲女子肖像》，是一件罗马时代的文物，根据风格断代为公元100到150年间的作品。\n\n它的材质非常特殊，主载体是雪松木，辅助用到了黄金和亚麻，背面还残留有木乃伊绷带和树脂痕迹，采用蜡画技术绘制，并且以金叶贴金装饰。这是一件女性半身肖像，画中女子编着发辫，发间点缀着首饰，佩戴着耳环、嵌珍珠的颈饰，胸前还有装饰，身披丘尼克外衣，外罩披风。\n\n您仔细看这件肖像的五官线条，柔和却又精准，把蜡颜料的特性发挥得恰到好处，发色和皮肤色彩过渡得自然柔和，没有生硬的笔触边缘，这种和油画渐隐法类似的效果，其实是古代匠人利用蜡的熔融特性反复晕染出来的，可见当时工艺的成熟。贴金的首饰部分，金属光泽和雪松木沉稳的深褐底色形成了柔和的材质对比，既突出了人物的身份，又没有破坏肖像整体的沉静氛围。\n\n这件作品出现在埃及主题展厅，其实是当时地中海东西两岸文化交流的见证。罗马帝国征服埃及之后，东方的木乃伊制作传统和希腊罗马的肖像绘画传统融合，诞生了这种带有写实风格的木绘肖像，这件作品也标注出欧洲身份，恰恰反映了当时不同文化人群在尼罗河口的交融。\n\n这件《欧洲女子肖像》现在陈列在苏利馆，古埃及末尾王朝至克娄巴特拉展区的第644展厅，第9号展柜中。",
+  "narrationSource": "translated",
+  "frenchBrief": "L'Européenne\n\nDate de création/fabrication : époque romaine (attribution d'après style) (100 - 150)\n\nMatériau : cèdre (Cedrus sp., Pinaceae (Asensi Amorós & Détienne, 2008)) Matériau secondaire : or, lin (résidus de bandelettes de momie et de résine au revers) Technique : peinture à l'encaustique, dorure à la feuille\n\nDécor : femme (buste, portrait) ; coiffure (tresse) ; bijou (coiffure) ; boucles d'oreille ; collier (perle) ; bijou (torse) ; tunique ; manteau\n\nLocalisation : Sully, [AE] Salle 644 - Des derniers pharaons égyptiens à Cléopâtre, Vitrine 9"
+}

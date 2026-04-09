@@ -1,0 +1,29 @@
+{
+  "id": "cl010063385",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010063385",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "La barrière de Clichy. Défense de Paris, le 30 mars 1814",
+  "titleZh": "《克里希屏障：巴黎保卫战，1814年3月30日》",
+  "location": {
+    "wingKey": "sully",
+    "wingZh": "叙利馆",
+    "floor": "2",
+    "floorLabel": "2 层",
+    "gallery": "941",
+    "galleryLabel": "941 号展厅",
+    "roomFr": "Salle 941, Aile Aile Sully, Niveau 2",
+    "currentLocationFr": "Sully, [Peint] Salle 941 - Théodore Géricault (1791-1824)"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "RF 126",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您面前的这幅作品，是籍里柯创作的《克利希屏障：1814年3月30日巴黎保卫战》。\n\n作品创作于19世纪第一个四分之一的1820年，是布面油画，现陈列在叙利馆941号展厅，属于泰奥多尔·籍里柯的作品专区。画作描绘1814年反法联军兵临巴黎时，巴黎军民在克利希屏障组织防御的历史场景。\n\n画面中心是蒙塞元帅，他正对着国民自卫军上校克劳德·奥迪奥发布命令。奥迪奥本身还有另外一个身份——皇家珠宝匠。籍里柯没有把这两位人物画成刻板的英雄样板，蒙塞元帅眉头紧蹙，身体微微前倾，握着剑柄的手关节绷紧，把临危受命的沉稳与焦灼全部揉进了细节里。奥迪奥站在元帅身侧，身体前倾准备领命出发，衣角还带着风动的趋势，整个人的紧绷感呼之欲出。\n\n籍里柯用偏沉郁的棕灰调铺出整个画面，把战场边缘的紧张氛围压得很稳，没有刻意渲染炮火连天的激烈，却把战前那一刻的凝重，稳稳钉在了画布上。籍里柯向来擅长用现实主义笔法捕捉真实的历史情绪，这幅作品也延续了他的风格，没有把历史事件演义化，而是还原了普通人投身保卫战时最真实的状态。\n\n作为浪漫主义绘画的先行者，籍里柯这幅作品跳出了当时古典历史画的程式，把目光放在了刚刚发生不久的本土事件上，用平实有力的技法留住了一段巴黎保卫战的现场记忆。现在这幅作品陈列在卢浮宫叙利馆941号的籍里柯专区，您可以慢慢走近，感受画面里那股沉郁的力量。",
+  "narrationSource": "translated",
+  "frenchBrief": "La barrière de Clichy. Défense de Paris, le 30 mars 1814\n\nDate de création/fabrication : 1e quart du XIXe siècle (1820)\n\nhuile sur toile\n\nAu centre, le maréchal Moncey (1754-1842) donnant ses ordres à Claude Odiot (1759-1849), colonel de la garde nationale, orfèvre\n\nLocalisation : Sully, [Peint] Salle 941 - Théodore Géricault (1791-1824)"
+}

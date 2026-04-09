@@ -1,0 +1,33 @@
+{
+  "id": "cl010066115",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010066115",
+    "modified": "2025-08-28"
+  },
+  "titleFr": "Louis XIV (1638-1715), roi de France",
+  "titleZh": "路易十四（1638-1715），法兰西国王",
+  "location": {
+    "wingKey": "sully",
+    "wingZh": "叙利馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "602",
+    "galleryLabel": "602 号展厅",
+    "roomFr": "Salle 602, Aile Aile Sully, Niveau 1",
+    "currentLocationFr": "Sully, [OArt] Salle 602 - Louis XIV"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "INV 7492",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "MR 2391",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您面前的这幅油画，是卢浮宫绘画部门收藏的《法国国王路易十四》。\n\n路易十四生于1638年，崩于1715年，是法国历史上在位时间最长的君主，这幅作品创作于18世纪第一个季度，具体年份是1701年，材质为布面油画。\n\n这幅作品呈现的是壮年路易十四的帝王形象，画家牢牢抓住了路易十四身上自带的权威感，整体人物造型舒展挺拔，衣料厚重的质感被油彩渲染得层次分明，君王的体量感呼之欲出，与平整的背景形成了清晰的材质对比，既突出了主体，也强化了王权不容置疑的稳定感。\n\n整幅画没有繁杂的背景干扰，所有的视觉重心都落在人物本身，整个画面氛围庄重沉静，没有多余的情绪流露，完全符合绝对君主制下，帝王需要展示出的冷静与威严。\n\n作为留存下来记录路易十四形象的重要油画作品，它帮后世直观感受17、18世纪法国君主的气质与身份定位，是了解路易十四时代法国宫廷艺术风貌的重要实物。\n\n这幅作品现在陈列在卢浮宫叙利馆一层的602展厅，您可以驻足慢慢品味这幅作品里的细节。",
+  "narrationSource": "generated",
+  "frenchBrief": "Louis XIV (1638-1715), roi de France\n\nDate de création/fabrication : 1e quart du XVIIIe siècle (1701)\n\nhuile sur toile\n\nLocalisation : Sully, [OArt] Salle 602 - Louis XIV"
+}

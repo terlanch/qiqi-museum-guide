@@ -1,0 +1,37 @@
+{
+  "id": "cl010329476",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010329476",
+    "modified": "2026-03-24"
+  },
+  "titleFr": "Faramarz poursuivant l'armée du roi de Kabul (page du \"Livre des rois\" dit « Demotte »)",
+  "titleZh": "法拉马尔兹追击喀布尔国王军队（《德莫特列王纪》书页）",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "non exposé"
+  },
+  "collectionFr": "Département des Arts de l'Islam",
+  "inventory": [
+    {
+      "value": "OA 7095 Recto",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "25",
+      "type": "N° anc. coll."
+    },
+    {
+      "value": "GM 140",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "您现在看到的这件作品，是出自《列王纪》迪莫特抄本的细密画《法拉玛兹追击喀布尔国王的军队》，现藏于卢浮宫伊斯兰艺术部。\n\n这件作品创作于14世纪上半叶，具体在1314到1335年之间，载体为单页纸张，技法是在纸上用墨、矿物与植物颜料，并辅以金箔绘制而成，属于典型的波斯细密画。内容取自波斯史诗《列王纪》，描绘的是传说英雄法拉玛兹追击敌方军队的战斗场景。\n\n和中世纪欧洲细密画不同，这件作品没有遵循近大远小的焦点透视法则，整个画面被错落排布的人物、战马填满，所有战斗细节都清晰铺展开来。金箔的使用让整个页面自带温润的光泽，既提亮了武器铠甲，也衬得矿物颜料的红、蓝、绿更加沉稳饱满，在小小的纸页上撑住了大场面的张力。\n\n作为从完整抄本上分离出来的单页作品，它保留了波斯手抄本细密画最典型的特征：叙事清晰，装饰感强，每一处线条都精细工整，即便是混战中的人物动态也没有丝毫凌乱。\n\n这件作品能帮我们还原14世纪波斯伊斯兰艺术的创作面貌，让我们直观看到，当时的手工艺人如何在有限的平面上承载鸿篇史诗的内容。目前这件作品暂未公开展出。",
+  "narrationSource": "generated",
+  "frenchBrief": "Faramarz poursuivant l'armée du roi de Kabul (page du \"Livre des rois\" dit « Demotte »)\n\nDate de création/fabrication : 1ère moitié du XIVe siècle (1314 - 1335)\n\nMatériau : Papier Matériau/Technique : Encre, couleurs et or sur papier\n\nType miniature : page isolée\n\nLocalisation : non exposé"
+}

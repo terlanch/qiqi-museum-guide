@@ -1,0 +1,49 @@
+{
+  "id": "cl010122557",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010122557",
+    "modified": "2026-02-24"
+  },
+  "titleFr": "relief mural",
+  "titleZh": "浮雕壁画",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "0",
+    "floorLabel": "0 层",
+    "gallery": "229",
+    "galleryLabel": "229 号展厅",
+    "roomFr": "Salle 229, Aile Aile Richelieu, Niveau 0",
+    "currentLocationFr": "Richelieu, [AO] Salle 229 - Elahé Omidyar - Mir-Djalali, Hors vitrine"
+  },
+  "collectionFr": "Département des Antiquités orientales",
+  "inventory": [
+    {
+      "value": "AO 19857",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "N III 2856",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "LP 3484",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "N 8032",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "LONGPERIER 1",
+      "type": "Numéro catalogue"
+    },
+    {
+      "value": "Pottier 12",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "现在您面前的这件作品，是新亚述时期的人首有翼公牛拉玛苏高浮雕。\n\n它诞生于公元前8世纪萨尔贡二世统治时期，也就是公元前721年到公元前705年之间，材质是石膏质雪花石膏，属于高浮雕装饰壁画，原本是亚述王宫大门两侧的护卫装饰。这件作品保存完整，整体呈现的是亚述神话中的守护神兽拉玛苏，它长着公牛的身体，人类的头颅，背后生双翼，最特别的是一共长了五只脚。它头戴装饰着两对牛角的王冠，耳下垂着带坠的耳环，四肢之间和作品背面都留有楔形文字铭文，当年为了方便运输，它被切割成了六块石板，如今重新拼合完整展现在这里。\n\n最有意思的设计就是这五只脚的安排。当你从正面走近它，只能看到四条腿并拢站立，神兽安静镇守宫门；当你从侧面走过，会清楚看到四条迈步的腿，仿佛它正缓缓向你走来。多出来的这一条腿，是古代亚述工匠特意为不同视角设计的，把静态的石材做出了空间动态感，可见几千年前的创作者已经在考虑观看体验了。\n\n整块浮雕以浅勾轮廓深刻肌理，毛发、羽翼的纹理都刻得清晰利落，整块石材厚重敦实，本身就自带稳定威严的气势。作为王宫的镇宅神兽，拉玛苏原本就承担着驱避邪祟、守护王权的作用，这种庞大庄重的造型，正好贴合了它的使命。\n\n这件作品是新亚述帝国浮雕艺术的典型代表，让我们能直观触摸到3000年前近东文明的工艺与信仰。它现在陈列在卢浮宫里舍利切馆，埃拉赫·奥米迪亚尔-米尔-贾利厅的229展厅，没有玻璃展柜阻隔，您可以慢慢走近，从不同角度感受这只神兽的巧思与威严。",
+  "narrationSource": "translated",
+  "frenchBrief": "relief mural\n\nDate de création/fabrication : Néo-assyrien : Sargon II (VIIIe s) (-721 - -705)\n\nMatériau : albâtre gypseux Technique : haut-relief\n\nDécor : Lamassu (taureau : androcéphale, aile, patte : 5, boucle d'oreille à pendant) ; inscription  Etat de l'oeuvre : complet Précision sur l'objet : Relief inscrit représentant un Lamassu sous la forme d'un taureau androcéphale ailé à cinq pattes, coiffé d'une tiare à deux paires de cornes et portant des boucles d'oreilles à pendant. Une inscription est visible entre les pattes, une autre au revers ; a été découpé en six plaques pour faciliter le transport.\n\nLocalisation : Richelieu, [AO] Salle 229 - Elahé Omidyar - Mir-Djalali, Hors vitrine"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl010277962",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010277962",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Portrait en hermès d'Alexandre, dit \"Alexandre Azara\"",
+  "titleZh": "身着赫耳墨斯服饰的亚历山大肖像，通称“阿扎拉的亚历山大”",
+  "location": {
+    "wingKey": "sully",
+    "wingZh": "叙利馆",
+    "floor": "0",
+    "floorLabel": "0 层",
+    "gallery": "341",
+    "galleryLabel": "341 号展厅",
+    "roomFr": "Salle 341, Aile Aile Sully, Niveau 0",
+    "currentLocationFr": "Sully, [AGER] Salle 341 - Art grec classique et hellénistique (Grèce du Nord), Hors vitrine"
+  },
+  "collectionFr": "Département des Antiquités grecques, étrusques et romaines",
+  "inventory": [
+    {
+      "value": "MR 405",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "N 1065",
+      "type": "Autre numéro d'inventaire"
+    },
+    {
+      "value": "Ma 436",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "现在您看到的这件作品，是《亚历山大大帝赫尔墨斯式胸像，又称“阿扎拉亚历山大”》，属于罗马帝国时期的大理石雕刻作品。\n\n它创作于公元1世纪上半叶，也就是公元1年到50年之间，材质取自希腊本土的彭特利库斯山大理石，属于圆雕作品，表现的是马其顿国王亚历山大大帝。这件作品沿用的是希腊化时期常见的赫尔墨斯式肖像格式，原本整个胸像会固定在完整的方形石柱上，如今石柱下半部分已经遗失，鼻尖经过后人补做，眉弓、嘴唇处的残损也被修补，整个表面因为年代久远已经磨损，铭文末尾也已经缺失。\n\n这件作品最动人的地方，是面部神情的处理。雕塑家没有把这位征服者塑造成盛气凌人的君主，反而保留了年轻王者略带青涩的锐气：微微抬起的下颌，舒展的眉弓，哪怕表面磨损，依然能感觉到目光里的开阔和野心。彭特利库斯大理石本身质地细腻匀净，自带暖白的光泽，即使历经两千年风化，依然能衬出皮肤的柔和感，和发丝硬朗的刻线形成柔和的对比。\n\n这件作品本身其实是罗马时期对希腊化原作的复刻。罗马帝国时期，希腊的雕刻艺术深深影响了罗马的创作，很多贵族会复刻希腊时期的名人肖像，用来装点自己的府邸与厅堂，这件胸像就是这种文化融合的实物见证。它保留了希腊雕刻对人体神情的细腻把握，也带着罗马时期对英雄人物的塑造逻辑，是研究希腊雕刻传承非常重要的实物。\n\n现在这件作品陈列在叙利馆的341展厅，这个展厅专门展出古典希腊和希腊化时期，来自北希腊的艺术品，这件胸像并没有放在玻璃展柜中，您可以从各个角度静静观察它的细节。",
+  "narrationSource": "translated",
+  "frenchBrief": "Portrait en hermès d'Alexandre, dit \"Alexandre Azara\"\n\nEpoque / période : romain impérial  Date de création/fabrication : 1e moitié Ie s. ap. J.-C. (1 - 50)\n\nMatériau : marbre du Pentélique Technique : ronde-bosse (sculpture)\n\nAlexandre le Grand (portrait)  Etat de l'oeuvre : Il manque la partie inférieure du pilier, qui a été retaillé, et la fin de l'inscription, ainsi que le nez, qui a été refait. Des éclats sur les sourcils et les lèvres ont été complétés. L'épiderme est usé.\n\nLocalisation : Sully, [AGER] Salle 341 - Art grec classique et hellénistique (Grèce du Nord), Hors vitrine"
+}

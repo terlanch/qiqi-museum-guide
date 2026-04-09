@@ -1,0 +1,33 @@
+{
+  "id": "cl010091871",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010091871",
+    "modified": "2026-03-29"
+  },
+  "titleFr": "Esclave rebelle",
+  "titleZh": "造反的奴隶",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "0",
+    "floorLabel": "0 层",
+    "gallery": "001",
+    "galleryLabel": "001 号展厅",
+    "roomFr": "Salle 001, Aile Napoléon, Niveau 0",
+    "currentLocationFr": "Napoléon, Salle 001 - Expositions temporaires Hall Napoléon"
+  },
+  "collectionFr": "Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes",
+  "inventory": [
+    {
+      "value": "MR 1589",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "N 15043",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您看到的这件大理石雕塑，叫做《叛逆的奴隶》。\n\n它出自文艺复兴大师米开朗基罗之手，创作于公元1513到1515年间，现藏卢浮宫雕塑部门，归类在中世纪、文艺复兴到近现代雕塑展区。\n\n这尊大理石雕塑高超过两米，整个人物扭转着身体，脖颈向后扭转，肩部紧绷，腰身被绳索紧紧捆住，整个人从髋部到腿部形成一道充满张力的弧线，把被束缚却不甘屈服的张力，直接传递到了观看者面前。你可以凑近看他肌肉的起伏，每一块轮廓都处理得恰到好处，紧绷的肩背和微微放松的下肢形成对比，把一瞬间的动态牢牢锁在了坚硬的大理石里，仿佛下一秒他就要挣断绳索站起来。石材本身的温润洁白，也刚好衬出皮肤的质感，让冰冷的石头拥有了活人的体温。\n\n这尊作品原本是米开朗基罗为一位教皇的陵墓创作的系列装饰雕塑，最终没有留在陵墓项目里，辗转之后来到卢浮宫收藏。文艺复兴的核心精神，就是把人从神性的束缚里解放出来，这尊奴隶，恰好把这份对自由的渴望，做了最具象的表达。\n\n今天它陈列在卢浮宫拿破仑翼一层的一号展厅，也就是拿破仑厅的临时展览区域，你走进大厅就能看到这件作品。",
+  "narrationSource": "generated",
+  "frenchBrief": "Esclave rebelle\n\nDate de création/fabrication : 1513 - 1515\n\nmarbre\n\nLocalisation : Napoléon, Salle 001 - Expositions temporaires Hall Napoléon"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cl020517926",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl020517926",
+    "modified": "2025-08-25"
+  },
+  "titleFr": "Marie de Médicis",
+  "titleZh": "《玛丽·德·美第奇》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "Réserve Edmond de Rothschild, petit format"
+  },
+  "collectionFr": "Département des Arts graphiques",
+  "inventory": [
+    {
+      "value": "2824 LR/ Recto",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "12067",
+      "type": "Anciens numéros d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您看到的这件作品，是卢浮宫藏版画《玛丽·德·美第奇》。\n\n它现藏于卢浮宫版画艺术部，归入罗斯柴尔德捐赠藏品的小型作品珍藏库，材质是铜版蚀刻雕版画，也就是我们常说的铜版画里的雕刀刻制法。\n\n铜版雕刀技法，要求创作者直接用锋利的钢刀在铜版表面刻出线条，油墨填入刀刻出的凹槽后，再印到纸上，最终留下的每一道线条，都直接记录了创作者下刀的力度和轨迹。这件小型作品的尺寸不大，但每一道刻线都清晰利落，深色线条排布出的明暗层次，准确勾勒出人物的轮廓与仪态，玛丽·德·美第奇作为法国王后的端庄气质，在简洁的画面里已经得到了完整呈现。\n\n和卢浮宫最广为人知的那组描绘玛丽·德·美第奇生平的大型油画不同，这件小型版画并没有还原宏大的历史场景，也没有堆砌复杂的人物和装饰，仅仅聚焦于人物本身的仪态刻画，用简洁克制的刻线传递出人物的身份气质。\n\n作为版画门类的收藏，这件作品也向我们展现了17世纪以来欧洲肖像创作的多元形态，不同于大幅油画面向公共展示的功能，这类小型雕版肖像，常常用来记录人物形象，在更小的范围内流传，是后世研究那个时代肖像创作风格的重要实物。\n\n它如今归藏于罗斯柴尔德小型作品珍藏库中，没有长期公开展出，仅会在相关主题特展中与观众见面。",
+  "narrationSource": "generated",
+  "frenchBrief": "Marie de Médicis\n\nBurin.\n\nLocalisation : Réserve Edmond de Rothschild, petit format"
+}

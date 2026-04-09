@@ -1,0 +1,33 @@
+{
+  "id": "cl010091722",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010091722",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "La Bataille d'Ivry et la reddition de Mantes (14 mars 1590)",
+  "titleZh": "《伊夫里战役与芒特投降（1590年3月14日）》",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "0",
+    "floorLabel": "0 层",
+    "gallery": "216",
+    "galleryLabel": "216 号展厅",
+    "roomFr": "Salle 216, Aile Aile Richelieu, Niveau 0",
+    "currentLocationFr": "Richelieu, [SCULPT] Salle 216 - Pierre Francqueville (1548-1615) - La sculpture autour de 1600 : au service de la monarchie"
+  },
+  "collectionFr": "Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes",
+  "inventory": [
+    {
+      "value": "MR 1639",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "N 15218",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您看到的这件大理石雕刻，是法国文艺复兴后期的作品《伊夫里战役与芒特投降（1590年3月14日）》，创作者是法国雕塑家皮埃尔·弗朗克维尔，创作完成于1597年。\n\n它原本是枫丹白露宫“美丽壁炉”装饰的一部分，如今作为独立残件保存在卢浮宫，属于中世纪、文艺复兴与近代雕塑展区。作品材质为纯白色大理石，雕刻整体保留了石材细腻温润的质感，边缘因年代久远带有自然的磨损痕迹，却丝毫没有掩盖雕刻细节的清晰度。\n\n作品核心内容记录了1590年的那场决定性战役，雕刻的场景张力十分突出。弗朗克维尔把动态的战争冲突压缩在有限的石面上，战马前蹄扬起的轮廓充满爆发力，人物衣袍的褶皱顺着肢体动作起伏，线条刚劲又不失流畅，即使脱离了原来的壁炉整体，依然能感受到战场紧张的氛围感。石材本身的细腻，让盔甲的冷硬质感和战马的皮毛纹理都形成了清晰对比，把原本静止的石头雕出了转瞬即逝的动感。\n\n这件创作于16世纪末的作品，从一开始就是服务于法国君主制的宫廷装饰，它直白地记录王室军事功绩，是法国文艺复兴时期雕塑为政权服务的典型实例，也能帮我们直观理解枫丹白露宫装饰体系的艺术风格。\n\n如今这件作品陈列在卢浮宫黎塞留翼楼0层的216展厅，和同一时期服务于法国王室的雕塑放在一起，完整呈现1600年前后法国雕塑的发展脉络。",
+  "narrationSource": "generated",
+  "frenchBrief": "La Bataille d'Ivry et la reddition de Mantes (14 mars 1590)\n\nDate de création/fabrication : 1597\n\nmarbre\n\nFragment de la \"Belle cheminée\" du château de Fontainebleau\n\nLocalisation : Richelieu, [SCULPT] Salle 216 - Pierre Francqueville (1548-1615) - La sculpture autour de 1600 : au service de la monarchie"
+}

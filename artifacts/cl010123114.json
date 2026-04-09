@@ -1,0 +1,33 @@
+{
+  "id": "cl010123114",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010123114",
+    "modified": "2026-03-29"
+  },
+  "titleFr": "orthostate",
+  "titleZh": "直立正构展",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "0",
+    "floorLabel": "0 层",
+    "gallery": "230",
+    "galleryLabel": "230 号展厅",
+    "roomFr": "Salle 230, Aile Aile Richelieu, Niveau 0",
+    "currentLocationFr": "Richelieu, [AO] Salle 230 - Mésopotamie - Syrie du Nord, Hors vitrine"
+  },
+  "collectionFr": "Département des Antiquités orientales",
+  "inventory": [
+    {
+      "value": "AO 19904",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "Pottier 1924, 62",
+      "type": "Numéro catalogue"
+    }
+  ],
+  "narrationZh": "现在您面前的这块浮雕，是新亚述时期的带铭文竖石板，也就是orthostate，创作于亚述国王亚述巴尼拔统治时期，公元前7世纪。它以石膏雪花石为原料，采用浅浮雕技法雕刻，记录了亚述巴尼拔远征埃兰战役中驱逐战俘的场景。\n\n整块浮雕从上到下分三条横带构图。最上方的第一条横带里，一名被驱逐的埃兰战俘赶着战车，车上载着自己的妻儿，他身前是三名亚述士兵，都束着头带、留着整齐的长胡须，身穿束腰短袍，身背弓箭，手里拿着指挥用的木棍。士兵身后跟着三名战俘，其中一人手里还牵着一只家鹅，保留着战俘对原有生活痕迹的携带细节。\n\n中间第二条横带里，两名战俘被两名亚述士兵看押，手里牵着一个孩子。最下方第三条横带，就是整场仪式的核心：亚述国王亚述巴尼拔头戴亚述王冠，留着标志性长胡须，身穿礼袍，站在战车上，手里拿着一朵象征王权的花，头上撑着遮阳伞。他的身旁是御者，还有数名侍从分工不同：有的持扇，有的持驱蚊蝇的蝇拂，有的携带武器和水袋，人物身份通过须发、服饰清晰区分，不用文字标注就能一眼分辨。\n\n亚述浮雕以对战争、狩猎场景的精细记录著称，这块浮雕也不例外。它用清晰的分层叙事，把凯旋仪式里的核心国王、沿途押送战俘的细节完整铺陈开来，线条硬朗工整，不同身份人物的造型特征区分准确，是研究新亚述军事、社会生活最直接的实物材料。\n\n这件残损的竖石板浮雕，现在陈列在黎塞留馆230室，美索不达米亚与北叙利亚展区，不设玻璃展柜，可以近距离观察它的雕刻细节。",
+  "narrationSource": "translated",
+  "frenchBrief": "orthostate\n\nDate de création/fabrication : Néo-assyrien : Assurbanipal (VIIe s) (-668 - -627)\n\nMatériau : albâtre gypseux Technique : bas-relief\n\nDécor : scène de guerre (déportation) ; 1er registre ; déporté (conduisant, chariot, femme, enfant) ; soldat (3, bandeau, barbe, tunique : court, ceinture, arc, tenant, bâton) ; déporté (3, bandeau, barbe, robe, portant, objet indéterminé, oie) ; 2eme registre ; soldat (casque : pointu, barbe, tunique : court, ceinture, botte, arc, carquois, lance, conduisant) ; déporté (2) ; enfant ; archer ; 3eme registre ; Assurbanipal (tiare assyrienne, barbe, robe, tenant, fleur, sur, char, parasol) ; conducteur de char (bandeau, barbe, bracelet) ; serviteur (imberbe, tenant, éventail) ; serviteur (2, tenant, chasse-mouches) ; serviteur (barbe, bandeau, tunique : court) ; serviteur (3, imberbe, robe, carquois, arc, masse d'armes, outre) ; inscription  Etat de l'oeuvre : fragmenté Précision sur l'objet : Orthostate inscrit représentant une scène de déportation : le roi Assurbanipal sur son char et prisonniers élamites. Episodes de la campagne d'Elam. Au registre supérieur, un déporté transporte une femme et un enfant dans un chariot. Il est précédé de trois soldats et de trois déportés dont un tient une oie. 2e registre, deux hommes entre deux soldats tiennent un enfant. 3e registre, le roi sur son char est accompagné de ses serviteurs\n\nLocalisation : Richelieu, [AO] Salle 230 - Mésopotamie - Syrie du Nord, Hors vitrine"
+}

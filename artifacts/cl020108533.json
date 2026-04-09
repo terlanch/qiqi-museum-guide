@@ -1,0 +1,41 @@
+{
+  "id": "cl020108533",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl020108533",
+    "modified": "2025-11-16"
+  },
+  "titleFr": "Vue du val d'Arco dans le Tyrol méridional",
+  "titleZh": "《蒂罗尔南部阿尔科山谷景观》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "Petit format horizontal"
+  },
+  "collectionFr": "Département des Arts graphiques",
+  "inventory": [
+    {
+      "value": "INV 18579, Recto",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "NIII 8213",
+      "type": "Anciens numéros d'inventaire"
+    },
+    {
+      "value": "Allemands 144",
+      "type": "Numéros de catalogues"
+    },
+    {
+      "value": "vol.8, p.18",
+      "type": "Référence de l'inventaire manuscrit"
+    }
+  ],
+  "narrationZh": "现在您面前的这幅作品，是丢勒创作的《蒂罗尔南部阿尔科山谷景观》，现藏于卢浮宫的版画与素描部。\n\n这幅作品创作于大约1495年，是一幅横版小幅风景写生，它不是油画，而是用笔和棕墨完成，辅以淡彩渲染，又用棕色提亮、黑墨复勾整理，在画面右上角，丢勒本人用棕墨亲笔标注了“fenedier klawsen”，标明这里属于威尼斯领地，还有另一位书写者补上去的丢勒本人的缩写签名。\n\n作为北方文艺复兴早期难得的户外风景写生，这幅作品的技法亮点很值得细看。丢勒用精细灵活的笔尖线条，顺着山势勾勒出岩石的褶皱纹理，疏密错落的墨线就把山体坚硬粗糙的质感托了出来，再叠加浅淡的棕色调水彩，拉开近景远景的层次，近处的崖壁线条清晰墨色偏深，远处的山谷线条变浅晕染更淡，整个空间的纵深感就自然出来了。这种直接对景写生的处理方式，在15世纪末的欧洲艺术里非常少见，当时多数风景只是人物画的背景，很少被单独作为创作主题。\n\n丢勒在青年时期前往威尼斯游学，这幅写生正是途中停留阿尔科山谷时的所见，画面里没有多余的人物，只有层叠的山岩和舒展的山谷，完全还原了阿尔卑斯南麓山地的原生样貌。\n\n这幅作品见证了丢勒早年的游学经历，也标志着欧洲艺术中，独立风景画创作意识的萌芽，为后世对景写生的创作传统埋下了伏笔。\n\n作为卢浮宫图形艺术部收藏的丢勒真迹，这幅小幅写生以它的真实质朴，让我们能直接触摸到五百多年前艺术家行走途中的目光与落笔。",
+  "narrationSource": "generated",
+  "frenchBrief": "Vue du val d'Arco dans le Tyrol méridional\n\nvers 1495\n\nPlume et encre brune, aquarelle et rehauts de brun, reprises à l'encre noire. En haut à droite, à la plume et encre brune annoté par Dürer : \"fenedier klawsen\", (col. vénitien), et par une autre main à la plume, encre brune, le monogramme de l'artiste.\n\nLocalisation : Petit format horizontal"
+}

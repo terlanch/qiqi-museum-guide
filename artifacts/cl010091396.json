@@ -1,0 +1,33 @@
+{
+  "id": "cl010091396",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010091396",
+    "modified": "2025-08-25"
+  },
+  "titleFr": "Lion au serpent",
+  "titleZh": "《狮子与蛇》",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "-1",
+    "floorLabel": "-1 层",
+    "gallery": "105",
+    "galleryLabel": "105 号展厅",
+    "roomFr": "Salle 105, Aile Aile Richelieu, Niveau -1",
+    "currentLocationFr": "Richelieu, [SCULPT] Salle 105 - Cour Puget, Salle 105 - RDC"
+  },
+  "collectionFr": "Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes",
+  "inventory": [
+    {
+      "value": "LP 1184",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "RF 1516",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您面前的这件青铜作品，是法国雕塑创作于1832年的《狮子斗蛇》。\n\n它现藏卢浮宫雕塑馆，属于中世纪、文艺复兴到现代雕塑展区。整座作品由青铜浇铸而成，题材取自野生动物间的生死搏杀，是19世纪法国浪漫主义雕塑的典型创作。\n\n您可以先顺着狮子的身体轮廓来感受这件作品的张力。狮子弓着脊背，前爪死死按住地面的毒蛇，整个身体的肌肉线条都绷紧了，肩颈肌肉的起伏、爪子嵌入猎物的力道，都被青铜精准地捕捉下来。蛇的缠绕姿态也和狮子的爆发形成强烈对比，一动一静，一攻一防，把瞬间的冲突凝固成了永恒。\n\n青铜本身厚重深沉的质感，更放大了这场搏斗的压迫感。冷硬的金属把毛发的纹理、肌肉的颗粒感都清晰呈现出来，光影扫过雕塑表面的时候，明暗变化会更凸显狮子的爆发力，让整个空间都跟着绷紧。\n\n浪漫主义时期的雕塑，不再只围绕宗教、神话或者帝王叙事，把自然里原始的力量冲突作为创作主题，这件作品就是很好的例证。它没有说教，只用力量和张力，让一百多年后的观众依然能感受到这场搏斗的紧张。\n\n现在这件作品陈列在卢浮宫黎塞留翼地下一层的105号展厅，也就是浦热庭院展厅，您可以从不同角度慢慢感受这件青铜作品的力量感。",
+  "narrationSource": "generated",
+  "frenchBrief": "Lion au serpent\n\nDate de création/fabrication : 1832\n\nbronze\n\nLocalisation : Richelieu, [SCULPT] Salle 105 - Cour Puget, Salle 105 - RDC"
+}

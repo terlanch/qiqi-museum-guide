@@ -1,0 +1,29 @@
+{
+  "id": "cl010119650",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010119650",
+    "modified": "2026-02-19"
+  },
+  "titleFr": "statue",
+  "titleZh": "雕像",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "Abu Dhabi (Emirats Arabes Unis), Louvre Abu Dhabi"
+  },
+  "collectionFr": "Département des Antiquités orientales",
+  "inventory": [
+    {
+      "value": "AO 20164",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您看到的这件作品，是新苏美尔时期的古德亚祈祷立像。\n\n它诞生于公元前2120年到公元前2110年之间，距离今天已经超过四千年，材质是坚硬的闪长岩。雕像刻画的是当时拉格什城邦的王子古德亚，这是一尊没有铭刻铭文的无铭雕像，保存整体完整，仅经历过碎裂修复和千年的自然侵蚀。\n\n雕像中的古德亚呈站立姿态，头戴苏美尔王室的冠帽，身披长袍，右侧肩膀裸露在外，双手在身前合拢，这是古代美索不达米亚祈祷者的典型姿态。\n\n我们来细看雕像的细节，整块闪长岩硬度很高，四千年前的苏美尔工匠依然打磨出了细腻柔和的体面转折。裸露的右肩肌肉轮廓饱满自然，贴合人体结构，没有生硬的凿刻痕迹；合拢的双手姿态恭敬沉稳，手指的轮廓清晰简洁，没有多余的装饰，反而把祈祷者的沉静庄重感衬得更加突出。坚硬的石材被处理得温润服帖，材质本身的厚重感和人物的沉静气质刚好融合在一起。\n\n整尊雕像没有夸张的动态，也没有繁复的纹饰，从头到脚的比例紧凑匀称，传递出一种内敛、肃穆的稳定感，让几千后的我们依然能感受到四千年前两河流域城邦统治者，面对神灵时的谦卑与虔诚。\n\n这件古德亚祈祷立像，现在陈列于阿拉伯联合酋长国阿布扎比的卢浮宫阿布扎比博物馆。",
+  "narrationSource": "translated",
+  "frenchBrief": "statue\n\nDate de création/fabrication : Néo-sumérien : Gudea (?) (Vers 2120 av. J. - C.) (-2120 - -2110)\n\nMatériau : diorite\n\norant aux mains jointes ; Gudea (?, debout, bonnet royal, robe, épaule découverte : droit)  Etat de l'oeuvre : complet ; fragmenté ; érodé Précision sur l'objet : Gudea, prince de Lagash. Statue anépigraphe\n\nLocalisation : Abu Dhabi (Emirats Arabes Unis), Louvre Abu Dhabi"
+}

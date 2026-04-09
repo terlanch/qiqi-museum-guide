@@ -1,0 +1,29 @@
+{
+  "id": "cl010101105",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010101105",
+    "modified": "2026-03-24"
+  },
+  "titleFr": "Miroir : Portrait du jeune Louis XIII",
+  "titleZh": "《镜子：年轻路易十三肖像》",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "524",
+    "galleryLabel": "524 号展厅",
+    "roomFr": "Salle 524, Aile Aile Richelieu, Niveau 1",
+    "currentLocationFr": "Richelieu, [OArt] Salle 524 - Ordre du Saint-Esprit, Vitrine 2"
+  },
+  "collectionFr": "Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes",
+  "inventory": [
+    {
+      "value": "OA 11063",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您面前的这件藏品，是《八开光镜子：少年路易十三肖像》，制作于大约1615年。\n\n它不是普通的绘画，也不是普通的镜子，是一件结合了多种金属工艺的珐琅装饰品。它的胎底是铜质，镜身采用了在箔片上施彩绘珐琅的工艺，边框使用镀金银也就是鎏金的银打造，镜面则是镀锡玻璃，整体是八角开边形。镜身正面中央，绘制了当时年仅十五岁左右的法国国王路易十三的肖像。\n\n肖像周围，环绕着缠枝卷草和禽鸟纹样，这些纹样都铺在金属箔片上，再罩上半透明的珐琅，光线穿过珐琅层之后，会被下方的金属箔反射，光泽温润灵动，比平涂的颜料更有层次。肖像的上方边框，还专门留出位置做了一顶纯金的王冠，直接点明了像主的君王身份。和很多平面珐琅不同，这件作品用金色高光提亮了轮廓和细节，王冠的厚重金质和珐琅的半透明光泽形成了柔和的对比，少年君王的年轻庄重，和装饰纹样的灵动舒展平衡得恰到好处。\n\n这件作品将肖像装饰和实用器物结合在一起，既有宫廷饰品的精致规整，也保留了17世纪早期法国珐琅工艺的典型特征，是了解当时法国王室工艺审美难得的实物。\n\n这件《少年路易十三肖像镜》，现在陈列在黎塞留馆区，524圣灵骑士团展厅的第二展柜中，向每一位访客展示着三百年前法国宫廷工艺的细腻。",
+  "narrationSource": "translated",
+  "frenchBrief": "Miroir : Portrait du jeune Louis XIII\n\nDate de création/fabrication : vers 1615 (datée vers 1615 d’après la médaille de Guillaume Dupré de 1610 (voir au Louvre la médaille OA 788))\n\nTechnique : émail peint (techniques métal->émaillé = émaillage = émail = émaux) (sur paillons) Matériau : cuivre Matériau : vermeil = argent doré (cadre) Matériau : verre (étamé)\n\nMiroir octogonal ouvrant orné d'une plaque couverte d'émaux polychromes avec paillons et rehauts d'or, le portrait de Louis XIII âgé d'une quinzaine d'années dans un encadrement de rinceaux et d'oiseaux sur paillons, avec la représentation d'une couronne en or sur la partie supérieure de l'encadrement ; le contre-émail n'est pas visible.\n\nLocalisation : Richelieu, [OArt] Salle 524 - Ordre du Saint-Esprit, Vitrine 2"
+}

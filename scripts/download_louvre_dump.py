@@ -8,7 +8,8 @@
 
 用法：
   python3 scripts/download_louvre_dump.py collect-ids
-  python3 scripts/download_louvre_dump.py download-curated --delay 0.35   # 仅 10 条名作（config/important10.json）
+  python3 scripts/download_louvre_dump.py download-curated --delay 0.35   # 默认 config/important10.json
+  python3 scripts/download_louvre_dump.py download-curated --config config/classics100.json --delay 0.35
   python3 scripts/download_louvre_dump.py download --delay 0.35
   python3 scripts/download_louvre_dump.py download --max 500 --delay 0.2   # 试跑（需先 collect-ids）
 """
@@ -27,7 +28,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 IDS_FILE = DATA_DIR / "louvre_ark_ids.txt"
 JSON_DIR = DATA_DIR / "louvre_json"
-IMPORTANT_JSON = ROOT / "config" / "important10.json"
+DEFAULT_CURATED_JSON = ROOT / "config" / "important10.json"
 SITEMAP_INDEX = "https://collections.louvre.fr/sitemap.xml"
 SITEMAP_COUNT = 26  # sitemap0 .. sitemap25
 
@@ -169,15 +170,16 @@ def run_download_ids(ids: list[str], delay: float, progress_every: int = 500) ->
 
 
 def cmd_download_curated(args: argparse.Namespace) -> None:
-    if not IMPORTANT_JSON.is_file():
-        print(f"缺少 {IMPORTANT_JSON}")
+    curated_path = Path(args.config).resolve()
+    if not curated_path.is_file():
+        print(f"缺少 {curated_path}")
         sys.exit(1)
-    data = json.loads(IMPORTANT_JSON.read_text(encoding="utf-8"))
+    data = json.loads(curated_path.read_text(encoding="utf-8"))
     rows = data.get("arks") or []
     ids = [str(x.get("arkId", "")).strip() for x in rows if x.get("arkId")]
     ids = [x for x in ids if x]
     if not ids:
-        print("important10.json 中没有 arkId")
+        print(f"{curated_path.name} 中没有 arkId")
         sys.exit(1)
     print(f"精选 {len(ids)} 条，开始下载到 {JSON_DIR} …")
     run_download_ids(ids, args.delay, progress_every=0)
@@ -203,7 +205,13 @@ def main() -> None:
 
     p_cur = sub.add_parser(
         "download-curated",
-        help="下载 config/important10.json 中的名作 JSON（默认 10 条，无需 collect-ids）",
+        help="下载精选列表中的馆藏 JSON（默认 important10.json，无需 collect-ids）",
+    )
+    p_cur.add_argument(
+        "--config",
+        type=Path,
+        default=DEFAULT_CURATED_JSON,
+        help="含 arks 数组的 JSON（如 config/classics100.json）",
     )
     p_cur.add_argument("--delay", type=float, default=0.35, help="每条请求间隔（秒）")
 

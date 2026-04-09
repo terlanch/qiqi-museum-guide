@@ -1,0 +1,29 @@
+{
+  "id": "cl010170854",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010170854",
+    "modified": "2026-04-04"
+  },
+  "titleFr": "Frise des archers",
+  "titleZh": "弓箭手时间轴展",
+  "location": {
+    "wingKey": "sully",
+    "wingZh": "叙利馆",
+    "floor": "0",
+    "floorLabel": "0 层",
+    "gallery": "307",
+    "galleryLabel": "307 号展厅",
+    "roomFr": "Salle 307, Aile Aile Sully, Niveau 0",
+    "currentLocationFr": "Sully, [AO] Salle 307 - Iran - L'empire perse achéménide : le palais de Darius Ier à Suse, Hors vitrine"
+  },
+  "collectionFr": "Département des Antiquités orientales",
+  "inventory": [
+    {
+      "value": "AOD 488",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您面前的这块浮雕饰板，是阿契美尼德王朝时期的《弓箭手饰带》。它诞生于大流士一世统治时期，是波斯帝国阿契美尼德王朝的遗存。\n\n这块饰板以含硅陶土为胎，通体施釉，采用模制成型后施以多色彩釉，工艺精细规整。饰板上一共雕刻了四名弓箭手，分列大流士一世三种文字铭文的两侧，每侧两名。\n\n四名弓箭手的站姿整饬划一，都面向铭文方向侧身站立，手持弓矢，身上扎束齐整的长袍战裙，轮廓线条清晰利落。彩釉的色彩至今仍保持着沉稳的饱和度，陶胎的质朴质感和莹润的釉面形成了细腻的对比，哪怕是衣物褶皱和弓弦这类细节，都交代得清楚干净，没有模糊走形。\n\n整幅构图对称均衡，四名弓箭手统一而富有秩序感的排列，恰好衬托出中间帝王铭文的庄重，完全符合波斯帝国大一统王朝的气度。没有繁复夸张的装饰，却用规整的节奏传递出王朝禁卫军团的森严稳重。\n\n这块浮雕原本来自苏撒的大流士一世王宫，苏撒是阿契美尼德王朝的四大都城之一，这类装饰浮雕原本镶嵌在王宫的墙面上，用来彰显王朝的军威与秩序。它不仅保留了两千五百年前波斯制陶施釉的高超工艺，也让我们直观看到了波斯帝国极盛时期的仪仗风貌。\n\n这件展品现在陈列在叙利馆三楼307展厅，属于伊朗阿契美尼德波斯展区，陈列在展柜之外，您可以近距离感受它的工艺细节。",
+  "narrationSource": "translated",
+  "frenchBrief": "Frise des archers\n\nDate de création/fabrication : Achéménide : Darius I (-522 - -486)\n\nMatériau : céramique siliceuse à glaçure Technique : moulé, polychromie\n\nDécor : archer (4) ; inscription Précision sur l'objet : Panneau de quatre archers, deux de part et d'autre d'une inscription trilingue de Darius\n\nLocalisation : Sully, [AO] Salle 307 - Iran - L'empire perse achéménide : le palais de Darius Ier à Suse, Hors vitrine"
+}

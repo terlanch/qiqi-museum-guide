@@ -1,0 +1,33 @@
+{
+  "id": "cl010064946",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010064946",
+    "modified": "2026-02-06"
+  },
+  "titleFr": "Marie de Médicis (1573-1642), reine de France, régente de 1610 à 1614",
+  "titleZh": "《玛丽·德·美第奇（1573-1642），法国王后，1610年至1614年摄政》",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "2",
+    "floorLabel": "2 层",
+    "gallery": "803",
+    "galleryLabel": "803 号展厅",
+    "roomFr": "Salle 803, Aile Aile Richelieu, Niveau 2",
+    "currentLocationFr": "Richelieu, [Peint] Salle 803 - La peinture flamande vers 1600"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "INV 1710",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "MR 928",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您看到的这幅，是法国王后玛丽·德·美第奇的正式肖像，创作于17世纪上半叶，是一幅布面油画。\n\n画中的玛丽·德·美第奇出身意大利美第奇家族，1600年成为法国国王亨利四世的王后，1610年亨利四世遇刺后，她担任法国摄政长达四年，是17世纪初法国实际的掌权者。\n\n这幅肖像属于典型的仪典肖像，遵循16世纪末意大利与西班牙的肖像画传统，整幅作品的核心，就是突出君主的尊贵身份。画面里王后头戴象征王权的王冠，衣袍上绣着代表法国王室的鸢尾花饰，头顶张着王室专用的华盖，所有细节都在强调这份不容侵犯的威严。创作时间也因此被推测为1610年亨利四世去世之后，也就是玛丽掌权摄政的时期，更符合这幅作品的政治定位。\n\n这幅作品被认为是小弗朗斯·普尔布斯的创作，不过它的身世一直存在不少疑点。目前能找到的最早记录只能追溯到1815年，更早的来源只能依靠后世学者转引17世纪学者索瓦的记载，而索瓦提到的那幅普尔布斯所作的玛丽·德·美第奇肖像，原本放在卢浮宫小画廊，和其他法国王室成员肖像挂在一起，尺寸和构图都和我们眼前这幅不符。也有学者曾把它和王室收藏里另一幅更大的普尔布斯作品混淆，那幅作品原本配有一幅亨利四世的肖像对画，如今对画已经散佚，也无法和这幅对应上。有研究者推测，它或许原本来自玛丽王后自己的卢森堡宫，辗转之后才来到这里。\n\n无论身世如何，这幅作品完整保留了17世纪初仪典肖像的创作传统，帮我们直观感受了三百多年前法国王室的权力气质。这幅作品现在陈列在黎塞留馆803厅，也就是展示1600年前后佛兰德斯绘画的展厅。",
+  "narrationSource": "translated",
+  "frenchBrief": "Marie de Médicis (1573-1642), reine de France, régente de 1610 à 1614\n\nDate de création/fabrication : 1e quart du XVIIe siècle (1600 - 1625)\n\nhuile sur toile\n\nTypique portrait d’apparat dans la tradition italo-espagnole de la fin du XVIe s. (voir Mor, Pulzone, Sanchez Coello, etc.) avec une insistance marquée sur la dignité monarchique (couronne, habit fleurdelisé, dais), et pouvant de ce fait impliquer une datation postérieure à la mort du roi (1610).  Tableau d’origine incertaine, sa première mention ne remontant qu’à 1815 et son histoire antérieure reposant essentiellement sur la mention, toujours reprise depuis Chennevières, que Sauval (1623-1676), auteur publié en 1724 (t. II, p. 38, t. III, p. 20), est seul à faire, d’une Marie de Médicis de Pourbus dans la Petite galerie du Louvre, un Pourbus curieusement isolé au sein d’un ensemble de portraits de rois et de reines de France peints par Bunel selon un contrat de 1607, d’autant que Sauval parle de figures grandeur nature flanquées de médaillons, parti tout à fait étranger à l’INV. 1710. Incertitude aussi sur la grande Marie de Pourbus, des coll. royales, inventoriée en 1690 puis en 1710 (cf. Engerand), avec un pendant, Henri IV, manière de Bunel (réputé disparu), et trop vite assimilée à l’INV. 1710 (Guiffrey, Michel, etc.). Le tableau aurait-il pu provenir d’un autre palais comme celui du Luxembourg qui appartenait à la reine ?\n\nLocalisation : Richelieu, [Peint] Salle 803 - La peinture flamande vers 1600"
+}

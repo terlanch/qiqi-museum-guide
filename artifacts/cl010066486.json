@@ -1,0 +1,33 @@
+{
+  "id": "cl010066486",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010066486",
+    "modified": "2026-01-17"
+  },
+  "titleFr": "Napoléon sur le champ de Bataille d'Eylau (9 février 1807)",
+  "titleZh": "《拿破仑在艾劳战场（1807年2月9日）》",
+  "location": {
+    "wingKey": "denon",
+    "wingZh": "德农馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "700",
+    "galleryLabel": "700 号展厅",
+    "roomFr": "Salle 700, Aile Aile Denon, Niveau 1",
+    "currentLocationFr": "Denon, [Peint] Salle 700 - Salle Mollien, romantisme"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "INV 5067",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "MR 1783",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您看到的这幅作品，是法国新古典主义画家创作的《拿破仑在埃劳战场上，1807年2月9日》。\n\n这幅油画完成于19世纪第一个十年的1808年，是以油彩绘制在画布上的历史题材作品。画面定格了拿破仑前往普鲁士埃劳战场视察的场景，整体是一片冬季雪景。\n\n画面中心，拿破仑骑在马上，手臂向前伸出，周身环绕着御医和元帅。前景雪层下堆叠着战死士兵的遗体，还有一名重伤者在雪地里挣扎。左侧一名立陶宛士兵被外科医生珀西搀扶着，正和拿破仑说话，另一名伤兵俯身亲吻拿破仑的马靴。画面右侧，元帅缪拉骑在一匹昂头盘旋的黑马上，身姿挺拔，和前景凌乱的伤亡形成了强烈的视觉反差。\n\n画家没有刻意渲染胜利的张扬，反而把开阔的战场做成了冷调的雪景底色，阴寒的雪色压过了本该鲜亮的军服色彩，整个画面的氛围压抑而沉重，把战争的残酷直接铺在观众眼前。\n\n和很多为统治者歌功颂德的战场画不同，这幅作品把胜利背后的死亡真实地放在前景，没有回避战争的代价，成为记录拿破仑时代战争面貌的重要作品。\n\n这幅作品现在陈列在德农馆的莫利恩厅，也就是700号浪漫主义绘画展厅，展墙柔和的光线，刚好能让你看清雪层下遗体的细节，也能读懂画家藏在胜利叙事里的冷思考。",
+  "narrationSource": "translated",
+  "frenchBrief": "Napoléon sur le champ de Bataille d'Eylau (9 février 1807)\n\nDate de création/fabrication : 1e quart du XIXe siècle (1808)\n\nhuile sur toile\n\nPaysage d'hiver. Napoléon, à cheval, le bras tendu, visite le champ de bataille d'Eylau. Il est entouré de médecins et de maréchaux. Un soldat lituanien, soutenu par le chirurgien Percy, lui parle. Un autre soldat blessé lui baise la jambe. À droite, le maréchal Murat, sur un cheval noir caracolant. Au premier plan, des corps de soldats entassés sous la neige dont un qui se débat.\n\nLocalisation : Denon, [Peint] Salle 700 - Salle Mollien, romantisme"
+}

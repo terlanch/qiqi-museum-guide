@@ -1,0 +1,33 @@
+{
+  "id": "cl020031791",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl020031791",
+    "modified": "2025-08-25"
+  },
+  "titleFr": "Portrait d'Henri II et de Catherine de Médicis",
+  "titleZh": "《亨利二世与凯瑟琳·德·美第奇肖像》",
+  "location": {
+    "wingKey": "unknown",
+    "wingZh": "馆区未识别",
+    "floor": "",
+    "floorLabel": "",
+    "gallery": "",
+    "galleryLabel": "",
+    "roomFr": "",
+    "currentLocationFr": "Grand format"
+  },
+  "collectionFr": "Département des Arts graphiques",
+  "inventory": [
+    {
+      "value": "RF 29713, Recto",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "vol.26, p.86",
+      "type": "Référence de l'inventaire manuscrit"
+    }
+  ],
+  "narrationZh": "现在您面前看到的，是卢浮宫版画素描部收藏的大幅面作品《亨利二世与凯瑟琳·德·美第奇肖像》。\n\n这件是卢浮宫平面艺术藏品中的一件大幅作品，材质为纸上作品，因年代久远，画面左边缘有轻微撕裂，中部和下半部分留有受潮形成的斑痕，这些痕迹也是作品流传历程的真实印记。\n\n作品是法国君主亨利二世与他的王后凯瑟琳·德·美第奇的双人肖像，作为大尺寸的纸上肖像作品，它不同于墙面悬挂的油画，更能体现宫廷肖像创作过程中，草稿或是定制肖像原本的样式细节。这类大幅的双人肖像纸上作品，大多是为大型油画、挂毯或是宫廷纪念章提供创作底本，线条的起落比完成后的成品更能透露创作的思路。\n\n从留存的样貌来看，这件作品保留了纸本创作最本真的状态，没有后期画布创作的多层油色修饰，创作者对人物轮廓的勾勒，对人物服饰纹理的初步安排，都直接呈现在纸面上。如果凑近观察，还能感受到当年创作者处理两人构图关系时的整体考量，君主与王后的位置安排既符合宫廷礼制的要求，又保留了平面构图的平衡感。\n\n作为留存至今的法国十六世纪宫廷核心人物的肖像原作，这件作品为研究当时的宫廷肖像创作流程，提供了不可多得的实物材料，也让我们能隔着数百年时光，直接触摸到那个时代艺术创作最初的样子。\n\n这件作品收藏于卢浮宫版画素描部，作为大尺寸纸本藏品，它多数时候会被妥善保管，也会定期面向公众展出，让到访者得以窥见早期法国宫廷肖像创作的真容。",
+  "narrationSource": "generated",
+  "frenchBrief": "Portrait d'Henri II et de Catherine de Médicis\n\nLégère déchirure au bord gauche, taches d'humidité au centre et en bas.\n\nLocalisation : Grand format"
+}

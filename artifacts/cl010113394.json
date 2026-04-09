@@ -1,0 +1,29 @@
+{
+  "id": "cl010113394",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010113394",
+    "modified": "2026-03-15"
+  },
+  "titleFr": "Epée du sacre des rois de France",
+  "titleZh": "《法国国王加冕剑》",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "1",
+    "floorLabel": "1 层",
+    "gallery": "502",
+    "galleryLabel": "502 号展厅",
+    "roomFr": "Salle 502, Aile Aile Richelieu, Niveau 1",
+    "currentLocationFr": "Richelieu, [OArt] Salle 502 - Suger, Vitrine 30 - Épée du sacre"
+  },
+  "collectionFr": "Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes",
+  "inventory": [
+    {
+      "value": "MS 84",
+      "type": "Numéro principal"
+    }
+  ],
+  "narrationZh": "现在您面前这件藏品，是法国国王加冕礼佩剑。\n\n这件佩剑并非一次性整体制成，而是由不同时期的部件组合而成。剑柄顶端的柄首，制作于公元900年到1100年之间，两侧都雕刻着对称对置的飞鸟纹样，风格和10到11世纪的斯堪的纳维亚装饰十分接近。组成剑格的两个横挡是双翼龙造型，据风格判断，制作于12世纪，龙头的眼睛用青金石圆珠镶嵌，整体造型简练写意。包裹握柄的金质套筒制作于13到14世纪，表面布满菱形网格纹样。我们现在看到的剑身，则是18到19世纪更换的成品。整把佩剑以黄金和钢铁为主要材质，黄金剑格使用了花丝工艺，以细金属丝扭出细腻的纹理，和冷硬的钢铁剑身形成材质与色泽的对比。\n\n这件佩剑从中世纪开始，就是法国王室加冕仪式的重要礼器，很长时间都保存在圣德尼修道院的王室宝藏中。法国大革命之后，它和其他加冕礼器一同入藏卢浮宫。虽然经过多次修改、部件几经更换，它依然保留着中世纪装饰艺术的特征，是见证法国古代王权仪式的重要实物。\n\n现在，这件加冕礼佩剑陈列在黎塞留馆叙热厅502展厅的30号展柜中，供参观者近距离观赏。",
+  "narrationSource": "translated",
+  "frenchBrief": "Epée du sacre des rois de France\n\nEpoque / période : roman (Occident->moyen âge) ; gothique (Occident->moyen âge) (?) ; époque moderne = Ancien Régime (Occident) (?)  Date de création/fabrication : 900 - 1100 (pommeau) (attribution d'après style) et 1100 - 1200 (quillons ou garde (leur partie inférieure comporte peut-être une partie plus ancienne)) (attribution d'après style) et 1200 - 1400 (poignée ou fusée) et 1700 - 1900 (lame)\n\nMatériau/Technique : Or, filigranes, perles de lapis ou verre sombre (yeux des dragons) ; acier.       Matériau : or (garde) Technique : filigrané = filigrane (techniques métal) Matériau : acier (lame) Matériau : lapis-lazuli (perles)\n\nL'épée du sacre des rois de France est entrée au Louvre durant la Révolution française avec les autres instruments de cérémonie, auparavant conservés au trésor de l'abbaye de Saint-Denis.  L'épée est composée d'éléments très divers. Les deux faces du pommeau sont ornées d'un décor représentant des oiseaux affrontés, proches des ornements scandinaves des Xe et XIe siècles. Les deux quillons (formant la garde de l'épée) représentent des dragons ailés stylisés que l'on peut dater du XIIe siècle. La fusée d'or, couverte d'un réseau de losanges, semble dater du XIIIe ou du XIVe siècle. Le fourreau (inv. MS 84 BIS) a pu être réalisé pour l'épée ou indépendamment et lui être rattaché par la suite. Très modifiée, en particulier pour la lame, l'épée n'en demeure pas moins un témoignage de la somptuosité des instruments du sacre des rois de France.\n\nLocalisation : Richelieu, [OArt] Salle 502 - Suger, Vitrine 30 - Épée du sacre"
+}

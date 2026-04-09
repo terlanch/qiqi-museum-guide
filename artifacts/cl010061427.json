@@ -1,0 +1,33 @@
+{
+  "id": "cl010061427",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010061427",
+    "modified": "2026-01-19"
+  },
+  "titleFr": "La Bataille d'Issus, dit autrefois La Bataille d'Arbelles",
+  "titleZh": "《伊苏斯之战，旧称阿贝拉之战》",
+  "location": {
+    "wingKey": "richelieu",
+    "wingZh": "黎塞留馆",
+    "floor": "2",
+    "floorLabel": "2 层",
+    "gallery": "803",
+    "galleryLabel": "803 号展厅",
+    "roomFr": "Salle 803, Aile Aile Richelieu, Niveau 2",
+    "currentLocationFr": "Richelieu, [Peint] Salle 803 - La peinture flamande vers 1600"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "INV 1094",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "MR 596",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "这幅作品的通行中文译名为《伊苏斯之战》，过去曾长期被命名为《阿尔贝拉之战》。\n\n它创作于17世纪初，具体年份是1602年，是一幅绘制在木板上的油画，描绘的是公元前333年，亚历山大大帝在伊苏斯击败波斯国王大流士的著名战役。公元前331年大流士在阿尔贝拉的战败是之后的另一场战役，这幅作品画面右侧出现了被俘的大流士家属，只有伊苏斯战役后波斯王室才会被俘虏，因此我们可以确定这幅画描绘的是伊苏斯之战，而非阿尔贝拉之战。这个错误的命名从18世纪就开始出现，几经反复一直沿用到20世纪中期才得到纠正。\n\n整幅作品的尺寸是画家生平最大的作品之一，画面排布了数量惊人的人物形象，每一处细节都处理得精准娴熟，是画家公认的代表作。从技法上看，它带着晚期风格主义的典型特点，风格主义画家惯于在构图中排布大量动态人物，制造充满张力的视觉效果，这幅作品把这种特点推到了极致。密集的战斗人群没有丝毫杂乱，每一处衣甲的褶皱、兵器的反光、战马的动态都交代得清清楚楚，即使是远景里的微小士卒，轮廓也清晰利落。\n\n整个画面被战场的紧张动感填满，冲锋的骑步兵交错厮杀，从前景的近距离搏杀一直延伸到地平线尽头的烟尘，把古代大规模会战的混乱与冲击力完整托出。右侧被俘的波斯王室成员静立在动荡的战场背景中，不动的人群和整个画面的动势形成了巧妙的对比，一下子点出了伊苏斯战役“生擒波斯王室”这个关键节点。\n\n作为17世纪初弗兰德斯绘画的代表性作品，它既是风格主义晚期的收官式总结，也为后来巴洛克大型战争绘画开辟了道路。\n\n这幅作品现在陈列在卢浮宫黎塞留展区，803号展厅，专门展示1600年前后弗兰德斯绘画的区域。",
+  "narrationSource": "translated",
+  "frenchBrief": "La Bataille d'Issus, dit autrefois La Bataille d'Arbelles\n\nDate de création/fabrication : 1e quart du XVIIe siècle (1602)\n\nhuile sur bois\n\nVictoire d’Alexandre sur Darius, roi des Perses, à Issus (333 avant J.-C.), la défaite postérieure de Darius à Arbelles (331 avant J.-C.) étant à écarter à cause de la présence de la famille de Darius figurée ici à droite (les proches du roi perse tombés en captivité au lendemain de la bataille d’Issus ne pouvaient se trouver à Arbelles). Le titre inadéquat d’Arbelles qui apparaît dès le XVIIIe s. (Dezallier d’Argenville) n’est pas repris 1793, mais resurgit en 1799 (voir Hist.) pour persister au moins jusqu’en 1937 (comm. écrite de E. Bruley, cf. Michel). – Chef-d’œuvre de l’artiste par la taille (l’un de ses plus grands tableaux) et par la profusion virtuose des figures, dans une ultime démonstration de fantastique d’esprit maniériste.\n\nLocalisation : Richelieu, [Peint] Salle 803 - La peinture flamande vers 1600"
+}

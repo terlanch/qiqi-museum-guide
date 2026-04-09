@@ -1,0 +1,33 @@
+{
+  "id": "cl010060585",
+  "source": {
+    "url": "https://collections.louvre.fr/ark:/53355/cl010060585",
+    "modified": "2025-08-25"
+  },
+  "titleFr": "Entrée d'Alexandre dans Babylone",
+  "titleZh": "《亚历山大进入巴比伦》",
+  "location": {
+    "wingKey": "sully",
+    "wingZh": "叙利馆",
+    "floor": "2",
+    "floorLabel": "2 层",
+    "gallery": "914",
+    "galleryLabel": "914 号展厅",
+    "roomFr": "Salle 914, Aile Aile Sully, Niveau 2",
+    "currentLocationFr": "Sully, [Peint] Salle 914 - Charles Le Brun (1619-1690)"
+  },
+  "collectionFr": "Département des Peintures",
+  "inventory": [
+    {
+      "value": "INV 2898",
+      "type": "Numéro principal"
+    },
+    {
+      "value": "MR 1919",
+      "type": "Autre numéro d'inventaire"
+    }
+  ],
+  "narrationZh": "现在您看到的这幅作品，叫《亚历山大进入巴比伦》，出自法国17世纪画家夏尔·勒布伦之手。\n\n它创作于17世纪60年代中期，也就是1664到1665年左右，是一幅布面油画，收藏在卢浮宫的绘画部门。作品的题材是古代马其顿君主亚历山大征服巴比伦的历史事件，这也是西方绘画里非常经典的历史题材母题。\n\n作为法国皇家绘画雕塑学院的领头人，勒布伦在这幅作品里把古典历史画的构图逻辑发挥得非常充分。画家把入城的亚历山大放在画面视觉中心最醒目的位置，人群从中心向两侧自然散开，整体既保持了大场面的秩序感，又不会显得呆板僵硬。前景处错落安排的当地民众、不同动态的马匹，让整个入城场面有了清晰的空间层次，近大远小的透视把人群的喧闹和道路的纵深感都推了开去。\n\n整幅作品的氛围庄重宏阔，符合重大历史事件的叙事要求，也带着17世纪法国古典主义绘画典型的沉稳特质。勒布伦本人是路易十四时期法国宫廷美术的核心人物，这幅作品也清晰体现了那一时期法国官方美术的审美取向——对宏大历史叙事的偏爱，对规整构图与清晰叙事的追求。\n\n这幅作品现在陈列在卢浮宫叙利馆二层的914号展厅，来这里参观古典法国绘画的话，不妨停下脚步，看一看17世纪法国学院派绘画的典型样貌。",
+  "narrationSource": "generated",
+  "frenchBrief": "Entrée d'Alexandre dans Babylone\n\nDate de création/fabrication : 3e quart du XVIIe siècle (vers 1664 - 1665)\n\nhuile sur toile\n\nLocalisation : Sully, [Peint] Salle 914 - Charles Le Brun (1619-1690)"
+}
