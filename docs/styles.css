@@ -346,6 +346,21 @@ html.access-pre .access-gate {
   color: #e07a7a;
 }
 
+.access-gate__expired {
+  margin-top: 0.5rem;
+  font-size: 0.92rem;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.access-gate__expired strong {
+  color: var(--text);
+}
+
+.access-gate__merchant {
+  font-weight: 600;
+}
+
 #app-shell[hidden] {
   display: none !important;
 }

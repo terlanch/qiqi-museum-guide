@@ -8,3 +8,7 @@ venv/
 # 全量馆藏 JSON 镜像（体积巨大，勿提交）
 data/louvre_json/
 data/louvre_ark_ids.txt
+
+# 验证码明文（仅本地/发买家；公开站只部署 SHA-256 哈希）
+config/private/access_codes_plaintext.txt
+config/private/*_plaintext*.txt

@@ -8,9 +8,12 @@
     <script>
       (function () {
         try {
-          if (sessionStorage.getItem("louvre_access_v1") === "1") {
-            document.documentElement.classList.add("access-pre");
-          }
+          if (sessionStorage.getItem("louvre_access_v1") !== "1") return;
+          var exp = sessionStorage.getItem("louvre_access_expires");
+          if (!exp) return;
+          var end = new Date(exp + "T23:59:59.999").getTime();
+          if (Date.now() > end) return;
+          document.documentElement.classList.add("access-pre");
         } catch (e) {}
       })();
     </script>
@@ -28,22 +31,40 @@
         <p class="access-gate__hint">
           请输入 16 位验证码（区分大小写）。验证通过后，同一浏览器会话内无需再次输入。
         </p>
-        <div class="access-gate__row">
-          <input
-            id="access-code-input"
-            type="text"
-            inputmode="text"
-            autocomplete="off"
-            autocorrect="off"
-            autocapitalize="off"
-            spellcheck="false"
-            maxlength="24"
-            placeholder="16 位验证码"
-            aria-describedby="access-code-err"
-          />
-          <button type="button" id="access-code-submit">进入</button>
+        <div id="access-gate-form">
+          <div class="access-gate__row">
+            <input
+              id="access-code-input"
+              type="text"
+              inputmode="text"
+              autocomplete="off"
+              autocorrect="off"
+              autocapitalize="off"
+              spellcheck="false"
+              maxlength="24"
+              placeholder="16 位验证码"
+              aria-describedby="access-code-err"
+            />
+            <button type="button" id="access-code-submit">进入</button>
+          </div>
+          <p class="access-gate__err" id="access-code-err" hidden></p>
         </div>
-        <p class="access-gate__err" id="access-code-err" hidden></p>
+        <div id="access-gate-expired" class="access-gate__expired" hidden>
+          <p>
+            本批验证码已于 <strong id="access-expired-date"></strong> 截止使用。
+          </p>
+          <p>如需延期或新码，请咨询商家：</p>
+          <p>
+            <a
+              id="access-merchant-link"
+              class="access-gate__merchant"
+              href="https://xhslink.com/m/9XCmYeaBoVu"
+              target="_blank"
+              rel="noopener noreferrer"
+              >小红书 · 联系商家</a
+            >
+          </p>
+        </div>
       </div>
     </div>
 
