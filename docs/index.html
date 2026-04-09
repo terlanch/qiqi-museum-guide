@@ -5,8 +5,49 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>卢浮宫馆藏 · 语音讲解</title>
     <link rel="stylesheet" href="./styles.css" />
+    <script>
+      (function () {
+        try {
+          if (sessionStorage.getItem("louvre_access_v1") === "1") {
+            document.documentElement.classList.add("access-pre");
+          }
+        } catch (e) {}
+      })();
+    </script>
   </head>
   <body>
+    <div
+      id="access-gate"
+      class="access-gate"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="access-gate-title"
+    >
+      <div class="access-gate__panel">
+        <h2 id="access-gate-title">访问验证</h2>
+        <p class="access-gate__hint">
+          请输入 16 位验证码（区分大小写）。验证通过后，同一浏览器会话内无需再次输入。
+        </p>
+        <div class="access-gate__row">
+          <input
+            id="access-code-input"
+            type="text"
+            inputmode="text"
+            autocomplete="off"
+            autocorrect="off"
+            autocapitalize="off"
+            spellcheck="false"
+            maxlength="24"
+            placeholder="16 位验证码"
+            aria-describedby="access-code-err"
+          />
+          <button type="button" id="access-code-submit">进入</button>
+        </div>
+        <p class="access-gate__err" id="access-code-err" hidden></p>
+      </div>
+    </div>
+
+    <div id="app-shell" hidden>
     <header class="hero">
       <h1>卢浮宫馆藏语音讲解</h1>
     </header>
@@ -42,7 +83,8 @@
 
       <section id="results" class="results" aria-live="polite"></section>
     </main>
+    </div>
 
-    <script src="./app.js"></script>
+    <script src="./gate.js"></script>
   </body>
 </html>

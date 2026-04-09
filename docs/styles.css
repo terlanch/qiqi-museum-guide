@@ -255,3 +255,101 @@ code {
   padding: 0.1em 0.35em;
   border-radius: 4px;
 }
+
+/* 访问验证码门禁 */
+.access-gate {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.25rem;
+  background: radial-gradient(1200px 600px at 20% -10%, #1a2233, var(--bg));
+}
+
+html.access-pre .access-gate {
+  display: none !important;
+}
+
+.access-gate__panel {
+  width: 100%;
+  max-width: 26rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.5rem 1.35rem 1.35rem;
+  box-shadow: 0 24px 48px rgba(0, 0, 0, 0.35);
+}
+
+.access-gate__panel h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1.35rem;
+  font-weight: 650;
+}
+
+.access-gate__hint {
+  margin: 0 0 1.1rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.access-gate__row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  align-items: stretch;
+}
+
+.access-gate__row input {
+  flex: 1 1 12rem;
+  min-width: 0;
+  padding: 0.65rem 0.75rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: #12151c;
+  color: var(--text);
+  font-size: 1rem;
+  font-family: ui-monospace, "Cascadia Code", monospace;
+  letter-spacing: 0.04em;
+}
+
+.access-gate__row input:focus {
+  outline: 2px solid var(--focus);
+  outline-offset: 1px;
+}
+
+.access-gate__row button {
+  padding: 0.65rem 1.1rem;
+  border-radius: 8px;
+  border: 1px solid var(--accent);
+  background: rgba(201, 162, 39, 0.12);
+  color: var(--accent);
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.access-gate__row button:hover {
+  background: rgba(201, 162, 39, 0.2);
+}
+
+.access-gate__row button:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.access-gate__err {
+  margin: 0.85rem 0 0;
+  font-size: 0.88rem;
+  color: #e07a7a;
+}
+
+#app-shell[hidden] {
+  display: none !important;
+}
+
+html.access-pre #app-shell {
+  display: block !important;
+}
